@@ -8,25 +8,23 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: I can't remember where I read it...
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: An online collection of post-it notes
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Adrian Banks
+  email: contact@adrianbanks.co.uk
+  github: adrianbanks
+  twitter: adrianbanks  
+  bio: An online collection of post-it notes
+  email_md5: 6DE17B18A71B8B65B7FDDFCE827F123F
 
 rss_path: feed.xml
 categories_path: categories.html
