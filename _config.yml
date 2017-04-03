@@ -16,7 +16,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: An online collection of post-it notes
+      title: memory.Jog()
 
 description: Stylish Jekyll Theme
 author:
