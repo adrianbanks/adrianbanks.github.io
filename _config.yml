@@ -9,6 +9,7 @@ markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
 title: I can't remember where I read it...
+repository: adrianbanks/adrianbanks.github.io
 
 defaults:
   -
