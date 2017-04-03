@@ -139,6 +139,15 @@ article.home h4 a:hover {
 	color: #e74c3c;
 }
 
+article div a {
+    border-bottom: 1px dashed #000000;
+}
+
+article div a:hover {
+	border: 0;
+    background-color: #e6e6e6;
+}
+
 .author .author-image {
   float: left;
   margin-right: 20px;
