@@ -23,4 +23,4 @@ The error was: “No DNS servers configured for local system.” (error code 0×
 The query was for the SRV record for _ldap._tcp.dc._msdcs.[domain]”
 </pre>
 
-After puzzling for ages as to why it wasn’t happy, I checked my IP settings and found the problem. Somehow, the IP settings had changed to a specified IP address instead of using DHCP. Changing thm back solved the problem straight away.
+After puzzling for ages as to why it wasn’t happy, I checked my IP settings and found the problem. Somehow, the IP settings had changed to a specified IP address instead of using DHCP. Changing them back solved the problem straight away.
