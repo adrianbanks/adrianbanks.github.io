@@ -6,7 +6,7 @@ tags: [aspnet, dotnet, error]
 fullview: true
 ---
 
-Chris Sells [posted](http://www.sellsbrothers.com/news/showTopic.aspx?ixTopic=1995) a useful tip (courtesy of Scott Guthrie) about duplicate types when compiling using the web application project model in VS2005.
+Chris Sells [posted a useful tip](http://www.sellsbrothers.com/news/showTopic.aspx?ixTopic=1995) (courtesy of Scott Guthrie) about duplicate types when compiling using the web application project model in Visual Studio 2005.
 
 The error displays as:
 
@@ -30,4 +30,4 @@ The solution is simply (although not obviously) to add the `batch="false"` attri
 
 This generates a lot fewer assemblies and avoids the problem.
 
-**Update:** According to Mike Harder (a Software Design Engineer on the ASP.NET team) in his recent [post](http://forums.asp.net/thread/1312617.aspx) on the ASP.Net forums, this is a known bug in the ASP.Net compiler involving directory level circular references. An alternative fix to the batch="false" option is to reorganise the files in the web application to avoid a circular reference.
+**Update:** According to Mike Harder (a Software Design Engineer on the ASP.NET team) in his recent [post on the ASP.Net forums](http://forums.asp.net/thread/1312617.aspx), this is a known bug in the ASP.Net compiler involving directory level circular references. An alternative fix to the `batch="false"` option is to reorganise the files in the web application to avoid a circular reference.

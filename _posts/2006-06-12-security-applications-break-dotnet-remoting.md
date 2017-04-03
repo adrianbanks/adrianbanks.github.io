@@ -6,7 +6,7 @@ tags: [dotnet, remoting]
 fullview: true
 ---
 
-Jamie Cansdale from TestDriven.Net [posted](http://weblogs.asp.net/nunitaddin/archive/2006/06/07/Security-Apps-Break-.NET-2.0-Remoting.aspx) about certain security software breaking remoting with .Net 2.0. He also includes a downloadable example to demonstrate the problem.
+Jamie Cansdale from TestDriven.Net [posted about certain security software breaking remoting with .Net 2.0](http://weblogs.asp.net/nunitaddin/archive/2006/06/07/Security-Apps-Break-.NET-2.0-Remoting.aspx). He also includes a downloadable example to demonstrate the problem.
 
 The current list of culprits is:
 
@@ -33,4 +33,4 @@ The stack trace of the error is:
 
 I tried the sample code as described with NOD32, remoting to both localhost and to a separate PC but could not get the behaviour.
 
-**Update:** Jon Cole from Microsoft has [posted](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=273738&SiteID=1) on the MSDN forums verifying that this is indeed a bug, and that it should be fixed in the next release.
+**Update:** Jon Cole from Microsoft has [posted on the MSDN forums](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=273738&SiteID=1) verifying that this is indeed a bug, and that it should be fixed in the next release.
