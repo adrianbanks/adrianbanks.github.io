@@ -16,7 +16,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: memory.Jog()
+      title: memory.Refresh()
 
 description: Stylish Jekyll Theme
 author:
