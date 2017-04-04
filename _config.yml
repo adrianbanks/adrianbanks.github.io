@@ -21,7 +21,6 @@ defaults:
 description: Stylish Jekyll Theme
 author:
   name: Adrian Banks
-  email: contact@adrianbanks.co.uk
   github: adrianbanks
   twitter: adrianbanks  
   bio: An online collection of post-it notes
@@ -29,6 +28,7 @@ author:
 
 rss_path: feed.xml
 about_path: about.html
+contact_path: contact.html
 categories_path: categories.html
 tags_path: tags.html
 
