@@ -28,6 +28,7 @@ author:
   email_md5: 6de17b18a71b8b65b7fddfce827f123f
 
 rss_path: feed.xml
+about_path: about.html
 categories_path: categories.html
 tags_path: tags.html
 
