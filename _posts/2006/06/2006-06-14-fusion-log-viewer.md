@@ -28,6 +28,6 @@ If you want to view the fusion logs easily, set the LogPath to a directory to ou
 
 Once you have configured the relevant logging options, running the .Net application will generation the fusion logs. Once generated, the logs can be viewed using the `fuslogvw.exe` tool that comes as part of the framework SDK (mine was inside the SDK folder inside Visual Studio's installation folder). I found that either the 1.1 or 2.0 version will work, but the 2.0 version is a little better as it has a few more options in the GUI:
 
-![Fusion log viewer]({{ site.url }}/assets/media/images/fusion-log-viewer.gif)
+![Fusion log viewer]({{ site.url }}/assets/media/images/2006/06/fusion-log-viewer.gif)
 
 To view a specific log, choose it from the main section and click the view log button. The log will open in an internet browser showing the assembly binding details.
