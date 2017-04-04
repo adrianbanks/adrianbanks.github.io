@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2006-07-10 00:10:00
 title: The perils of sp_rename
 categories: [sql-server]
 tags: [sql-server, sql, sp_rename]
