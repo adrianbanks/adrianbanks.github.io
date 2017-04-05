@@ -8,7 +8,7 @@ fullview: true
 
 I've been doing a lot of HTML and CSS recently, and checking that pages appear and behave the same in different browsers can be a bit of a pain. Fortunatley, there are several toolbars that can be used to make this process easier.
 
-### Internet Explorer
+#### Internet Explorer
 
 - [Developer Toolbar](http://www.microsoft.com/downloads/details.aspx?FamilyID=E59C3964-672D-4511-BB3E-2D5E1DB91038&displaylang=en)  
 This is a toolbar for Internet Explorer versions 6 and 7 that adds a DOM and CSS explorer and editor, as well as tools for viewing pages structures and various type of validation.
@@ -16,7 +16,7 @@ This is a toolbar for Internet Explorer versions 6 and 7 that adds a DOM and CSS
 - [Web Development Helper](http://www.nikhilk.net/Project.WebDevHelper.aspx)  
 This is similar to the Developer Toolbar above, but geared more for ASP.Net. It features several browsers for view state, caches, header and response details and call stacks, as well as a DOM explorer.
 
-### Firefox
+#### Firefox
 - [Firebug](http://www.getfirebug.com) ([also here](https://addons.mozilla.org/en-US/firefox/addon/1843))  
 This is an extension that adds a CSS, HTML, Javascript and DOM monitor and editor to the browser, as well as a request monitor and a element inspector.
 
@@ -47,7 +47,7 @@ This extension is a rewrite of the IE View extension above, but written to be mo
 - [Opera View](http://operaview.mozdev.org) ([also here](https://addons.mozilla.org/en-US/firefox/addon/1429))  
 This extension is similar to the IE View extension above, but will open pages in Opera instead of Internet Explorer.
 
-### Opera
+#### Opera
 
 - [Web Development Toolbar & Menu](http://operawiki.info/WebDevToolbar)  
 This toolbar and menu set add a set of menus and a toolbar. The menus contain quick links directlry to HTML, CSS, DOM, JS and Unicode reference information. The toolbar adds tools for inspecting page contents, validation, page source viewers and form manipulation.
