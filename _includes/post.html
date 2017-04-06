@@ -16,59 +16,45 @@
 	   {% endcase %}
 	   {{ page.date | date: "%Y" }}
 	 </span>
+	 
 	  <div class="article_body">
 	  {{ content }}
 	  </div>
 
 		{% unless page.categories == empty %}
-		<ul class="tag_box list-unstyled list-inline">
-		  <li><i class="fa fa-folder-open"></i></li>
+			<div>
 		  {% assign categories_list = page.categories %}
 		  {% if categories_list.first[0] == null %}
 			{% for category in categories_list %} 
-				<li><a href="{{ site.BASE_PATH }}/{{ site.categories_path }}#{{ category }}-ref">
-					{{ category | join: "/" }} <span>({{ site.categories[category].size }})</span>
-					{% unless forloop.last %},{% endunless %}
-				</a></li>
+			  <i class="fa fa-folder-open"></i>
+				<a href="{{ site.BASE_PATH }}/{{ site.categories_path }}#{{ category }}-ref">{{ category | join: "/" }}</a>
 			{% endfor %}
 		  {% else %}
 			{% for category in categories_list %} 
-				<li><a href="{{ site.BASE_PATH }}/{{ site.categories_path }}#{{ category[0] }}-ref">
-					{{ category[0] | join: "/" }} <span>/{{ category[1].size }})</span>
-				</a></li>
+			  <i class="fa fa-folder-open"></i>
+				<a href="{{ site.BASE_PATH }}/{{ site.categories_path }}#{{ category[0] }}-ref">{{ category[0] | join: "/" }}</a>
 			{% endfor %}
 		  {% endif %}
-		</ul>
+			</div>
 		{% endunless %}  
 
 		{% unless page.tags == empty %}
-		<ul class="list-inline">
-		  <li><i class="fa fa-tags"></i></li>
+			<div>
 		  {% assign tags_list = page.tags %}
 		  {% if tags_list.first[0] == null %}
 			{% for tag in tags_list %} 
-				<li>
-					<a href="{{ site.BASE_PATH }}/{{ site.tags_path }}#{{ tag }}-ref">
-					{{ tag }} <span>({{ site.tags[tag].size }})</span>
-					{% unless forloop.last %},{% endunless %}
-					</a>
-				</li>
+				<i class="fa fa-tags"></i>
+				<a href="{{ site.BASE_PATH }}/{{ site.tags_path }}#{{ tag }}-ref">{{ tag }}</a>&nbsp;
 			{% endfor %}
 		  {% else %}
 			{% for tag in tags_list %} 
-				<li>
-					<a href="{{ site.BASE_PATH }}/{{ site.tags_path }}#{{ tag[0] }}-ref">
-						{{ tag[0] }} <span>({{ tag[1].size }})</span>
-						{% unless forloop.last %},{% endunless %}
-					</a>
-				</li>
-		   	
+				<i class="fa fa-tags"></i>
+				<a href="{{ site.BASE_PATH }}/{{ site.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }}</a>&nbsp;
 			{% endfor %}
 		  {% endif %}
 		  {% assign tags_list = nil %}
-		</ul>
+			</div>
 		{% endunless %}  
-
 		<hr>
 
 		<div>
