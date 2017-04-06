@@ -20,45 +20,49 @@
 	  {{ content }}
 	  </div>
 
-		{% unless page.categories == empty %}
-			<div>
-		  {% assign categories_list = page.categories %}
-		  {% if categories_list.first[0] == null %}
-			{% for category in categories_list %} 
-			  <i class="fa fa-folder-open"></i>
-				<a href="{{ site.BASE_PATH }}/{{ site.categories_path }}#{{ category }}-ref">{{ category | join: "/" }}</a>
-			{% endfor %}
-		  {% else %}
-			{% for category in categories_list %} 
-			  <i class="fa fa-folder-open"></i>
-				<a href="{{ site.BASE_PATH }}/{{ site.categories_path }}#{{ category[0] }}-ref">{{ category[0] | join: "/" }}</a>
-			{% endfor %}
-		  {% endif %}
-			</div>
-		{% endunless %}  
-
-		{% unless page.tags == empty %}
-			<div>
-		  {% assign tags_list = page.tags %}
-		  {% if tags_list.first[0] == null %}
-			{% for tag in tags_list %} 
-				<i class="fa fa-tags"></i>
-				<a href="{{ site.BASE_PATH }}/{{ site.tags_path }}#{{ tag }}-ref">{{ tag }}</a>&nbsp;
-			{% endfor %}
-		  {% else %}
-			{% for tag in tags_list %} 
-				<i class="fa fa-tags"></i>
-				<a href="{{ site.BASE_PATH }}/{{ site.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }}</a>&nbsp;
-			{% endfor %}
-		  {% endif %}
-		  {% assign tags_list = nil %}
-			</div>
-		{% endunless %}  
 		<hr>
 
 		<div>
+			<section class="col-sm-6">
+				{% unless page.categories == empty %}
+					<div>
+					{% assign categories_list = page.categories %}
+					{% if categories_list.first[0] == null %}
+					{% for category in categories_list %} 
+						<i class="fa fa-folder-open"></i>
+						<a href="{{ site.BASE_PATH }}/{{ site.categories_path }}#{{ category }}-ref">{{ category | join: "/" }}</a>
+					{% endfor %}
+					{% else %}
+					{% for category in categories_list %} 
+						<i class="fa fa-folder-open"></i>
+						<a href="{{ site.BASE_PATH }}/{{ site.categories_path }}#{{ category[0] }}-ref">{{ category[0] | join: "/" }}</a>
+					{% endfor %}
+					{% endif %}
+					</div>
+					<br/>
+				{% endunless %}  
+
+				{% unless page.tags == empty %}
+					<div>
+					{% assign tags_list = page.tags %}
+					{% if tags_list.first[0] == null %}
+					{% for tag in tags_list %} 
+						<i class="fa fa-tags"></i>
+						<a href="{{ site.BASE_PATH }}/{{ site.tags_path }}#{{ tag }}-ref">{{ tag }}</a>&nbsp;
+					{% endfor %}
+					{% else %}
+					{% for tag in tags_list %} 
+						<i class="fa fa-tags"></i>
+						<a href="{{ site.BASE_PATH }}/{{ site.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }}</a>&nbsp;
+					{% endfor %}
+					{% endif %}
+					{% assign tags_list = nil %}
+					</div>
+				{% endunless %}  
+			</section>
+
       <section class="share col-sm-6">
-        <h4 class="section-title">Share Post</h4>
+        <h6 class="section-title">Share Post</h6>
         <a class="btn btn-default btn-sm twitter" href="http://twitter.com/share?text={{page.title | encode}}{% if site.author.twitter%}&via={{site.author.twitter}}{% endif %}"
            onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
           <i class="fa fa-twitter fa-lg"></i>
@@ -74,12 +78,6 @@
           <i class="fa fa-google-plus fa-lg"></i>
           Google+
         </a>
-      </section>
-
-      <section class="col-sm-6 author">
-        <img src="//www.gravatar.com/avatar/{{site.author.email_md5}}" class="img-rounded author-image" />
-        <h4 class="section-title author-name">{{site.author.name}}</h4>
-        <p class="author-bio">{{site.author.bio}}</p>
       </section>
     </div>
 
@@ -97,12 +95,7 @@
 			<li class="next disabled"><a>Next &rarr;</a>
 		  {% endif %}
 		</ul>
-
-		<hr>
-	</div>
-	
-	<div class="col-sm-2 sidebar-2">
-	
 	</div>
 </article>
+
 <div class="clearfix"></div>
