@@ -225,3 +225,8 @@ blockquote p {
 .share h6 {
 	margin-top: 0;
 }
+
+pre.stacktrace {
+	white-space: pre;
+	overflow-y: scroll;
+}

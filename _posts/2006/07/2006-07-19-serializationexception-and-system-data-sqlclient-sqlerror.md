@@ -11,7 +11,7 @@ When remoting, it’s possible to get a strange exception if a `SQLException` oc
 
 The stack trace of the error is:
 
-<pre>
+<pre class="stacktrace">
 Exception: System.Runtime.Serialization.SerializationException  
 Message: Member name ‘System.Data.SqlClient.SqlError server’ not found.  
 
@@ -36,7 +36,7 @@ Microsoft has two knowledge base articles, [KB884871](http://support.microsoft.c
 
 The hotfix solves the problem, but then stops old SqlError types from being deserialised, resulting in the exception:
 
-<pre>
+<pre class="stacktrace">
 Exception: System.Runtime.Serialization.SerializationException
 Message: Wrong number of Members. Object System.Data.SqlClient.SqlError has 8 members, number of members deserialized is 7.
 

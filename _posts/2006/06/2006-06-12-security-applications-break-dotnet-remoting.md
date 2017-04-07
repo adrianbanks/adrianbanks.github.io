@@ -22,14 +22,15 @@ The error occurs whenever a .Net TCP remoting channel is closed. Perculiarly, th
 
 The stack trace of the error is:
 
-> Exception: System.AccessViolationException
-> 
-> Message: Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
-> 
-> Server stack trace:  
->   at System.Net.UnsafeNclNativeMethods.OSSOCK.WSAGetOverlappedResult(SafeCloseSocket socketHandle, IntPtr overlapped, UInt32& bytesTransferred, Boolean wait, IntPtr ignored)  
->   at System.Net.Sockets.BaseOverlappedAsyncResult.CompletionPortCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* nativeOverlapped)  
->   at System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* pOVERLAP)  
+<pre class="stacktrace">
+Exception: System.AccessViolationException
+Message: Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+
+Server stack trace:  
+at System.Net.UnsafeNclNativeMethods.OSSOCK.WSAGetOverlappedResult(SafeCloseSocket socketHandle, IntPtr overlapped, UInt32& bytesTransferred, Boolean wait, IntPtr ignored)  
+at System.Net.Sockets.BaseOverlappedAsyncResult.CompletionPortCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* nativeOverlapped)  
+at System.Threading._IOCompletionCallback.PerformIOCompletionCallback(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* pOVERLAP)  
+</pre>
 
 I tried the sample code as described with NOD32, remoting to both localhost and to a separate PC but could not get the behaviour.
 
