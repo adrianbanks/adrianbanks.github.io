@@ -2,7 +2,7 @@
 layout: post
 title: Suppressing FxCop message
 categories: [dotnet]
-tags: [dotnet, fxcop]
+tags: [dotnet, csharp, fxcop]
 fullview: true
 ---
 

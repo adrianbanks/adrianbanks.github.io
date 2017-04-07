@@ -3,7 +3,7 @@ layout: post
 date: 2007-02-08 00:10:00
 title: Testing applications in different cultures
 categories: [dotnet]
-tags: [dotnet, localisation]
+tags: [dotnet, localisation, internationalisation, globalisation]
 fullview: true
 ---
 

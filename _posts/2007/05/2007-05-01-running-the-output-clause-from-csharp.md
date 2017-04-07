@@ -2,7 +2,7 @@
 layout: post
 title: Running the OUTPUT clause from C#
 categories: [dotnet]
-tags: [dotnet, sql-server, output-clause]
+tags: [dotnet, csharp, sql-server, output-clause]
 fullview: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: AssemblyFileVersion compiler warning
 categories: [dotnet]
-tags: [dotnet]
+tags: [dotnet, csharp]
 fullview: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: DNS error when adding a computer to a domain
 categories: [windows]
-tags: [windows, domain, dhcp, error]
+tags: [windows, domain, dhcp, dns]
 fullview: true
 comments: true
 ---

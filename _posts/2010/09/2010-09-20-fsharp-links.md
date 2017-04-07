@@ -2,7 +2,7 @@
 layout: post
 title: F# links
 categories: [fsharp]
-tags: [fsharp]
+tags: [fsharp, dotnet]
 fullview: true
 ---
 

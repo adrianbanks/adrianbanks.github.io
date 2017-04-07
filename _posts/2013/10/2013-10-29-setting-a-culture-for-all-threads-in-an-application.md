@@ -2,7 +2,7 @@
 layout: post
 title: Setting a culture for all threads in an application
 categories: [dotnet]
-tags: [dotnet, localisation]
+tags: [dotnet, localisation, internationalisation, threading, globalisation, dotnet-4.5]
 fullview: true
 ---
 

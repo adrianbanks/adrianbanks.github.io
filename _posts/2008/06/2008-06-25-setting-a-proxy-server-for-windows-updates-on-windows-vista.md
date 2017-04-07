@@ -2,7 +2,7 @@
 layout: post
 title: Setting a proxy server for Windows updates on Windows Vista
 categories: [windows]
-tags: [windows, windows-updates, proxy-server]
+tags: [windows, windows-updates, proxy]
 fullview: true
 ---
 

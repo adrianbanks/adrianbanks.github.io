@@ -2,7 +2,7 @@
 layout: post
 title: SQL Server SP3 released
 categories: [sql-server]
-tags: [sql-server]
+tags: [sql-server, kb, sql-server-2005]
 fullview: true
 ---
 

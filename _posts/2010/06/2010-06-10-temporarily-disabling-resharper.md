@@ -2,7 +2,7 @@
 layout: post
 title: Temporarily disabling ReSharper
 categories: [resharper]
-tags: [resharper, visual-studio]
+tags: [resharper, dotnet, visual-studio]
 fullview: true
 ---
 

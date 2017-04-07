@@ -2,7 +2,7 @@
 layout: post
 title: Building solutions without Visual Studio
 categories: [visual-studio]
-tags: [visual-studio, compilation]
+tags: [dotnet, csharp, visual-studio, msbuild]
 fullview: true
 ---
 

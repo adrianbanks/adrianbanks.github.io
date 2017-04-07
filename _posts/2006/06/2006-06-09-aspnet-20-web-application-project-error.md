@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ASP.Net 2.0 web application project error
-categories: [aspnet, dotnet]
-tags: [aspnet, dotnet, error]
+categories: [aspnet]
+tags: [aspnet, dotnet]
 fullview: true
 ---
 

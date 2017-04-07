@@ -2,7 +2,7 @@
 layout: post
 title: Alternatives to .Net Reflector
 categories: [dotnet]
-tags: [dotnet, reflector, decompilation]
+tags: [dotnet, csharp, reflector, decompilation]
 fullview: true
 ---
 

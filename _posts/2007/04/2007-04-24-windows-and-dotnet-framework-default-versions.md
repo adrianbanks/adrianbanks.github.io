@@ -2,7 +2,7 @@
 layout: post
 title: Windows and .Net framework default versions
 categories: [dotnet]
-tags: [dotnet, framework]
+tags: [dotnet, windows]
 fullview: true
 ---
 
