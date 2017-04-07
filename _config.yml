@@ -6,7 +6,7 @@ paginate_path: "page:num"
 highlighter: rouge
 markdown: kramdown
 disqus: dbyll
-google_analytics: dbyll
+google_analytics: UA-1997415-1
 title: I can't remember where I read it...
 repository: adrianbanks/adrianbanks.github.io
 
@@ -31,7 +31,6 @@ contact_path: contact.html
 categories_path: categories.html
 tags_path: tags.html
 
-# set it as url of an image
 sidebar_background_image: /assets/media/images/background.png
 
 BASE_PATH:
