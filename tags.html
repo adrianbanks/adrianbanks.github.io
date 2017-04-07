@@ -8,20 +8,19 @@ group: navigation
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
 
-
 <div class="col-sm-3 col-xs-6">
-    <ul class="nav nav-tabs-vertical cat-tag-menu">
-    {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-      {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+  <ul class="nav nav-tabs-vertical cat-tag-menu">
+  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
       <li>
-          <a href="#{{ this_word | replace:' ','-' }}-ref">
-            {{ this_word }}<span class="badge pull-right">{{ site.tags[this_word].size }}</span>
-         </a>
+        <a href="#{{ this_word | replace:' ','-' }}-ref">
+          {{ this_word }}<span class="badge pull-right">{{ site.tags[this_word].size }}</span>
+        </a>
       </li>
    {% endunless %}{% endfor %}
-   </ul>
+  </ul>
 </div>
-<!-- Tab panes -->
+
 <div class="tab-content col-sm-9 col-xs-6">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
