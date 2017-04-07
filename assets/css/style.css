@@ -226,7 +226,15 @@ blockquote p {
 	margin-top: 0;
 }
 
+.share a {
+	margin-bottom: 3px;
+}
+
 pre.stacktrace {
 	white-space: pre;
 	overflow-y: scroll;
+}
+
+.category, .tag {
+	white-space: nowrap;
 }
