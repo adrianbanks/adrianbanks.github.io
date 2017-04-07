@@ -9,7 +9,7 @@ fullview: true
 
 Microsoft recently released [Guidance Explorer](http://codegallery.gotdotnet.com/GuidanceExplorer), a tool that contains a browsable collection of best-practice patterns for developing .Net and ASP.Net applications.
 
-![](assets/media/images/2006/07/guidance-explorer.gif)
+![](/assets/media/images/2006/07/guidance-explorer.gif)
 
 Both the tool and its guidance library have regular updates, containing best-practices for performance and security related issues.
 
