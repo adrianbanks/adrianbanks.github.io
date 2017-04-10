@@ -10,7 +10,7 @@ When working with several source control branches, especially with a large solut
 
 [Gaston Milano](http://weblogs.asp.net/gmilano/default.aspx) has created a simple tool called [Build Console](http://weblogs.asp.net/gmilano/archive/2007/04/16/a-better-way-to-show-your-build-output-buildconsole-net.aspx) capable of loading both MSBuild and Visual Studio solution files, and building any of the available build targets.
 
-![](/assets/media/images/2007/10/buildconsole.gif)
+[![Build console][1]][1]
 
 It's main features are:
 
@@ -21,3 +21,5 @@ It's main features are:
 - A 'quick history' to load recently built solutions.
 
 Whilst a little rough around the edges, it comes in very handy for those times where you just need to compile quickly without the overhead of loading Visual Studio.
+
+  [1]: /assets/media/images/2007/10/buildconsole.gif

@@ -10,12 +10,15 @@ I have [ReSharper](http://www.jetbrains.com/resharper/) installed and think it i
 
 In versions prior to version 5, ReSharper appears in the `Add-in Manager` dialog, accessed via the `Tools` menu. Using this dialog, you can uncheck the ReSharper add-in which will suspend it (the menu will still be visible, but its functionality will be disabled).
 
-![](/assets/media/images/2010/06/resharperpre5suspend.jpg)
+[![Add-in manager][1]][1]
 
 Checking it again will re-enable it. Both of these actions can be performed without restarting Visual Studio.
 
 In version 5, ReSharper no longer appears in the add-ins dialog. At first glance, I though the ability to disable ReSharper was no longer available. As it turns out, it is now part of ReSharper itself and is accessed via the `Tools -> Options -> ReSharper -> General` dialog. Clicking the suspend button will suspend ReSharper and disable its functionality. Once suspended, clicking the resume button will re-enable it.
 
-![](/assets/media/images/2010/06/resharper5suspend.jpg)
+[![ReSharper options][2]][2]
 
 This applies to all versions of Visual Studio - the difference is based on the version of ReSharper only.
+
+  [1]: /assets/media/images/2010/06/resharperpre5suspend.jpg
+  [2]: /assets/media/images/2010/06/resharper5suspend.jpg
