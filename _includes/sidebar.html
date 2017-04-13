@@ -15,6 +15,14 @@
 
 <div id="contact-list" class="text-center">
 	<ul class="list-unstyled list-inline">
+		{% if site.author.stackoverflow %}
+		  <li>
+			  <a class="btn btn-default btn-sm" href="http://stackoverflow.com/users/{{ site.author.stackoverflow }}">
+			  <i class="fa fa-stack-overflow fa-lg"></i>
+			</a>
+		  </li>
+		{% endif %}
+
 		{% if site.author.github %}
 		  <li>
 			  <a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
@@ -30,15 +38,15 @@
 			</a>
 		  </li>
 		{% endif %}
-		
+	</ul>
+
+	<ul id="contact-list-secondary" class="list-unstyled list-inline">
 		<li>
 			<a class="btn btn-default btn-sm" href="{{ site.BASE_PATH }}/{{ site.rss_path }}">
 				<i class="fa fa-rss fa-lg"></i>
 			</a>
 		</li>
-	</ul>
 
-	<ul id="contact-list-secondary" class="list-unstyled list-inline">
 		{% if site.author.email %}
 		  <li>
 			<a class="btn btn-default btn-sm" href="mailto:{{ site.author.email }}">
