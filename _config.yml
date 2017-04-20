@@ -35,7 +35,7 @@ tags_path: tags.html
 
 sidebar_background_image: /assets/media/images/background.png
 
-BASE_PATH:
+BASE_PATH: https://blog.adrianbanks.co.uk
 
 gems:
   - jekyll-paginate
