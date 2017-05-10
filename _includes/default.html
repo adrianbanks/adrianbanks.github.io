@@ -17,14 +17,14 @@
 	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
-	<link href="{{ site.BASE_PATH }}/assets/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-	<link href="{{ site.BASE_PATH }}/assets/resources/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<link href="{{ site.BASE_PATH }}/assets/resources/syntax/syntax.css" rel="stylesheet">
-	<link href="{{ site.BASE_PATH }}/assets/css/style.css" rel="stylesheet">
+	<link href="/assets/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/assets/resources/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	<link href="/assets/resources/syntax/syntax.css" rel="stylesheet">
+	<link href="/assets/css/style.css" rel="stylesheet">
 
 	<link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.BASE_PATH }}/feed.xml">
+	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed.xml">
 </head>
 
 <body>
@@ -55,7 +55,7 @@
 			</a>
 			{% endif %}
 
-			<a class="navbar-brand" href="{{ site.BASE_PATH }}/">
+			<a class="navbar-brand" href="/">
 				<img src="//www.gravatar.com/avatar/{{site.author.email_md5}}?s=35" class="img-circle" />
 				{{ site.title }}
 			</a>
@@ -63,11 +63,11 @@
 
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="{{ site.BASE_PATH }}/">Home</a></li>
-				<li><a href="{{ site.BASE_PATH }}/{{ site.about_path }}">About</a></li>
-				<li><a href="{{ site.BASE_PATH }}/{{ site.contact_path }}"></i>Contact</a></li>
-				<li><a href="{{ site.BASE_PATH }}/{{ site.categories_path }}">Categories</a></li>
-				<li><a href="{{ site.BASE_PATH }}/{{ site.tags_path }}">Tags</a></li>
+				<li class="active"><a href="/">Home</a></li>
+				<li><a href="/{{ site.about_path }}">About</a></li>
+				<li><a href="/{{ site.contact_path }}"></i>Contact</a></li>
+				<li><a href="/{{ site.categories_path }}">Categories</a></li>
+				<li><a href="/{{ site.tags_path }}">Tags</a></li>
 			</ul>
 		</div>
 	</nav>
@@ -78,11 +78,11 @@
 		</button>
 
 		<ul class="dropdown-menu" role="menu">
-			<li><a href="{{ site.BASE_PATH}}/"><i class="fa fa-home"></i>Home</a></li>
-			<li><a href="{{ site.BASE_PATH }}/{{ site.about_path }}"><i class="fa fa-info-circle"></i>About</a></li>
-			<li><a href="{{ site.BASE_PATH }}/{{ site.contact_path }}"><i class="fa fa-envelope"></i>Contact</a></li>
-			<li><a href="{{ site.BASE_PATH}}/{{ site.categories_path }}"><i class="fa fa-folder"></i>Categories</a></li>
-			<li><a href="{{ site.BASE_PATH}}/{{ site.tags_path }}"><i class="fa fa-tags"></i>Tags</a></li>
+			<li><a href="/"><i class="fa fa-home"></i>Home</a></li>
+			<li><a href="/{{ site.about_path }}"><i class="fa fa-info-circle"></i>About</a></li>
+			<li><a href="/{{ site.contact_path }}"><i class="fa fa-envelope"></i>Contact</a></li>
+			<li><a href="/{{ site.categories_path }}"><i class="fa fa-folder"></i>Categories</a></li>
+			<li><a href="/{{ site.tags_path }}"><i class="fa fa-tags"></i>Tags</a></li>
 			<li class="divider"></li>
 			<li><a href="#"><i class="fa fa-arrow-up"></i>Top of Page</a></li>
 		</ul>
@@ -106,8 +106,8 @@
 		</footer>
 	</div>
 
-	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/jquery/jquery.min.js"></script>
-	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/bootstrap/js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/js/app.js"></script>
+	<script type="text/javascript" src="/assets/resources/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="/assets/resources/bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/assets/js/app.js"></script>
 </body>
 </html>

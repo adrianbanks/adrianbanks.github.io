@@ -1,9 +1,9 @@
 <header class="sidebar-header" role="banner">
-	<a href="{{ site.BASE_PATH }}/">
+	<a href="/">
 		<img src="//www.gravatar.com/avatar/{{site.author.email_md5}}?s=150" class="img-circle" />
 	</a>
 	<h3 class="title">
-        <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
+        <a href="/">{{ site.title }}</a>
     </h3>
 </header>
 
@@ -50,13 +50,13 @@
 		{% endif %}
 
 		<li>
-			<a class="btn btn-default btn-sm" href="{{ site.BASE_PATH }}/{{ site.about_path }}">
+			<a class="btn btn-default btn-sm" href="/{{ site.about_path }}">
 				<i class="fa fa-info-circle fa-lg"></i>
 			</a>
 		</li>
 
 		<li>
-			<a class="btn btn-default btn-sm" href="{{ site.BASE_PATH }}/{{ site.rss_path }}">
+			<a class="btn btn-default btn-sm" href="/{{ site.rss_path }}">
 				<i class="fa fa-rss fa-lg"></i>
 			</a>
 		</li>
