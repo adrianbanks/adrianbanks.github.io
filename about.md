@@ -18,6 +18,10 @@ I went to university to do an engineering degree, but soon realised that softwar
 
 I am now a software engineer by trade, working for a software house which produces database tools for developers.
 
+### Developer! Developer! Developer! Events
+
+I am a co-organiser of [DDD East Anglia](https://www.dddeastanglia.com), one of [many DDD events](/ddd.html) that are held around the world. I have also [attended many DDD events](/ddd-attendance.html) over the years.
+
 ### Stackoverflow
 
 I have been an active contributor to [Stackoverflow](http://stackoverflow.com) for many years. I find it an invaluable resource for modern software development, but also a useful tool for learning new things.
