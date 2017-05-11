@@ -239,3 +239,12 @@ pre.stacktrace {
 .category, .tag {
 	white-space: nowrap;
 }
+
+.mdtable {
+ 	border-collapse: collapse;
+}
+
+.mdtable th, .mdtable td {
+	border: 1px solid black;
+	padding: 6px;
+}
