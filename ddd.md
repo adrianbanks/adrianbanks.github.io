@@ -5,19 +5,20 @@
 There have been many Developer! Developer! Developer! events over the years, spread across the globe.
 
 - [DDD Adelaide](#ddd-adelaide)  
-- [DDD Belfast](#ddd-belfast)  
-- [DDD Brisbane](#ddd-brisbane)  
+- [DDD Belfast](#ddd-belfast-)  
+- [DDD Brisbane](#ddd-brisbane--)  
 - [DDD Dublin](#ddd-dublin)  
-- [DDD East Anglia](#ddd-east-anglia)  
+- [DDD East Anglia](#ddd-east-anglia---)  
 - [DDD Galway](#ddd-galway)  
-- [DDD Melbourne](#ddd-melbourne)  
-- [DDD North](#ddd-north)  
-- [DDD Perth](#ddd-perth)  
-- [DDD Reading](#ddd-reading)  
-- [DDD Scotland](#ddd-scotland)  
-- [DDD South West](#ddd-south-west)  
-- [DDD Sydney](#ddd-sydney)  
+- [DDD Melbourne](#ddd-melbourne--)  
+- [DDD North](#ddd-north---)  
+- [DDD Perth](#ddd-perth--)  
+- [DDD Reading](#ddd-reading--)  
+- [DDD Scotland](#ddd-scotland--)  
+- [DDD South West](#ddd-south-west--)  
+- [DDD Sydney](#ddd-sydney--)  
 - [DunDDD](#dunddd)  
+- [Other DDD-related events](#other-ddd-related-events)
 
 ----
 
