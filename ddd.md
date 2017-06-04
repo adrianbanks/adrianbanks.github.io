@@ -153,6 +153,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Melbourne 4 | 19th July 2014   |
 | DDD Melbourne 5 | 8th August 2015  |
 | DDD Melbourne 6 | 13th August 2016 |
+| DDD Melbourne 7 | 12th August 2017 |
 {:.mdtable}
 
 ### DDD Perth [<i class="fa fa-globe"></i>](http://www.dddperth.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddperth)
