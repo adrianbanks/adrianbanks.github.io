@@ -3,6 +3,7 @@
 Over the years I have attended many DDD events:
 
 - DDD East Anglia 2017
+- DDD Reading 12
 - DDD South West 7
 - DDD North 6
 - DDD North 5
