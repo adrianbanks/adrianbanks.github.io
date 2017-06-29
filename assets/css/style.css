@@ -236,6 +236,10 @@ pre.stacktrace {
 	overflow-y: scroll;
 }
 
+.categories-and-tags {
+    margin-bottom: 15px;
+}
+
 .category, .tag {
 	white-space: nowrap;
 }

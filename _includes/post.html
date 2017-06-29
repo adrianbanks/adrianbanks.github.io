@@ -25,7 +25,7 @@
 		<div>
 			<section class="col-sm-6">
 				{% unless page.categories == empty %}
-					<div>
+					<div class="categories-and-tags">
 					{% assign categories_list = page.categories %}
 					{% if categories_list.first[0] == null %}
 						{% for category in categories_list %} 
@@ -36,22 +36,21 @@
 						{% endfor %}
 					{% else %}
 						{% for category in categories_list %} 
-							<div class="tag">
+							<div class="category">
 								<i class="fa fa-folder-open"></i>
 								<a href="/{{ site.categories_path }}#{{ category[0] }}-ref">{{ category[0] | join: "/" }}</a>
 							</div>
 						{% endfor %}
 					{% endif %}
 					</div>
-					<br/>
 				{% endunless %}  
 
 				{% unless page.tags == empty %}
-					<div>
+					<div class="categories-and-tags">
 					{% assign tags_list = page.tags %}
 					{% if tags_list.first[0] == null %}
 						{% for tag in tags_list %} 
-							<div class="category">
+							<div class="tag">
 								<i class="fa fa-tags"></i>
 								<a href="/{{ site.tags_path }}#{{ tag }}-ref">{{ tag }}</a>&nbsp;
 							</div>
