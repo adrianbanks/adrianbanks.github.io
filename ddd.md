@@ -66,6 +66,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD North 4    | 18th October 2014 |
 | DDD North 5    | 24th October 2015 |
 | DDD North 6    | 1st October 2016  |
+| DDD North 7    | 14th October 2017 |
 {:.mdtable}
 
 ### DDD Reading [<i class="fa fa-globe"></i>](http://www.developerdeveloperdeveloper.com) [<i class="fa fa-twitter"></i>](https://twitter.com/developerday)
