@@ -18,7 +18,9 @@ I went to university to do an engineering degree, but soon realised that softwar
 
 I am now a software engineer by trade, working for a software house which produces database tools for developers.
 
-### Developer! Developer! Developer! Events
+### Training &amp; conferences
+
+Over the years, I have attended many [training events and conferences](/training.html).
 
 I am a co-organiser of [DDD East Anglia](https://www.dddeastanglia.com), one of [many DDD events](/ddd.html) that are held around the world. I have also [attended many DDD events](/ddd-attendance.html) over the years.
 
