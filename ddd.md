@@ -1,4 +1,7 @@
-# Developer! Developer! Developer! Events
+---
+layout: page
+title: Developer! Developer! Developer! Events
+---
 
 ### History
 

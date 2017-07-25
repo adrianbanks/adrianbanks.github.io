@@ -1,4 +1,7 @@
-# Developer! Developer! Developer! Event Attendance
+---
+layout: page
+title: Developer! Developer! Developer! Event Attendance
+---
 
 Over the years I have attended many DDD events:
 

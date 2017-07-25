@@ -1,4 +1,7 @@
-# Training &amp; conferences
+---
+layout: page
+title: Training & conferences
+---
 
 These are the training courses and conferences that I have attended over the years.
 
