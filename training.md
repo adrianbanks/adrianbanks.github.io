@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                  | **Run By**                                               | **Event Type**      |
 | ------------------- | ------------------------------- | -------------------------------------------------------- | ------------------- |
+| 25th September 2017 | Design Thinking                 | [Treehouse Innovation][18]                               | Workshop            |
 | 19th September 2017 | Software Faster                 | [Dan North][17]                                          | Training (2 days)   |
 | 16th September 2017 | DDD East Anglia 2017            | [DDD East Anglia][8]                                     | Conference          |
 | 13th September 2017 | Progressive .Net Tutorials 2017 | [SkillsMatter][6]                                        | Conference (3 days) |
@@ -75,3 +76,5 @@ These are the training courses and conferences that I have attended over the yea
  [15]: https://twitter.com/nativewired
  [16]: http://www.foundercentric.com
  [17]: https://dannorth.net
+ [18]: https://treehouseinnovation.com
+ 
