@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                  | **Run By**                                               | **Event Type**      |
 | ------------------- | ------------------------------- | -------------------------------------------------------- | ------------------- |
+| 19th September 2017 | Software Faster                 | [Dan North][17]                                          | Training (2 days)   |
 | 16th September 2017 | DDD East Anglia 2017            | [DDD East Anglia][8]                                     | Conference          |
 | 13th September 2017 | Progressive .Net Tutorials 2017 | [SkillsMatter][6]                                        | Conference (3 days) |
 | 10th June 2017      | DDD Reading 12                  | [DDD Reading][1]                                         | Conference          |
@@ -73,3 +74,4 @@ These are the training courses and conferences that I have attended over the yea
  [14]: http://coastconsulting.com
  [15]: https://twitter.com/nativewired
  [16]: http://www.foundercentric.com
+ [17]: https://dannorth.net
