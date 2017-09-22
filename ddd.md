@@ -145,6 +145,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Brisbane 4 | 6th December 2014  |
 | DDD Brisbane 5 | 5th December 2015  |
 | DDD Brisbane 6 | 3rd December 2016  |
+| DDD Brisbane 7 | 2nd December 2017  |
 {:.mdtable}
 
 ### DDD Melbourne [<i class="fa fa-globe"></i>](http://www.dddmelbourne.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddmelb)
