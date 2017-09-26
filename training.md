@@ -8,6 +8,7 @@ These are the training courses and conferences that I have attended over the yea
 | **Date**            | **Event Name**                  | **Run By**                                               | **Event Type**      |
 | ------------------- | ------------------------------- | -------------------------------------------------------- | ------------------- |
 | 14th October 2017   | DDD North 7                     | [DDD North][3]                                           | Conference          |
+| 27th September 2017 | Cloud Native London             | [SkillsMatter][6]                                        | Conference          |
 | 25th September 2017 | Design Thinking                 | [Treehouse Innovation][18]                               | Workshop            |
 | 19th September 2017 | Software Faster                 | [Dan North][17]                                          | Training (2 days)   |
 | 16th September 2017 | DDD East Anglia 2017            | [DDD East Anglia][8]                                     | Conference          |
