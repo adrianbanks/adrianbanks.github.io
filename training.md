@@ -9,13 +9,13 @@ These are the training courses and conferences that I have attended over the yea
 | ------------------- | ------------------------------- | -------------------------------------------------------- | ------------------- |
 | 14th October 2017   | DDD North 7                     | [DDD North][3]                                           | Conference          |
 | 27th September 2017 | Cloud Native London             | [SkillsMatter][6]                                        | Conference          |
-| 25th September 2017 | Design Thinking                 | [Treehouse Innovation][18]                               | Workshop            |
+| 25th September 2017 | Design Thinking                 | [Treehouse Innovation][18] - Adam Billing                | Workshop            |
 | 19th September 2017 | Software Faster                 | [Dan North][17]                                          | Training (2 days)   |
 | 16th September 2017 | DDD East Anglia 2017            | [DDD East Anglia][8]                                     | Conference          |
 | 13th September 2017 | Progressive .Net Tutorials 2017 | [SkillsMatter][6]                                        | Conference (3 days) |
 | 10th June 2017      | DDD Reading 12                  | [DDD Reading][1]                                         | Conference          |
 | 6th May 2017        | DDD South West 7                | [DDD South West][2]                                      | Conference          |
-| 24th April 2017     | The Mom Test                    | [Founder Centric][16]                                    | Workshop            |
+| 24th April 2017     | The Mom Test                    | [Founder Centric][16] - Rob Fitzpatrick                  | Workshop            |
 | 6th April 2017      | How agile are we really?        | [Gitte Klitgaard][15]                                    | Workshop            |
 | 1st October 2016    | DDD North 6                     | [DDD North][3]                                           | Conference          |
 | 26th July 2016      | Interviewing                    | [DGi International][12] - Steve Alexander                | Training            |
