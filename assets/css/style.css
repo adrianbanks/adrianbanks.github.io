@@ -5,6 +5,17 @@ body{
 	cursor: default;
 }
 
+hr {
+	border: 0;
+	height: 1px;
+	background-color: #2c3e50;
+	margin-top: 40px;
+}
+
+article:last-of-type hr {
+	height: 0;
+}
+
 .sidebar {
 	position: fixed;
 	top: 0px;
