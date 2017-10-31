@@ -1,5 +1,23 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
+::selection {
+	background: #f2756a;
+	color: white;
+}
+
+article.home h1::selection,
+article.home h2::selection,
+article.home h3::selection,
+article.home h4::selection,
+article.home h5::selection,
+article.home h6::selection,
+article.home h1 a::selection,
+article.home h2 a::selection,
+article.home h3 a::selection,
+article.home h4 a::selection {
+	background: #2c3e50;
+}
+
 body{
 	color: #2c3e50;
 	cursor: default;
