@@ -90,7 +90,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Reading 12 | 10th June 2017     |
 {:.mdtable}
 
-### DDD Scotland [<i class="fa fa-globe"></i>](http://ddd.scot) [<i class="fa fa-twitter"></i>](https://twitter.com/dddscot)
+### DDD Scotland [<i class="fa fa-globe"></i>](https://dddscotland.org) [<i class="fa fa-twitter"></i>](https://twitter.com/dddscot)
 
 | **Event Name**    | **Event Date**     |
 | ----------------- | ------------------ |
