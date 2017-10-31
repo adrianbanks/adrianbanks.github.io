@@ -92,13 +92,14 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 ### DDD Scotland [<i class="fa fa-globe"></i>](http://ddd.scot) [<i class="fa fa-twitter"></i>](https://twitter.com/dddscot)
 
-| **Event Name**    | **Event Date** |
-| ----------------- | -------------- |
-| DDD Scotland 1    | 10th May 2008  |
-| DDD Scotland 2    | 2nd May 2009   |
-| DDD Scotland 3    | 8th May 2010   |
-| DDD Scotland 4    | 7th May 2011   |
-| DDD Scotland 2016 | 14th May 2016  |
+| **Event Name**    | **Event Date**     |
+| ----------------- | ------------------ |
+| DDD Scotland 1    | 10th May 2008      |
+| DDD Scotland 2    | 2nd May 2009       |
+| DDD Scotland 3    | 8th May 2010       |
+| DDD Scotland 4    | 7th May 2011       |
+| DDD Scotland 2016 | 14th May 2016      |
+| DDD Scotland 2018 | 10th February 2018 |
 {:.mdtable}
 
 ### DDD South West [<i class="fa fa-globe"></i>](http://www.dddsouthwest.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddsouthwest)
