@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="680"
+   width="1200"
    height="1600"
    id="svg2"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="background.svg"
+   sodipodi:docname="background.png"
    inkscape:export-filename="X:\code\adrianbanks\adrianbanks.github.io\background.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,13 +27,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
      id="namedview3000"
      showgrid="false"
-     inkscape:zoom="0.41053452"
-     inkscape:cx="498.96725"
-     inkscape:cy="714.85807"
+     inkscape:zoom="0.45014485"
+     inkscape:cx="547.83148"
+     inkscape:cy="1047.3846"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -187,7 +187,7 @@
   </metadata>
   <path
      inkscape:connector-curvature="0"
-     style="fill:#16606b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.46137213999999990px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#16606b;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="path2991"
      d="M 543.07693,529.36113 250.8155,762.77176 -41.445921,996.18221 -42.090826,498.83505 -42.735741,1.4879215 250.17061,265.42461 z"
      clip-path="url(#clipPath3829)" />
@@ -208,43 +208,50 @@
      style="fill:#ae2c22;fill-opacity:1"
      id="path3765"
      d="M 626.05394,2031.2901 230.40975,1812.3353 -165.23448,1593.3805 181.40269,1061.5232 528.0399,529.66596 577.04692,1280.478 z"
-     clip-path="url(#clipPath3817)" />
+     clip-path="url(#clipPath3817)"
+     transform="translate(2,-2)" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#ff9d95;fill-opacity:1"
      id="path3767"
      d="M 908.89069,1616.8465 709.46104,2089.0537 510.0314,2561.2609 519.16691,1545.4087 528.30242,529.55648 718.59655,1073.2015 z"
-     clip-path="url(#clipPath3813)" />
+     clip-path="url(#clipPath3813)"
+     transform="matrix(1.2711475,0,0,1.0729962,-141.8794,-41.452433)" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#ffc895;fill-opacity:1"
      id="path3769"
      d="m 1214.6997,1413.0384 -127.0698,447.036 -127.0698,447.036 L 744.34425,1417.9117 528.12842,528.71305 871.41406,970.87574 z"
-     clip-path="url(#clipPath3809)" />
+     clip-path="url(#clipPath3809)"
+     transform="matrix(1.8971319,0,0,1.2524933,-471.43529,-129.83772)" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#f2ab6a;fill-opacity:1"
      id="path3771"
      d="M 1232.4833,1458.7871 878.92901,992.16014 525.37471,525.53321 l 292.4472,66.11459 292.44699,66.11424 61.1073,400.51266 z"
-     clip-path="url(#clipPath3805)" />
+     clip-path="url(#clipPath3805)"
+     transform="matrix(2.3332311,0,0,1.7900843,-696.91098,-410.31684)" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#ade7b7;fill-opacity:1"
      id="path3773"
      d="M 1493.7094,770.68151 1010.8799,650.25577 528.05041,529.83002 903.8713,429.51529 1279.6922,329.20056 1386.7009,549.94104 z"
-     clip-path="url(#clipPath3801)" />
+     clip-path="url(#clipPath3801)"
+     transform="matrix(2.6175932,0,0,1.9346042,-853.33382,-494.33509)" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#7bd28a;fill-opacity:1"
      id="path3775"
      d="M 1857.9063,294.83252 1428.0851,217.63425 998.26383,140.43601 762.95968,335.12921 527.65561,529.82242 1192.7809,412.32748 z"
-     clip-path="url(#clipPath3797)" />
+     clip-path="url(#clipPath3797)"
+     transform="matrix(2.4219234,0,0,1.2311018,-750.85761,-122.22454)" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#32a045;fill-opacity:1"
      id="path3777"
      d="M 528.17459,529.58914 419.77944,185.21874 311.38435,-159.15165 728.77027,-64.050573 1146.1562,31.050529 837.16539,280.31985 z"
-     clip-path="url(#clipPath3793)" />
+     clip-path="url(#clipPath3793)"
+     transform="matrix(1.9412345,0,0,1,-496.8801,0)" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#1a852d;fill-opacity:1"

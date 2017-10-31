@@ -34,6 +34,10 @@ article:last-of-type hr {
 	height: 0;
 }
 
+.page-header {
+    margin-left: 30px;
+}
+
 .sidebar {
 	position: fixed;
 	top: 0px;
