@@ -113,6 +113,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD South West 5 | 17th May 2014   |
 | DDD South West 6 | 25th April 2015 |
 | DDD South West 7 | 6th May 2017    |
+| DDD South West 8 | 21st April 2018 |
 {:.mdtable}
 
 ## DunDDD
