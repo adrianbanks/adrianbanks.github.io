@@ -20,6 +20,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 - [DDD Scotland](#ddd-scotland--)  
 - [DDD South West](#ddd-south-west--)  
 - [DDD Sydney](#ddd-sydney--)  
+- [DDD Wales](#ddd-wales--)  
 - [DunDDD](#dunddd)  
 - [Other DDD-related events](#other-ddd-related-events)
 
@@ -114,6 +115,13 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD South West 6 | 25th April 2015 |
 | DDD South West 7 | 6th May 2017    |
 | DDD South West 8 | 21st April 2018 |
+{:.mdtable}
+
+### DDD Wales [<i class="fa fa-globe"></i>](https://www.dddwales.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddcymru)
+
+| **Event Name** | **Event Date**  |
+| -------------- | --------------- |
+| DDD Wales 1    | 24th March 2018 |
 {:.mdtable}
 
 ## DunDDD
