@@ -89,6 +89,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Reading 10 | 1st September 2012 |
 | DDD Reading 11 | 3rd September 2016 |
 | DDD Reading 12 | 10th June 2017     |
+| DDD Reading 13 | 23rd June 2018     |
 {:.mdtable}
 
 ### DDD Scotland [<i class="fa fa-globe"></i>](https://dddscotland.org) [<i class="fa fa-twitter"></i>](https://twitter.com/dddscot)
