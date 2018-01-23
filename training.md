@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                          | **Run By**                                               | **Event Type**      |
 | ------------------- | --------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 12th September 2018 | Progressive .Net Tutorials 2018         | [SkillsMatter][6]                                        | Conference (3 days) |
 | 15th January 2018   | NDC London 2018                         | [NDC][9]                                                 | Conference (5 days) |
 | 2nd November 2017   | From Design Patterns to Category Theory | [Mark Seemann][19]                                       | Training            |
 | 14th October 2017   | DDD North 7                             | [DDD North][3]                                           | Conference          |
