@@ -294,3 +294,7 @@ img[src$='#img-sketchnote'] {
 	border-radius: 10px;
 	box-shadow: 3px 3px 0 #D7D7D7;
 }
+
+#cc-license {
+	float: right;
+}
