@@ -16,7 +16,7 @@ The remaining three days of the conference was in the form of talks. Like I've [
 by Felienne Hermans
 <i class="fa fa-globe fa-lg"></i> [Website](http://www.felienne.com)
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/Felienne)
-<i class="fa fa-youtube fa-lg"></i> [Video](https://vimeo.com/254635626)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635626)
 
 [![What Is Programming Anyway? by Felienne Hermans][1]][1]
 
@@ -24,7 +24,7 @@ by Felienne Hermans
 by Jake Ginnivan
 <i class="fa fa-globe fa-lg"></i> [Website](http://jake.ginnivan.net)
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/JakeGinnivan)
-<i class="fa fa-youtube fa-lg"></i> [Video](https://vimeo.com/254635678)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635678)
 
 [![The Power Of Technical Decisions by Jake Ginnivan][2]][2]
 
@@ -32,7 +32,7 @@ by Jake Ginnivan
 by Chris O'Dell
 <i class="fa fa-globe fa-lg"></i> [Website](https://chrisodell.wordpress.com)
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/ChrisAnnODell)
-<i class="fa fa-youtube fa-lg"></i> [Video](https://vimeo.com/254635708)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635708)
 
 [![You Build It, You Run It by Chris O'Dell][3]][3]
 
@@ -41,7 +41,7 @@ by Dmitry Kandalov
 <i class="fa fa-globe fa-lg"></i> [Website](http://dkandalov.github.io)
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/dmitrykandalov)
 <i class="fa fa-slideshare fa-lg"></i> [Slides](https://www.dropbox.com/sh/reb81046oz1xn47/AACsd1QG6C9MN8s70vNaz0KFa?preview=kotlin-by-example.pdf)
-<i class="fa fa-youtube fa-lg"></i> [Video](https://vimeo.com/254635735)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635735)
 
 [![An Introduction To Kotlin by Dmitry Kandalov][4]][4]
 
@@ -50,7 +50,7 @@ by Jimmy Bogard
 <i class="fa fa-globe fa-lg"></i> [Website](https://jimmybogard.com)
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/jbogard)
 <i class="fa fa-slideshare fa-lg"></i> [Slides](https://github.com/jbogard/presentations/raw/master/CompositeUIs/CompositeUIsAndMicroservices.pptx)
-<i class="fa fa-youtube fa-lg"></i> [Video](https://vimeo.com/254635673)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635673)
 
 [![Composite UIs: The Microservices Last Mile by Jimmy Bogard][5]][5]
 
@@ -58,7 +58,7 @@ by Jimmy Bogard
 by Jessice Engström
 <i class="fa fa-globe fa-lg"></i> [Website](http://www.catoholic.se)
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/grytlappen)
-<i class="fa fa-youtube fa-lg"></i> [Video](https://vimeo.com/254635841)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635841)
 
 [![Designing For Speech by Jessica Engström][6]][6]
 
@@ -67,7 +67,7 @@ by Jennifer Wadella
 <i class="fa fa-globe fa-lg"></i> [Website](https://jenniferwadella.com)
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/likeOMGitsFEDAY)
 <i class="fa fa-slideshare fa-lg"></i> [Slides](https://tehfedaykin.github.io/CodingWithJewelbots/#/)
-<i class="fa fa-youtube fa-lg"></i> [Video](https://vimeo.com/254635889)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635889)
 
 [![Jewelbots: How To Get More Girls Coding by Jennifer Wadella][7]][7]
 
@@ -76,14 +76,14 @@ by Jessica White
 <i class="fa fa-globe fa-lg"></i> [Website](https://jesswhite.co.uk)
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/JessPWhite)
 <i class="fa fa-slideshare fa-lg"></i> [Slides](https://speakerdeck.com/jesswhite/who-needs-dashboards-ndc-london)
-<i class="fa fa-youtube fa-lg"></i> [Video](https://vimeo.com/254635893)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635893)
 
 [![Who Needs Dashboards? by Jessica White][8]][8]
 
 ### Pilot Decision Management
 by Clifford Agius
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/CliffordAgius)
-<i class="fa fa-youtube fa-lg"></i> [Video](https://vimeo.com/254635897)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635897)
 
 [![Pilot Decision Management by Clifford Agius][9]][9]
 
