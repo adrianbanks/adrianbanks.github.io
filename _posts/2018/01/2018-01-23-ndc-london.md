@@ -92,25 +92,68 @@ by Tess Ferrandez-Norlander
 <i class="fa fa-globe fa-lg"></i> [Website](https://blogs.msdn.microsoft.com/Tess/)
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/TessFerrandez)
 <i class="fa fa-slideshare fa-lg"></i> [Slides](https://www.slideshare.net/TessFerrandez/a-developers-guide-to-machine-learning)
-<i class="fa fa-youtube fa-lg"></i> [Video](https://vimeo.com/254635867)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635867)
 
 [![A Developer's Guide To Machine Learning by Tess Ferrandez][10]][10]
 
 ### CSP XXP STS PKP CAA ETC...
-by Scott Hulme
+by Scott Helme
 <i class="fa fa-globe fa-lg"></i> [Website](https://scotthelme.co.uk)
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/Scott_Helme)
-<i class="fa fa-youtube fa-lg"></i> [Video](https://vimeo.com/254635838)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635838)
 
 [![CSP XXP STS PKP CAA ETC... by Scott Hulme][11]][11]
 
 ### Web Apps Can't Do That, Can They?
-by Steve Sanderrson
+by Steve Sanderson
 <i class="fa fa-globe fa-lg"></i> [Website](http://blog.stevensanderson.com)
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/stevensanderson)
-<i class="fa fa-youtube fa-lg"></i> [Video](https://vimeo.com/254635980)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635980)
 
 [![Web Apps Can't Do That, Can They? by Steve Sanderson][12]][12]
+
+These are the other talks I attended but didn't sketchnote:
+
+### C# 7.0
+by Jon Skeet
+<i class="fa fa-globe fa-lg"></i> [Website](https://codeblog.jonskeet.uk)
+<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/jonskeet)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635650)
+
+### C# 7.1 and 7.2: The Releases You Didn't Know You Had
+by Bill Wagner
+<i class="fa fa-globe fa-lg"></i> [Website](http://www.thebillwagner.com)
+<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/billwagner)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635654)
+
+### The Psychology Of Social Engineering
+by Niall Merrigan
+<i class="fa fa-globe fa-lg"></i> [Website](http://www.certsandprogs.com)
+<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/nmerrigan)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635905)
+
+### The Modern Cloud
+by Scott Guthrie
+<i class="fa fa-globe fa-lg"></i> [Website](https://weblogs.asp.net/scottgu)
+<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/scottgu)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635976)
+
+### The Hello World Show Live
+hosted by [Heather Downing](https://twitter.com/quorralyne) and [Spencer Schneidenbach](https://twitter.com/schneidenbach)
+<i class="fa fa-globe fa-lg"></i> [Website](https://www.youtube.com/channel/UCh1MAMXrvKK_C_piVgOFOAg)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635986)
+
+### Tips And Tricks With Azure
+by Scott Guthrie
+<i class="fa fa-globe fa-lg"></i> [Website](https://weblogs.asp.net/scottgu)
+<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/scottgu)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254635995)
+
+### Why I'm Not Leaving .Net
+by Mark Rendle
+<i class="fa fa-globe fa-lg"></i> [Website](https://blog.rendle.io)
+<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/markrendle)
+<i class="fa fa-vimeo fa-lg"></i> [Video](https://vimeo.com/254636006)
 
   [1]: /assets/media/images/2018/01/what-is-programming-anyway-felienne-hermans.jpg#img-sketchnote
   [2]: /assets/media/images/2018/01/the-power-of-technical-decisions-jake-ginnivan.jpg#img-sketchnote
