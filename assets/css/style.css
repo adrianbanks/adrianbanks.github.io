@@ -95,20 +95,25 @@ article .share .btn {
   color: #e74c3c;
 }
 
+.fa-github:hover, .fa-github-alt:hover {
+  color: #24292e;
+  border-color: #24292e;
+}
+
 .fa-twitter:hover,
 article .share .twitter:hover {
-  color: #00ACEE;
-  border-color: #00ACEE;
+  color: #1da1f2;
+  border-color: #1da1f2;
 }
 
 article .share .facebook:hover {
-  color: #43609C;
-  border-color: #43609C;
+  color: #4267b2;
+  border-color: #4267b2;
 }
 
 article .share .gplus:hover {
-  color: #C13929;
-  border-color: #C13929;
+  color: #dc4a38;
+  border-color: #dc4a38;
 }
 
 #contact-list-secondary {
