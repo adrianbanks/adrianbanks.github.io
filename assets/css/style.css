@@ -82,33 +82,21 @@ a.nav-link:hover { color: #777; }
 
 #contact-list li .fa,
 article .share .btn {
-	-o-transition:color .2s ease-out, background 1s ease-in;
+  -o-transition:color .2s ease-out, background 1s ease-in;
   -ms-transition:color .2s ease-out, background 1s ease-in;
   -moz-transition:color .2s ease-out, background 1s ease-in;
   -webkit-transition:color .2s ease-out, background 1s ease-in;
   transition:color .2s ease-out, background 1s ease-in;
 }
 
-#contact-list li:hover .fa-twitter,
+.fa:hover {
+	color: #e74c3c;
+}
+
+.fa-twitter:hover,
 article .share .twitter:hover {
 	color: #00ACEE;
 	border-color: #00ACEE;
-}
-
-#contact-list li:hover .fa-linkedin {
-	color: #1D87BD;
-}
-
-#contact-list li:hover .fa-envelope {
-	color: #E93E30;
-}
-
-#contact-list li:hover .fa-pinterest {
-	color: #CC2127;
-}
-
-#contact-list li:hover .fa-rss {
-	color: #e74c3c;
 }
 
 article .share .facebook:hover {
