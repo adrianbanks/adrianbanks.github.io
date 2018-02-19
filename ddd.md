@@ -60,7 +60,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Galway     | 3rd May 2008   |
 {:.mdtable}
 
-### DDD North [<i class="fa fa-globe"></i>](http://www.dddnorth.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddnorth) [<i class="fa fa-facebook"></i>](https://www.facebook.com/DDD-North-254649631214825)
+### DDD North [<i class="fa fa-globe"></i>](http://www.dddnorth.co.uk) [<i class="fa fa-twitter"></i>](https://twitter.com/dddnorth) [<i class="fa fa-facebook"></i>](https://www.facebook.com/DDD-North-254649631214825)
 
 | **Event Name** | **Event Date**    |
 | -------------- | ----------------- |
