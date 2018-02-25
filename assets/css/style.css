@@ -23,6 +23,15 @@ body{
   cursor: default;
 }
 
+pre code {
+  word-break: keep-all;
+}
+
+img[alt=""], 
+img:not([alt]) {
+  border: 5px red dashed;
+}
+
 hr {
   border: 0;
   height: 1px;
