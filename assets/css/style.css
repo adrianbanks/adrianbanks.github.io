@@ -104,7 +104,8 @@ article .share .btn {
   padding-bottom: 10px;
 }
 
-.page-header {
+.page-header,
+.page-header a {
   color: #e74c3c;
   text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
