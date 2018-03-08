@@ -118,7 +118,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD South West 8 | 21st April 2018 |
 {:.mdtable}
 
-### DDD Wales [<i class="fa fa-globe"></i>](https://www.dddwales.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddcymru)
+### DDD Wales [<i class="fa fa-globe"></i>](https://www.dddwales.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddcymru) [<i class="fa fa-facebook"></i>](https://www.facebook.com/dddwales)
 
 | **Event Name** | **Event Date**  |
 | -------------- | --------------- |
