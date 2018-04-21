@@ -8,6 +8,7 @@ These are the training courses and conferences that I have attended over the yea
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
 | 12th September 2018 | Progressive .Net Tutorials 2018                    | [SkillsMatter][6]                                        | Conference (3 days) |
+| 21st April 2018     | DDD South West 8                                   | [DDD South West][2]                                      | Conference          |
 | 17th January 2018   | NDC London 2018                                    | [NDC][9]                                                 | Conference (3 days) |
 | 15th January 2018   | NDC London 2018 - Identity & Access Control        | [NDC][9] - Dominick Baier & Brock Allen                  | Workshop (2 days)   |
 | 2nd November 2017   | From Design Patterns to Category Theory            | [Mark Seemann][19]                                       | Training            |
