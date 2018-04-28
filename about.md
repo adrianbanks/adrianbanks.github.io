@@ -22,7 +22,7 @@ I am now a software engineer by trade, working for a software house which produc
 
 Over the years, I have attended many [training events and conferences](/training.html).
 
-I am a co-organiser of [DDD East Anglia](https://www.dddeastanglia.com), one of [many DDD events](/ddd.html) that are held around the world. I have also [attended many DDD events](/ddd-attendance.html) over the years.
+I am a co-organiser of [DDD East Anglia](https://www.dddeastanglia.com), one of [many DDD events](/ddd-grouped.html) that are held around the world. I have also [attended many DDD events](/ddd-attendance.html) over the years.
 
 ### Stackoverflow
 
