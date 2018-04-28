@@ -161,35 +161,38 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 ### DDD Melbourne [<i class="fa fa-globe"></i>](http://www.dddmelbourne.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddmelb)
 
-| **Event Name**  | **Event Date**   |
-| --------------- | ---------------- |
-| DDD Melbourne 1 | 15th May 2010    |
-| DDD Melbourne 2 | 28th May 2011    |
-| DDD Melbourne 3 | 28th July 2012   |
-| DDD Melbourne 4 | 19th July 2014   |
-| DDD Melbourne 5 | 8th August 2015  |
-| DDD Melbourne 6 | 13th August 2016 |
-| DDD Melbourne 7 | 12th August 2017 |
+| **Event Name**  | **Event Date**      |
+| --------------- | ------------------- |
+| DDD Melbourne 1 | 15th May 2010       |
+| DDD Melbourne 2 | 28th May 2011       |
+| DDD Melbourne 3 | 28th July 2012      |
+| DDD Melbourne 4 | 19th July 2014      |
+| DDD Melbourne 5 | 8th August 2015     |
+| DDD Melbourne 6 | 13th August 2016    |
+| DDD Melbourne 7 | 12th August 2017    |
+| DDD Melbourne 8 | 15th September 2018 |
 {:.mdtable}
 
 ### DDD Perth [<i class="fa fa-globe"></i>](http://www.dddperth.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddperth)
 
-| **Event Name** | **Event Date**       |
-| ---------------| -------------------- |
-| DDD Perth 1    | 29th August 2015     |
-| DDD Perth 2    | 27th August 2016     |
-| DDD Perth 3    | 16th September 2017  |
+| **Event Name** | **Event Date**      |
+| ---------------| ------------------- |
+| DDD Perth 1    | 29th August 2015    |
+| DDD Perth 2    | 27th August 2016    |
+| DDD Perth 3    | 16th September 2017 |
+| DDD Perth 4    | 4th August 2018     |
 {:.mdtable}
 
 ### DDD Sydney [<i class="fa fa-globe"></i>](http://dddsydney.com.au) [<i class="fa fa-twitter"></i>](https://twitter.com/dddsydney)
 
-| **Event Name** | **Event Date** |
-| -------------- | -------------- |
-| DDD Sydney 1   | 2nd July 2010  |
-| DDD Sydney 2   | 2nd July 2011  |
-| DDD Sydney 3   | 30th June 2012 |
-| DDD Sydney 4   | 28th May 2016  |
-| DDD Sydney 5   | 15th July 2017 |
+| **Event Name** | **Event Date**   |
+| -------------- | ---------------- |
+| DDD Sydney 1   | 2nd July 2010    |
+| DDD Sydney 2   | 2nd July 2011    |
+| DDD Sydney 3   | 30th June 2012   |
+| DDD Sydney 4   | 28th May 2016    |
+| DDD Sydney 5   | 15th July 2017   |
+| DDD Sydney 6   | 17th August 2018 |
 {:.mdtable}
 
 ----
