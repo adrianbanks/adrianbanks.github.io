@@ -221,6 +221,34 @@ footer {
   border-radius: 4px 0 0 4px;
 }
 
+/* nav-horizontal-tabs component */
+.nav-tabs-horizontal {
+  border-bottom: 1px solid #ddd;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.nav-tabs-horizontal li {
+  margin-bottom: -1px;
+  display: inline-block;
+}
+
+.nav-tabs-horizontal>li.active>a,
+.nav-tabs-horizontal>li.active>a:hover,
+.nav-tabs-horizontal>li.active>a:focus {
+  color: #555;
+  cursor: default;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-bottom-color: transparent;
+}
+
+.nav-tabs-horizontal>li>a {
+  line-height: 1.428571429;
+  border: 1px solid transparent;
+  border-radius: 4px 0 0 4px;
+}
+
 .badge { 
   background: #F2756A;
 }
