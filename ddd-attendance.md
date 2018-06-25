@@ -5,6 +5,7 @@ title: Developer! Developer! Developer! Event Attendance
 
 Over the years I have attended many DDD events:
 
+- DDD Reading 13
 - DDD South West 8
 - DDD North 7
 - DDD East Anglia 2017
