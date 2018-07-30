@@ -57,6 +57,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD East Anglia 2014 | 13th September 2014 |
 | DDD East Anglia 2015 | 26th September 2015 |
 | DDD East Anglia 2017 | 16th September 2017 |
+| DDD East Anglia 2018 | 22nd September 2018 |
 {:.mdtable}
 
 ### DDD Galway
