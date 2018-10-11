@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 26th September 2018 | Proactive Web Defense                              | [MWR Security][20]                                       | Training (3 days)   |
 | 22nd September 2018 | DDD East Anglia 2018                               | [DDD East Anglia][8]                                     | Conference          |
 | 12th September 2018 | ProgNet 2018                                       | [SkillsMatter][6]                                        | Conference (3 days) |
 | 23rd June 2018      | DDD Reading 13                                     | [DDD Reading][1]                                         | Conference          |
@@ -87,4 +88,4 @@ These are the training courses and conferences that I have attended over the yea
  [17]: https://dannorth.net
  [18]: https://treehouseinnovation.com
  [19]: http://blog.ploeh.dk
- 
+ [20]: https://www.mwrinfosecurity.com
