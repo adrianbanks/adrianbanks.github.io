@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 6th October 2018    | SAFE Stack                                         | [Birmingham Alt.Net][21]                                 | Workshop
 | 26th September 2018 | Proactive Web Defense                              | [MWR Security][20]                                       | Training (3 days)   |
 | 22nd September 2018 | DDD East Anglia 2018                               | [DDD East Anglia][8]                                     | Conference          |
 | 12th September 2018 | ProgNet 2018                                       | [SkillsMatter][6]                                        | Conference (3 days) |
@@ -89,3 +90,4 @@ These are the training courses and conferences that I have attended over the yea
  [18]: https://treehouseinnovation.com
  [19]: http://blog.ploeh.dk
  [20]: https://www.mwrinfosecurity.com
+ [21]: https://www.meetup.com/altnetbrum/
