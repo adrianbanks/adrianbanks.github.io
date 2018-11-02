@@ -191,7 +191,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Perth 4    | 4th August 2018     |
 {:.mdtable}
 
-### DDD Sydney [<i class="fa fa-globe"></i>](http://dddsydney.com.au) [<i class="fa fa-twitter"></i>](https://twitter.com/dddsydney)
+### DDD Sydney [<i class="fa fa-globe"></i>](http://next.dddsydney.com.au) [<i class="fa fa-twitter"></i>](https://twitter.com/dddsydney)
 
 | **Event Name** | **Event Date**   |
 | -------------- | ---------------- |
