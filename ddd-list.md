@@ -15,6 +15,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 | **Event Name**             | **Event Date**      |
 | -------------------------- | ------------------- |
+|  DDD Brisbane 8            | 1st December 2018   |
 |  DDD East Anglia 2018      | 22nd September 2018 | 
 |  DDD Melbourne 8           | 15th September 2018 | 
 |  DDD Sydney 6              | 17th August 2018    | 
