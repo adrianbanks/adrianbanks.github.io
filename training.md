@@ -71,17 +71,17 @@ These are the training courses and conferences that I have attended over the yea
 {:.mdtable}
 
  [1]: http://www.developerdeveloperdeveloper.com
- [2]: http://www.dddsouthwest.com
+ [2]: https://www.dddsouthwest.com
  [3]: http://dddnorth.co.uk
  [4]: https://management30.com
  [5]: http://www.codemanship.co.uk
  [6]: https://skillsmatter.com
  [7]: http://kateatkin.com
  [8]: https://www.dddeastanglia.com
- [9]: http://www.ndcconferences.com
+ [9]: https://www.ndcconferences.com
  [10]: http://www.software-acumen.com
- [11]: http://www.userfocus.co.uk
- [12]: http://dginternational.co.uk
+ [11]: https://www.userfocus.co.uk
+ [12]: https://dginternational.co.uk
  [13]: http://www.management-learning.co.uk
  [14]: http://coastconsulting.com
  [15]: https://twitter.com/nativewired
