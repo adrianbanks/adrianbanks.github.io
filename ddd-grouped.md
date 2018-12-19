@@ -20,6 +20,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 - [DDD East Anglia](#ddd-east-anglia---)  
 - [DDD Galway](#ddd-galway)  
 - [DDD Melbourne](#ddd-melbourne--)  
+- [DDD Netherlands](#ddd-netherlands--)
 - [DDD North](#ddd-north---)  
 - [DDD Perth](#ddd-perth--)  
 - [DDD Reading](#ddd-reading--)  
@@ -72,6 +73,13 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | **Event Name** | **Event Date** |
 | -------------- | -------------- |
 | DDD Galway     | 3rd May 2008   |
+{:.mdtable}
+
+### DDD Netherlands [<i class="fa fa-globe"></i>](https://www.dddnetherlands.com) [<i class="fa fa-twitter"></i>](https://twitter.com/DDDNetherlands)
+
+| **Event Name**  | **Event Date** |
+| --------------- | ---------------|
+| DDD Netherlands | 18th May 2019  |
 {:.mdtable}
 
 ### DDD North [<i class="fa fa-globe"></i>](http://www.dddnorth.co.uk) [<i class="fa fa-twitter"></i>](https://twitter.com/dddnorth) [<i class="fa fa-facebook"></i>](https://www.facebook.com/DDD-North-254649631214825)

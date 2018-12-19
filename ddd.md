@@ -21,6 +21,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 - DDD East Midlands [<i class="fa fa-globe"></i>](https://www.dddeastmidlands.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddeastmidlands) [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/company/ddd-east-midlands-limited/)
 - DDD Galway
 - DDD Melbourne [<i class="fa fa-globe"></i>](http://www.dddmelbourne.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddmelb)
+- DDD Netherlands [<i class="fa fa-globe"></i>](https://www.dddnetherlands.com) [<i class="fa fa-twitter"></i>](https://twitter.com/DDDNetherlands)
 - DDD North [<i class="fa fa-globe"></i>](http://www.dddnorth.co.uk) [<i class="fa fa-twitter"></i>](https://twitter.com/dddnorth) [<i class="fa fa-facebook"></i>](https://www.facebook.com/DDD-North-254649631214825)
 - DDD Perth [<i class="fa fa-globe"></i>](http://www.dddperth.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddperth)
 - DDD Reading [<i class="fa fa-globe"></i>](http://www.developerdeveloperdeveloper.com) [<i class="fa fa-twitter"></i>](https://twitter.com/developerday)
