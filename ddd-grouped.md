@@ -65,7 +65,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 | **Event Name**    | **Event Date**    |
 | ------------------| ----------------- |
-| DDD East Midlands | October 2019      |
+| DDD East Midlands | 26th October 2019 |
 {:.mdtable}
 
 ### DDD Galway
