@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 2nd March 2019      | DDD North 8                                        | [DDD North][3]                                           | Conference          |
 | 30th January 2019   | NDC London 2019                                    | [NDC][9]                                                 | Conference (3 days) |
 | 6th October 2018    | SAFE Stack                                         | [Birmingham Alt.Net][21]                                 | Workshop            |
 | 26th September 2018 | Proactive Web Defense                              | [MWR Security][20]                                       | Training (3 days)   |
