@@ -10,7 +10,7 @@ I have been programming for many years. I first started programming on a ZX Spec
 
 Later, I progressed to the Atari ST and continued programming, making simple applications in my spare time. At the age of twelve, one of my programs for designing gears was bought by a local engineering company and was used as part of their design process.
 
-My first published work ([see the article](/assets/media/images/about/bic.gif)) was on an [ST Format cover disk](/assets/media/images/about/stformat.gif) with a small utility called [BIC](http://www.adrianbanks.co.uk/downloads/download.php?id=80f32862e86af04186a1f24ad2f1e457).
+My first published work ([see the article](/assets/media/images/about/bic.gif)) was on an [ST Format cover disk](/assets/media/images/about/stformat.gif) with a small utility called [BIC](https://www.adrianbanks.co.uk/downloads/download.php?id=80f32862e86af04186a1f24ad2f1e457).
 
 ### Later years
 
@@ -26,6 +26,6 @@ I am a co-organiser of [DDD East Anglia](https://www.dddeastanglia.com), one of 
 
 ### Stackoverflow
 
-I have been an active contributor to [Stackoverflow](http://stackoverflow.com) for many years. I find it an invaluable resource for modern software development, but also a useful tool for learning new things.
+I have been an active contributor to [Stackoverflow](https://stackoverflow.com) for many years. I find it an invaluable resource for modern software development, but also a useful tool for learning new things.
 
-[![Stackoverflow reputation](http://stackoverflow.com/users/flair/116923.png)](http://stackoverflow.com/users/116923/adrianbanks)
+[![Stackoverflow reputation](http://stackoverflow.com/users/flair/116923.png)](https://stackoverflow.com/users/116923/adrianbanks)
