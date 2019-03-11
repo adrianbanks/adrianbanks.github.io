@@ -59,6 +59,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD East Anglia 2015 | 26th September 2015 |
 | DDD East Anglia 2017 | 16th September 2017 |
 | DDD East Anglia 2018 | 22nd September 2018 |
+| DDD East Anglia 2019 | 21st September 2019 |
 {:.mdtable}
 
 ### DDD East Midlands [<i class="fa fa-globe"></i>](https://www.dddeastmidlands.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddeastmidlands) [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/company/ddd-east-midlands-limited/)
