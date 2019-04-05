@@ -197,6 +197,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Melbourne 6 | 13th August 2016    |
 | DDD Melbourne 7 | 12th August 2017    |
 | DDD Melbourne 8 | 15th September 2018 |
+| DDD Melbourne 9 | 10th August 2019    |
 {:.mdtable}
 
 ### DDD Perth [<i class="fa fa-globe"></i>](http://www.dddperth.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddperth)
@@ -207,6 +208,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Perth 2    | 27th August 2016    |
 | DDD Perth 3    | 16th September 2017 |
 | DDD Perth 4    | 4th August 2018     |
+| DDD Perth 5    | 3rd August 2019     |
 {:.mdtable}
 
 ### DDD Sydney [<i class="fa fa-globe"></i>](http://next.dddsydney.com.au) [<i class="fa fa-twitter"></i>](https://twitter.com/dddsydney)
