@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 27th April 2019     | DDD South West 9                                   | [DDD South West][2]                                      | Conference          |
 | 19th March 2019     | LevelUp 2019                                       | [Redgate][22]                                            | Conference          |
 | 2nd March 2019      | DDD North 8                                        | [DDD North][3]                                           | Conference          |
 | 30th January 2019   | NDC London 2019                                    | [NDC][9]                                                 | Conference (3 days) |
