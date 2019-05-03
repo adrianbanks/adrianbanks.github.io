@@ -29,7 +29,7 @@ pre code {
 
 img[alt=""], 
 img:not([alt]) {
-  border: 5px red dashed;
+  border: 5px red dashed !important;
 }
 
 hr {
