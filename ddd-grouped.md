@@ -85,16 +85,17 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 ### DDD North [<i class="fa fa-globe"></i>](http://www.dddnorth.co.uk) [<i class="fa fa-twitter"></i>](https://twitter.com/dddnorth) [<i class="fa fa-facebook"></i>](https://www.facebook.com/DDD-North-254649631214825)
 
-| **Event Name** | **Event Date**    |
-| -------------- | ----------------- |
-| DDD North 1    | 8th October 2011  |
-| DDD North 2    | 13th October 2012 |
-| DDD North 3    | 12th October 2013 |
-| DDD North 4    | 18th October 2014 |
-| DDD North 5    | 24th October 2015 |
-| DDD North 6    | 1st October 2016  |
-| DDD North 7    | 14th October 2017 |
-| DDD North 8    | 2nd March 2019    |
+| **Event Name** | **Event Date**     |
+| -------------- | ------------------ |
+| DDD North 1    | 8th October 2011   |
+| DDD North 2    | 13th October 2012  |
+| DDD North 3    | 12th October 2013  |
+| DDD North 4    | 18th October 2014  |
+| DDD North 5    | 24th October 2015  |
+| DDD North 6    | 1st October 2016   |
+| DDD North 7    | 14th October 2017  |
+| DDD North 8    | 2nd March 2019     |
+| DDD North 9    | 29th February 2020 |
 {:.mdtable}
 
 ### DDD Reading [<i class="fa fa-globe"></i>](http://www.developerdeveloperdeveloper.com) [<i class="fa fa-twitter"></i>](https://twitter.com/developerday)
@@ -114,6 +115,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Reading 11 | 3rd September 2016 |
 | DDD Reading 12 | 10th June 2017     |
 | DDD Reading 13 | 23rd June 2018     |
+| DDD Reading 14 | 12th October 2019  |
 {:.mdtable}
 
 ### DDD Scotland [<i class="fa fa-globe"></i>](https://dddscotland.org) [<i class="fa fa-twitter"></i>](https://twitter.com/dddscot)
