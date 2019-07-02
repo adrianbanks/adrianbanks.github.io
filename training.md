@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 24th June 2019      | Mob Programming                                    | [Woody Zuill][23]                                        | Workshop            |
 | 27th April 2019     | DDD South West 9                                   | [DDD South West][2]                                      | Conference          |
 | 19th March 2019     | LevelUp 2019                                       | [Redgate][22]                                            | Conference          |
 | 2nd March 2019      | DDD North 8                                        | [DDD North][3]                                           | Conference          |
@@ -97,3 +98,5 @@ These are the training courses and conferences that I have attended over the yea
  [20]: https://www.mwrinfosecurity.com
  [21]: https://www.meetup.com/altnetbrum/
  [22]: https://www.red-gate.com
+ [23]: https://woodyzuill.com
+ 
