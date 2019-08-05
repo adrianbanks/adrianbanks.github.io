@@ -13,7 +13,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
     <li><a href="ddd-list.html">Chronological list</a></li>
 </ul>
 
-- DDD Adelaide
+- DDD Adelaide [<i class="fa fa-globe"></i>](https://www.dddadelaide.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddadelaide)
 - DDD Belfast [<i class="fa fa-twitter"></i>](https://twitter.com/dddbelfast)
 - DDD Brisbane [<i class="fa fa-globe"></i>](http://www.dddbrisbane.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddbrisbane)
 - DDD Dublin

@@ -168,9 +168,10 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 ### DDD Adelaide
 
-| **Event Name** | **Event Date** |
-| -------------- | -------------- |
-| DDD Adelaide   | 16th July 2011 |
+| **Event Name** | **Event Date**     |
+| -------------- | ------------------ |
+| DDD Adelaide 1 | 16th July 2011     |
+| DDD Adelaide 2 | 23rd November 2019 |
 {:.mdtable}
 
 ### DDD Brisbane [<i class="fa fa-globe"></i>](http://www.dddbrisbane.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddbrisbane)

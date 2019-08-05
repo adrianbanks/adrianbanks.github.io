@@ -16,6 +16,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | **Event Name**             | **Event Date**      |
 | -------------------------- | ------------------- |
 |  DDD North 9               | 29th February 2020  |
+|  DDD Adelaide 2            | 23rd November 2019  |
 |  DDD East Midlands         | 26th October 2019   |
 |  DDD Reading 14            | 12th October 2019   |
 |  DDD East Anglia 2019      | 21st September 2019 |
