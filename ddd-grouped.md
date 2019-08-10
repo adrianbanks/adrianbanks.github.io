@@ -64,9 +64,10 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 ### DDD East Midlands [<i class="fa fa-globe"></i>](https://www.dddeastmidlands.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddeastmidlands) [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/company/ddd-east-midlands-limited/)
 
-| **Event Name**    | **Event Date**    |
-| ------------------| ----------------- |
-| DDD East Midlands | 26th October 2019 |
+| **Event Name**         | **Event Date**    |
+| ---------------------- | ----------------- |
+| DDD East Midlands 2019 | 26th October 2019 |
+| DDD East Midlands 2020 | 3rd October 2020  |
 {:.mdtable}
 
 ### DDD Galway
