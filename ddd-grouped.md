@@ -217,14 +217,15 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 ### DDD Sydney [<i class="fa fa-globe"></i>](http://next.dddsydney.com.au) [<i class="fa fa-twitter"></i>](https://twitter.com/dddsydney)
 
-| **Event Name** | **Event Date**   |
-| -------------- | ---------------- |
-| DDD Sydney 1   | 2nd July 2010    |
-| DDD Sydney 2   | 2nd July 2011    |
-| DDD Sydney 3   | 30th June 2012   |
-| DDD Sydney 4   | 28th May 2016    |
-| DDD Sydney 5   | 15th July 2017   |
-| DDD Sydney 6   | 17th August 2018 |
+| **Event Name** | **Event Date**      |
+| -------------- | ------------------- |
+| DDD Sydney 1   | 2nd July 2010       |
+| DDD Sydney 2   | 2nd July 2011       |
+| DDD Sydney 3   | 30th June 2012      |
+| DDD Sydney 4   | 28th May 2016       |
+| DDD Sydney 5   | 15th July 2017      |
+| DDD Sydney 6   | 17th August 2018    |
+| DDD Sydney 7   | 21st September 2019 |
 {:.mdtable}
 
 ----
