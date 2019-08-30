@@ -18,6 +18,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 - [DDD Brisbane](#ddd-brisbane--)  
 - [DDD Dublin](#ddd-dublin)  
 - [DDD East Anglia](#ddd-east-anglia---)  
+- [DDD East Midlands](#ddd-east-midlands---)
 - [DDD Galway](#ddd-galway)  
 - [DDD Melbourne](#ddd-melbourne--)  
 - [DDD Netherlands](#ddd-netherlands--)
