@@ -193,17 +193,18 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 ### DDD Melbourne [<i class="fa fa-globe"></i>](http://www.dddmelbourne.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddmelb)
 
-| **Event Name**  | **Event Date**      |
-| --------------- | ------------------- |
-| DDD Melbourne 1 | 15th May 2010       |
-| DDD Melbourne 2 | 28th May 2011       |
-| DDD Melbourne 3 | 28th July 2012      |
-| DDD Melbourne 4 | 19th July 2014      |
-| DDD Melbourne 5 | 8th August 2015     |
-| DDD Melbourne 6 | 13th August 2016    |
-| DDD Melbourne 7 | 12th August 2017    |
-| DDD Melbourne 8 | 15th September 2018 |
-| DDD Melbourne 9 | 10th August 2019    |
+| **Event Name**   | **Event Date**      |
+| ---------------- | ------------------- |
+| DDD Melbourne 1  | 25th April 2009     |
+| DDD Melbourne 2  | 15th May 2010       |
+| DDD Melbourne 3  | 28th May 2011       |
+| DDD Melbourne 4  | 28th July 2012      |
+| DDD Melbourne 5  | 19th July 2014      |
+| DDD Melbourne 6  | 8th August 2015     |
+| DDD Melbourne 7  | 13th August 2016    |
+| DDD Melbourne 8  | 12th August 2017    |
+| DDD Melbourne 9  | 15th September 2018 |
+| DDD Melbourne 10 | 10th August 2019    |
 {:.mdtable}
 
 ### DDD Perth [<i class="fa fa-globe"></i>](http://www.dddperth.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddperth)

@@ -23,14 +23,14 @@ There have been many Developer! Developer! Developer! events over the years, spr
 |  DDD Reading 14            | 12th October 2019   |
 |  DDD East Anglia 2019      | 21st September 2019 |
 |  DDD Sydney 7              | 21st September 2019 |
-|  DDD Melbourne 9           | 10th August 2019    |
+|  DDD Melbourne 10          | 10th August 2019    |
 |  DDD Perth 5               | 3rd August 2019     |
 |  DDD Netherlands           | 18th May 2019       |
 |  DDD South West 9          | 27th April 2019     |
 |  DDD North 8               | 2nd March 2019      |
 |  DDD Brisbane 8            | 1st December 2018   |
 |  DDD East Anglia 2018      | 22nd September 2018 | 
-|  DDD Melbourne 8           | 15th September 2018 | 
+|  DDD Melbourne 9           | 15th September 2018 | 
 |  DDD Sydney 6              | 17th August 2018    | 
 |  DDD Perth 4               | 4th August 2018     | 
 |  DDD Reading 13            | 23rd June 2018      | 
@@ -41,7 +41,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 |  DDD North 7               | 14th October 2017   | 
 |  DDD East Anglia 2017      | 16th September 2017 | 
 |  DDD Perth 3               | 16th September 2017 | 
-|  DDD Melbourne 7           | 12th August 2017    | 
+|  DDD Melbourne 8           | 12th August 2017    | 
 |  DDD Sydney 5              | 15th July 2017      | 
 |  DDD Reading 12            | 10th June 2017      | 
 |  DDD South West 7          | 6th May 2017        | 
@@ -49,20 +49,20 @@ There have been many Developer! Developer! Developer! events over the years, spr
 |  DDD North 6               | 1st October 2016    | 
 |  DDD Reading 11            | 3rd September 2016  | 
 |  DDD Perth 2               | 27th August 2016    | 
-|  DDD Melbourne 6           | 13th August 2016    | 
+|  DDD Melbourne 7           | 13th August 2016    | 
 |  DDD Sydney 4              | 28th May 2016       | 
 |  DDD Scotland 2016         | 14th May 2016       | 
 |  DDD Brisbane 5            | 5th December 2015   | 
 |  DDD North 5               | 24th October 2015   | 
 |  DDD East Anglia 2015      | 26th September 2015 | 
 |  DDD Perth 1               | 29th August 2015    | 
-|  DDD Melbourne 5           | 8th August 2015     | 
+|  DDD Melbourne 6           | 8th August 2015     | 
 |  DDD South West 6          | 25th April 2015     | 
 |  DDD Brisbane 4            | 6th December 2014   | 
 |  DunDDD 4                  | 29th November 2014  | 
 |  DDD North 4               | 18th October 2014   | 
 |  DDD East Anglia 2014      | 13th September 2014 | 
-|  DDD Melbourne 4           | 19th July 2014      | 
+|  DDD Melbourne 5           | 19th July 2014      | 
 |  DDD South West 5          | 17th May 2014       | 
 |  DDD Brisbane 3            | 7th December 2013   | 
 |  DunDDD 3                  | 23rd November 2013  | 
@@ -72,7 +72,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 |  DunDDD 2                  | 17th November 2012  | 
 |  DDD North 2               | 13th October 2012   | 
 |  DDD Reading 10            | 1st September 2012  | 
-|  DDD Melbourne 3           | 28th July 2012      | 
+|  DDD Melbourne 4           | 28th July 2012      | 
 |  DDD Sydney 3              | 30th June 2012      | 
 |  DDD South West 4          | 26th May 2012       | 
 |  DDD Brisbane 1            | 26th November 2011  | 
@@ -82,7 +82,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 |  DDD Adelaide              | 16th July 2011      | 
 |  DDD Sydney 2              | 2nd July 2011       | 
 |  DDD South West 3          | 11th June 2011      | 
-|  DDD Melbourne 2           | 28th May 2011       | 
+|  DDD Melbourne 3           | 28th May 2011       | 
 |  DDD Scotland 4            | 7th May 2011        | 
 |  DDD Reading 9             | 29th January 2011   | 
 |  NoSQL Autumn Conference   | 20th November 2010  | 
@@ -91,11 +91,12 @@ There have been many Developer! Developer! Developer! events over the years, spr
 |  Windows Phone 7           | 7th October 2010    | 
 |  DDD Sydney 1              | 2nd July 2010       | 
 |  DDD South West 2          | 5th June 2010       | 
-|  DDD Melbourne 1           | 15th May 2010       | 
+|  DDD Melbourne 2           | 15th May 2010       | 
 |  DDD Scotland 3            | 8th May 2010        | 
 |  DDD Reading 8             | 30th January 2010   | 
 |  DDD South West 1          | 23rd May 2009       | 
 |  DDD Scotland 2            | 2nd May 2009        | 
+|  DDD Melbourne 1           | 25th April 2009     |
 |  WebDD 2009                | 18th April 2009     | 
 |  DDD Belfast 1             | 4th April 2009      | 
 |  DDD Reading 7             | 22nd November 2008  | 
