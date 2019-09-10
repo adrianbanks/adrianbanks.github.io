@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 21st September 2019 | DDD East Anglia 2019                               | [DDD East Anglia][8]                                     | Conference          |
 | 11th September 2019 | ProgNet 2019                                       | [SkillsMatter][6]                                        | Conference (3 days) |
 | 24th June 2019      | Mob Programming                                    | [Woody Zuill][23]                                        | Workshop            |
 | 27th April 2019     | DDD South West 9                                   | [DDD South West][2]                                      | Conference          |
