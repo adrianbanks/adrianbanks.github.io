@@ -43,7 +43,7 @@ These are the training courses and conferences that I have attended over the yea
 | 7th August 2015     | Giving difficult feedback                          | [DGi International][12] - Steve Alexander & Des Williams | Training            |
 | 9th June 2015       | PDP                                                | [DGi International][12] - Steve Alexander                | Training            |
 | 26th May 2015       | Coaching                                           | [ML&C][13] - [Sue Blow][24]                              | Training            |
-| 13th May 2015       | Transision to Management                           | [DGi International][12] - David Mace                     | Training (2 days)   |
+| 13th May 2015       | Transition to Management                           | [DGi International][12] - David Mace                     | Training (2 days)   |
 | 3rd February 2015   | Introduction to UX                                 | [David Travis][11]                                       | Training (2 days)   |
 | 24th January 2015   | /dev/winter 2015                                   | [Software Acumen][10]                                    | Conference          |
 | 3rd December 2014   | NDC London 2014                                    | [NDC][9]                                                 | Conference (3 days) |
