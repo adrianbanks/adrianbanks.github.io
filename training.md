@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 28th November 2019  | Imposter Syndrome                                  | [Mari Williams][26]                                      | Workshop            |
 | 26th October 2019   | DDD East Midlands 2019                             | [DDD East Midlands][25]                                  | Conference          |
 | 21st September 2019 | DDD East Anglia 2019                               | [DDD East Anglia][8]                                     | Conference          |
 | 11th September 2019 | ProgNet 2019                                       | [SkillsMatter][6]                                        | Conference (3 days) |
@@ -104,3 +105,5 @@ These are the training courses and conferences that I have attended over the yea
  [23]: https://woodyzuill.com
  [24]: http://www.thought-support.co.uk
  [25]: https://www.dddeastmidlands.com
+ [26]: https://www.mari-williams.com
+ 
