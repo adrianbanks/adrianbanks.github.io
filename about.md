@@ -10,7 +10,7 @@ I have been programming for many years. I first started programming on a ZX Spec
 
 Later, I progressed to the Atari ST and continued programming, making simple applications in my spare time. At the age of twelve, one of my programs for designing gears was bought by a local engineering company and was used as part of their design process.
 
-My first published work ([see the article](/assets/media/images/about/bic.gif)) was on an [ST Format cover disk](/assets/media/images/about/stformat.gif) with a small utility called [BIC](https://www.adrianbanks.co.uk/downloads/download.php?id=80f32862e86af04186a1f24ad2f1e457).
+My first published work ([see the article](/assets/media/images/about/bic.gif)) was on an [ST Format cover disk](/assets/media/images/about/stformat.gif) with a small utility called BIC.
 
 ### Later years
 
