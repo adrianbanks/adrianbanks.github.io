@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 29th January 2020   | NDC London 2020                                    | [NDC][9]                                                 | Conference (3 days) |
 | 28th November 2019  | Imposter Syndrome                                  | [Mari Williams][26]                                      | Workshop            |
 | 26th October 2019   | DDD East Midlands 2019                             | [DDD East Midlands][25]                                  | Conference          |
 | 21st September 2019 | DDD East Anglia 2019                               | [DDD East Anglia][8]                                     | Conference          |
