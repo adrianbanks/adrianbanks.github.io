@@ -1,0 +1,91 @@
+{
+	// Place your adrianbanks.github.io workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	//   "scope": "javascript,typescript",
+	//   "prefix": "log",
+	//   "body": [
+	//     "console.log('$1');",
+	//     "$2"
+	//   ],
+	//   "description": "Log output to console"
+	// }
+	"Sketchnote slug": {
+		"scope": "markdown",
+		"prefix": "sketchnote",
+		"body": [
+			"### ${1:title}",
+			"by ${2:speaker}",
+			"<i class=\"fa fa-globe fa-lg\"></i> [Website]($3)",
+			"<i class=\"fa fa-twitter fa-lg\"></i> [Twitter]($4)",
+			"<i class=\"fa fa-slideshare fa-lg\"></i> [Slides]($5)",
+			"<i class=\"fa fa-video-camera fa-lg\"></i> [Video]($6)",
+			"<i class=\"fa fa-file-code-o fa-lg\"></i> [Code]($7)",
+			"",
+			"[![${1:title} by ${2:speaker}][${8:image-id}]][${8:image-id}]",
+			"$0"
+		],
+		"description": "Add a sketchnote markdown slug"
+	},
+	"Website link": {
+		"scope": "markdown",
+		"prefix": "sketchnote-website-link",
+		"body": [
+			"<i class=\"fa fa-globe fa-lg\"></i> [Website]($1)$0"
+		],
+		"description": "Add a markdown website link"
+	},
+	"Twitter link": {
+		"scope": "markdown",
+		"prefix": "sketchnote-twitter-link",
+		"body": [
+			"<i class=\"fa fa-twitter fa-lg\"></i> [Twitter]($1)$0"
+		],
+		"description": "Add a markdown Twitter link"
+	},
+	"Slides link": {
+		"scope": "markdown",
+		"prefix": "sketchnote-slides-link",
+		"body": [
+			"<i class=\"fa fa-slideshare fa-lg\"></i> [Slides]($1)$0"
+		],
+		"description": "Add a markdown slides link"
+	},
+	"Video link": {
+		"scope": "markdown",
+		"prefix": "sketchnote-video-link",
+		"body": [
+			"<i class=\"fa fa-video-camera fa-lg\"></i> [Video]($1)$0"
+		],
+		"description": "Add a markdown video link"
+	},
+	"Video (YouTube) link": {
+		"scope": "markdown",
+		"prefix": "sketchnote-video-youtube-link",
+		"body": [
+			"<i class=\"fa fa-youtube fa-lg\"></i> [Video]($1)$0"
+		],
+		"description": "Add a markdown youtube video link"
+	},
+	"Video (Vimeo) link": {
+		"scope": "markdown",
+		"prefix": "sketchnote-video-vimeo-link",
+		"body": [
+			"<i class=\"fa fa-vimeo fa-lg\"></i> [Video]($1)$0"
+		],
+		"description": "Add a markdown youtube video link"
+	},
+	"Code link": {
+		"scope": "markdown",
+		"prefix": "sketchnote-code-link",
+		"body": [
+			"<i class=\"fa fa-file-code-o fa-lg\"></i> [Code]($1)$0"
+		],
+		"description": "Add a markdown code link"
+	}
+}
