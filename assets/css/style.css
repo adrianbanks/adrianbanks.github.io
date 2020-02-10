@@ -322,6 +322,14 @@ img[src$='#img-sketchnote'] {
   margin-bottom: 2em;
 }
 
+img.img-circle {
+  transition: all 0.3s ease-in-out;
+}
+
+img.img-circle:hover {
+  transform: scale(1.1);
+}
+
 #cc-license {
   float: right;
 }
