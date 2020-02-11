@@ -93,11 +93,19 @@ a.nav-link:hover {
 
 #contact-list li .fa,
 article .share .btn {
-  -o-transition:color .2s ease-out, background 1s ease-in;
-  -ms-transition:color .2s ease-out, background 1s ease-in;
-  -moz-transition:color .2s ease-out, background 1s ease-in;
-  -webkit-transition:color .2s ease-out, background 1s ease-in;
-  transition:color .2s ease-out, background 1s ease-in;
+  -o-transition: color .2s ease-out, background 1s ease-in;
+  -ms-transition: color .2s ease-out, background 1s ease-in;
+  -moz-transition: color .2s ease-out, background 1s ease-in;
+  -webkit-transition: color .2s ease-out, background 1s ease-in;
+  transition: color .2s ease-out, background 1s ease-in;
+}
+
+#contact-list li .fa:hover {
+  -o-transition: scale(1.2);
+  -ms-transition: scale(1.2);
+  -moz-transition: scale(1.2);
+  -webkit-transition: scale(1.2);
+  transform: scale(1.2);
 }
 
 #contact-list-secondary {
@@ -327,6 +335,10 @@ img[src$='#img-sketchnote'] {
 }
 
 img.img-circle {
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 
