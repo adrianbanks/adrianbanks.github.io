@@ -265,6 +265,10 @@ footer {
   right: 0px;
 }
 
+.dropdown-toggle {
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 4px 8px;
+}
+
 ul.dropdown-menu>li>a>i.fa {
   width: 1.3em;
 }
