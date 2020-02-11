@@ -14,6 +14,7 @@ Here are the sketchnotes I did during the day.
 ### Nailing Down Distributed Workflows With Microservices
 by Ben Arroyo
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/benjaminarroyo)
+<i class="fa fa-file-code-o fa-lg"></i> [Code](https://github.com/benarroyo/ChickenPower)
 
 [![Nailing Down Distributed Workflows With Microservices by Ben Arroyo][1]][1]
 
@@ -37,9 +38,9 @@ by John Stovin
 ### Better The DevTool You Know
 by Viv Richards
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/11vlr)
+<i class="fa fa-file-code-o fa-lg"></i> [Code](https://github.com/vivrichards600/sweet-shop)
 
 [![Better The DevTool You Know by Viv Richards][4]][4]
-
 
 ### Kubernetes, Raspberry Pis, And More
 by Dan Clarke
