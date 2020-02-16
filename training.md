@@ -82,16 +82,16 @@ These are the training courses and conferences that I have attended over the yea
 | 25th February 2003  | Devweek 2003                                       | Bearpark Publishing                                      | Conference (3 days) |
 {:.mdtable}
 
- [1]: http://www.developerdeveloperdeveloper.com
+ [1]: https://www.developerdeveloperdeveloper.com
  [2]: https://www.dddsouthwest.com
- [3]: http://dddnorth.co.uk
+ [3]: https://dddnorth.co.uk
  [4]: https://management30.com
  [5]: http://www.codemanship.co.uk
  [6]: https://skillsmatter.com
- [7]: http://kateatkin.com
+ [7]: https://kateatkin.com
  [8]: https://www.dddeastanglia.com
  [9]: https://www.ndcconferences.com
- [10]: http://www.software-acumen.com
+ [10]: https://www.software-acumen.com
  [11]: https://www.userfocus.co.uk
  [12]: https://dginternational.co.uk
  [13]: http://www.management-learning.co.uk
@@ -100,7 +100,7 @@ These are the training courses and conferences that I have attended over the yea
  [16]: http://www.foundercentric.com
  [17]: https://dannorth.net
  [18]: https://treehouseinnovation.com
- [19]: http://blog.ploeh.dk
+ [19]: https://blog.ploeh.dk
  [20]: https://www.mwrinfosecurity.com
  [21]: https://www.meetup.com/altnetbrum/
  [22]: https://www.red-gate.com
