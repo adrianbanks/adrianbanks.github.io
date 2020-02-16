@@ -5,6 +5,7 @@ title: Developer! Developer! Developer! Event Attendance
 
 Over the years I have attended many DDD events:
 
+- DDD North 9
 - DDD East Midlands 2019
 - DDD East Anglia 2019
 - DDD South West 9
