@@ -15,6 +15,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 | **Event Name**             | **Event Date**      |
 | -------------------------- | ------------------- |
+|  DDD Brisbane 10           | 28th November 2020  |
 |  DDD East Midlands 2020    | 3rd October 2020    |
 |  DDD South West 10         | 25th April 2020     |
 |  DDD North 9               | 29th February 2020  |

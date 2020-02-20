@@ -179,17 +179,18 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 ### DDD Brisbane [<i class="fa fa-globe"></i>](http://www.dddbrisbane.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddbrisbane)
 
-| **Event Name** | **Event Date**     |
-| -------------- | ------------------ |
-| DDD Brisbane 1 | 26th November 2011 |
-| DDD Brisbane 2 | 1st December 2012  |
-| DDD Brisbane 3 | 7th December 2013  |
-| DDD Brisbane 4 | 6th December 2014  |
-| DDD Brisbane 5 | 5th December 2015  |
-| DDD Brisbane 6 | 3rd December 2016  |
-| DDD Brisbane 7 | 2nd December 2017  |
-| DDD Brisbane 8 | 1st December 2018  |
-| DDD Brisbane 9 | 7th December 2019  |
+| **Event Name**  | **Event Date**     |
+| --------------- | ------------------ |
+| DDD Brisbane 1  | 26th November 2011 |
+| DDD Brisbane 2  | 1st December 2012  |
+| DDD Brisbane 3  | 7th December 2013  |
+| DDD Brisbane 4  | 6th December 2014  |
+| DDD Brisbane 5  | 5th December 2015  |
+| DDD Brisbane 6  | 3rd December 2016  |
+| DDD Brisbane 7  | 2nd December 2017  |
+| DDD Brisbane 8  | 1st December 2018  |
+| DDD Brisbane 9  | 7th December 2019  |
+| DDD Brisbane 10 | 28th November 2020 |
 {:.mdtable}
 
 ### DDD Melbourne [<i class="fa fa-globe"></i>](http://www.dddmelbourne.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddmelb)
