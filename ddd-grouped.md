@@ -219,6 +219,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Perth 3    | 16th September 2017 |
 | DDD Perth 4    | 4th August 2018     |
 | DDD Perth 5    | 3rd August 2019     |
+| DDD Perth 6    | 1st August 2020     |
 {:.mdtable}
 
 ### DDD Sydney [<i class="fa fa-globe"></i>](http://next.dddsydney.com.au) [<i class="fa fa-twitter"></i>](https://twitter.com/dddsydney)
