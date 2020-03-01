@@ -207,6 +207,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Melbourne 8  | 12th August 2017    |
 | DDD Melbourne 9  | 15th September 2018 |
 | DDD Melbourne 10 | 10th August 2019    |
+| DDD Melbourne 11 | 3rd October 2020    |
 {:.mdtable}
 
 ### DDD Perth [<i class="fa fa-globe"></i>](http://www.dddperth.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddperth)
