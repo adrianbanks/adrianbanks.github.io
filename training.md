@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 26th May 2020       | Building Microservices                             | [Sam Newman][27]                                         | Training (2 days)   |
 | 29th February 2020  | DDD North 9                                        | [DDD North][3]                                           | Conference          |
 | 29th January 2020   | NDC London 2020                                    | [NDC][9]                                                 | Conference (3 days) |
 | 28th November 2019  | Imposter Syndrome                                  | [Mari Williams][26]                                      | Workshop            |
@@ -108,4 +109,4 @@ These are the training courses and conferences that I have attended over the yea
  [24]: http://www.thought-support.co.uk
  [25]: https://www.dddeastmidlands.com
  [26]: https://www.mari-williams.com
- 
+ [27]: https://samnewman.io
