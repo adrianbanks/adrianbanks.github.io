@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+  <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>blog.adrianbanks.co.uk</ShortName>
+    <Description>blog.adrianbanks.co.uk</Description>
+    <Image height="16" width="16" type="image/png">https://blog.adrianbanks.co.uk/favicon-16x16.png</Image>
+    <Url type="text/html" template="https://www.google.com/search?q=site%3Ablog.adrianbanks.co.uk+{searchTerms}" />
+</OpenSearchDescription>
