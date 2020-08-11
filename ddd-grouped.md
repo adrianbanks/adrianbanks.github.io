@@ -68,7 +68,6 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | **Event Name**         | **Event Date**    |
 | ---------------------- | ----------------- |
 | DDD East Midlands 2019 | 26th October 2019 |
-| DDD East Midlands 2020 | 3rd October 2020  |
 | DDD East Midlands 2021 | 2nd October 2021  |
 {:.mdtable}
 
@@ -190,7 +189,6 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Brisbane 7  | 2nd December 2017  |
 | DDD Brisbane 8  | 1st December 2018  |
 | DDD Brisbane 9  | 7th December 2019  |
-| DDD Brisbane 10 | 28th November 2020 |
 {:.mdtable}
 
 ### DDD Melbourne [<i class="fa fa-globe"></i>](http://www.dddmelbourne.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddmelb)
@@ -207,7 +205,6 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Melbourne 8  | 12th August 2017    |
 | DDD Melbourne 9  | 15th September 2018 |
 | DDD Melbourne 10 | 10th August 2019    |
-| DDD Melbourne 11 | 3rd October 2020    |
 {:.mdtable}
 
 ### DDD Perth [<i class="fa fa-globe"></i>](http://www.dddperth.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddperth)
@@ -219,7 +216,6 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Perth 3    | 16th September 2017 |
 | DDD Perth 4    | 4th August 2018     |
 | DDD Perth 5    | 3rd August 2019     |
-| DDD Perth 6    | 1st August 2020     |
 {:.mdtable}
 
 ### DDD Sydney [<i class="fa fa-globe"></i>](http://next.dddsydney.com.au) [<i class="fa fa-twitter"></i>](https://twitter.com/dddsydney)
