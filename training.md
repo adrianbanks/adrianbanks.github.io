@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 12th December 2020  | DDD Reading 15 (virtual)                           | [DDD Reading][1]                                         | Conference          |
 | 1st December 2020   | Technical Leadership                               | [Bredemeyer Consulting][28]                              | Training (2 days)   |
 | 26th May 2020       | Building Microservices                             | [Sam Newman][27]                                         | Training (2 days)   |
 | 29th February 2020  | DDD North 9                                        | [DDD North][3]                                           | Conference          |
