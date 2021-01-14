@@ -102,22 +102,23 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 ### DDD Reading [<i class="fa fa-globe"></i>](http://www.developerdeveloperdeveloper.com) [<i class="fa fa-twitter"></i>](https://twitter.com/developerday)
 
-| **Event Name** | **Event Date**     |
-| -------------- | ------------------ |
-| DDD Reading 1  | 15th May 2005      |
-| DDD Reading 2  | 22nd October 2005  |
-| DDD Reading 3  | 3rd June 2006      |
-| DDD Reading 4  | 2nd December 2006  |
-| DDD Reading 5  | 30th June 2007     |
-| DDD Reading 6  | 24th November 2007 |
-| DDD Reading 7  | 22nd November 2008 |
-| DDD Reading 8  | 30th January 2010  |
-| DDD Reading 9  | 29th January 2011  |
-| DDD Reading 10 | 1st September 2012 |
-| DDD Reading 11 | 3rd September 2016 |
-| DDD Reading 12 | 10th June 2017     |
-| DDD Reading 13 | 23rd June 2018     |
-| DDD Reading 14 | 12th October 2019  |
+| **Event Name**           | **Event Date**     |
+| ------------------------ | ------------------ |
+| DDD Reading 1            | 15th May 2005      |
+| DDD Reading 2            | 22nd October 2005  |
+| DDD Reading 3            | 3rd June 2006      |
+| DDD Reading 4            | 2nd December 2006  |
+| DDD Reading 5            | 30th June 2007     |
+| DDD Reading 6            | 24th November 2007 |
+| DDD Reading 7            | 22nd November 2008 |
+| DDD Reading 8            | 30th January 2010  |
+| DDD Reading 9            | 29th January 2011  |
+| DDD Reading 10           | 1st September 2012 |
+| DDD Reading 11           | 3rd September 2016 |
+| DDD Reading 12           | 10th June 2017     |
+| DDD Reading 13           | 23rd June 2018     |
+| DDD Reading 14           | 12th October 2019  |
+| DDD Reading 15 (virtual) | 12th December 2020 |
 {:.mdtable}
 
 ### DDD Scotland [<i class="fa fa-globe"></i>](https://dddscotland.org) [<i class="fa fa-twitter"></i>](https://twitter.com/dddscot)
