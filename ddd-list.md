@@ -15,6 +15,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 | **Event Name**             | **Event Date**      |
 | -------------------------- | ------------------- |
+|  DDD Reading 16            | 27th November 2021  |
 |  DDD East Midlands 2021    | 2nd October 2021    |
 |  DDD Perth 6               | 14th August 2021    |
 |  DDD Reading 15 (virtual)  | 12th December 2020  |
