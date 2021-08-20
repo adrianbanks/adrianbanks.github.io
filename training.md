@@ -113,4 +113,3 @@ These are the training courses and conferences that I have attended over the yea
  [26]: https://www.mari-williams.com
  [27]: https://samnewman.io
  [28]: https://www.bredemeyer.com
- 
