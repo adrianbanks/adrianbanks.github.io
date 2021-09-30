@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 30th September 2021 | Shortcut To Technical Leadership                   | [Patrick Kua][29]                                        | Training            |
 | 12th December 2020  | DDD Reading 15 (virtual)                           | [DDD Reading][1]                                         | Conference          |
 | 1st December 2020   | Technical Leadership                               | [Bredemeyer Consulting][28]                              | Training (2 days)   |
 | 26th May 2020       | Building Microservices                             | [Sam Newman][27]                                         | Training (2 days)   |
@@ -113,3 +114,4 @@ These are the training courses and conferences that I have attended over the yea
  [26]: https://www.mari-williams.com
  [27]: https://samnewman.io
  [28]: https://www.bredemeyer.com
+ [29]: https://www.patkua.com/shortcut-to-tech-leadership/
