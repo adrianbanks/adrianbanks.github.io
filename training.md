@@ -10,8 +10,8 @@ These are the training courses and conferences that I have attended over the yea
 | 30th September 2021 | Shortcut To Technical Leadership (virtual)         | [Patrick Kua][30]                                        | Training            |
 | 14th September 2021 | LeadDev Live & StaffPlus Live (virtual)            | [LeadDev][29]                                            | Conference          |
 | 12th December 2020  | DDD Reading 15 (virtual)                           | [DDD Reading][1]                                         | Conference          |
-| 1st December 2020   | Technical Leadership                               | [Bredemeyer Consulting][28]                              | Training (2 days)   |
-| 26th May 2020       | Building Microservices                             | [Sam Newman][27]                                         | Training (2 days)   |
+| 1st December 2020   | Technical Leadership (virtual)                     | [Bredemeyer Consulting][28]                              | Training (2 days)   |
+| 26th May 2020       | Building Microservices (virtual)                   | [Sam Newman][27]                                         | Training (2 days)   |
 | 29th February 2020  | DDD North 9                                        | [DDD North][3]                                           | Conference          |
 | 29th January 2020   | NDC London 2020                                    | [NDC][9]                                                 | Conference (3 days) |
 | 28th November 2019  | Imposter Syndrome                                  | [Mari Williams][26]                                      | Workshop            |
