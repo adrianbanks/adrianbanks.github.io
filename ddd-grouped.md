@@ -69,6 +69,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | ---------------------- | ----------------- |
 | DDD East Midlands 2019 | 26th October 2019 |
 | DDD East Midlands 2021 | 2nd October 2021  |
+| DDD East Midlands 2023 | 7th October 2023  |
 {:.mdtable}
 
 ### DDD Galway
