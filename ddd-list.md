@@ -16,6 +16,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | **Event Name**             | **Event Date**      |
 | -------------------------- | ------------------- |
 |  DDD East Midlands 2023    | 7th October 2023    |
+|  DDD Brisbane 10           | 3rd December 2022   |
 |  DDD Perth 7               | 10th September 2022 |
 |  DDD South West 10         | 25th June 2022      |
 |  DDD Reading 16            | 27th November 2021  |
