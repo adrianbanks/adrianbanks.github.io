@@ -1,7 +1,7 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
 encoding: UTF-8
-paginate: 10 # pagination based on number of posts
+paginate: 5 # pagination based on number of posts
 paginate_path: "page:num"
 highlighter: rouge
 markdown: kramdown
