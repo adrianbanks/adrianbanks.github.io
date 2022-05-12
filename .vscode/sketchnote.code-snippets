@@ -87,5 +87,13 @@
 			"<i class=\"fa fa-file-code-o fa-lg\"></i> [Code]($1)$0"
 		],
 		"description": "Add a markdown code link"
+	},
+	"Image link": {
+		"scope": "markdown",
+		"prefix": "sketchnote-image-link",
+		"body": [
+			"  [${1:image-id}]: /assets/media/images/${2:year}/${3:month}/${4:image-name}.jpg#img-sketchnote$0"
+		],
+		"description": "Add a markdown image link"
 	}
 }
