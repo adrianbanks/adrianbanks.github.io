@@ -318,6 +318,7 @@ pre.stacktrace {
 
 .mdtable {
   border-collapse: collapse;
+  margin-bottom: 2em;
 }
 
 .mdtable th, .mdtable td {

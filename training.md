@@ -89,6 +89,17 @@ These are the training courses and conferences that I have attended over the yea
 | 25th February 2003  | Devweek 2003                                       | Bearpark Publishing                                      | Conference (3 days) |
 {:.mdtable}
 
+
+Of the conferences above, these are the ones that I have attended as a speaker:
+
+| **Date**            | **Event Name**  | **Run By**            | **Session Title**                                       |
+| ------------------- | ----------------| --------------------- | ------------------------------------------------------- |
+| 9th June 2022       | LevelUp 2022    | [Redgate][22]         | How we used AppInsights data to drive product decisions |
+| 6th March 2018      | LevelUp 2018    | [Redgate][22]         | How many teams can work on the same product             |
+| 1st October 2014    | Agile Cambridge | [Software Acumen][10] | [Can agile work for off-the-shelf software?][31]        |
+{:.mdtable}
+
+
  [1]: https://www.developerdeveloperdeveloper.com
  [2]: https://www.dddsouthwest.com
  [3]: https://dddnorth.co.uk
@@ -119,3 +130,5 @@ These are the training courses and conferences that I have attended over the yea
  [28]: https://www.bredemeyer.com
  [29]: https://leaddev.com
  [30]: https://www.patkua.com/shortcut-to-tech-leadership/
+ [31]: https://www.infoq.com/presentations/agile-off-the-shelf/
+ 
