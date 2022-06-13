@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**      |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------- |
+| 9th June 2022       | LevelUp 2022                                       | [Redgate][22]                                            | Conference          |
 | 9th May 2022        | NDC London 2022                                    | [NDC][9]                                                 | Conference (3 days) |
 | 30th September 2021 | Shortcut To Technical Leadership (virtual)         | [Patrick Kua][30]                                        | Training            |
 | 14th September 2021 | LeadDev Live & StaffPlus Live (virtual)            | [LeadDev][29]                                            | Conference          |
