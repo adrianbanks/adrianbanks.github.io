@@ -78,7 +78,7 @@
 		"body": [
 			"<i class=\"fa fa-vimeo fa-lg\"></i> [Video]($1)$0"
 		],
-		"description": "Add a markdown youtube video link"
+		"description": "Add a markdown vimeo video link"
 	},
 	"Code link": {
 		"scope": "markdown",
