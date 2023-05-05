@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**           |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------------ |
+| 29th April 2023     | DDD South West 11                                  | [DDD South West][2]                                      | Conference               |
 | 25th June 2022      | DDD South West 10                                  | [DDD South West][2]                                      | Conference               |
 | 9th June 2022       | LevelUp 2022                                       | [Redgate][22]                                            | Conference               |
 | 9th May 2022        | NDC London 2022                                    | [NDC][9]                                                 | Conference (3 days)      |
