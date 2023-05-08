@@ -3,6 +3,7 @@ $(document).ready(() => {
     var resultsPerPage = 8;
     var allData = [];
     var rootPath = '';
+    var allEvents = [];
     var allSpeakers = [];
     var allTags = [];
 
@@ -58,6 +59,7 @@ $(document).ready(() => {
     .then(json => {
         allData = json.sketchnotes;
         rootPath = json.rootPath;
+        allEvents = [...new Set(allData.map(sketchnote => sketchnote.event))];
         allSpeakers = [...new Set(allData.map(sketchnote => sketchnote.speaker))];
         allTags = [...new Set(allData.map(sketchnote => sketchnote.tags).flat(Infinity))];
 
