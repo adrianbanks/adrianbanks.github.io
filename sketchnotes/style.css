@@ -1,3 +1,12 @@
+#banner {
+    padding: 4px;
+}
+
+#searchText {
+    width: 25em;
+    line-height: 2em;
+}
+
 #sketchnotes {
     padding: 0;
     margin: 0;
@@ -25,6 +34,8 @@
 
 .sketchnote img {
     border: 1px solid #999999;
+    background-image: url('./placeholder.jpg');
+    background-repeat: no-repeat;
     margin-bottom: 4px;
 }
 
