@@ -1,0 +1,23 @@
+{
+    "rootPath" : "../assets/media/images/",
+    "sketchnotes": [
+        {
+            "title": "Data Scientists: Making Shit Up Since 1974",
+            "speaker": "Gary Short",
+            "filename": "2022/07/data-scientists-making-shit-up-since-1974-gary-short.jpg",
+            "tags": ["a", "b", "c"]
+        },
+        {
+            "title": "Exploring Minimal .Net",
+            "speaker": "Kevin Smith",
+            "filename": "2022/07/exploring-minimal-dotnet-kevin-smith.jpg",
+            "tags": ["d", "e", "f"]
+        },
+        {
+            "title": "Let's Stop Blaming Our Users For Getting Hacked When It Is Our Problem To Solve",
+            "speaker": "Scott Brady",
+            "filename": "2022/07/lets-stop-blaming-our-users-for-getting-hacked-when-it-is-our-problem-to-solve-scott-brady.jpg",
+            "tags": ["a", "f", "g"]
+        }
+    ]
+}
