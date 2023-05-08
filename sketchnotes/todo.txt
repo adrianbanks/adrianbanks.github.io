@@ -1,0 +1,9 @@
+data cleansing:
+- tweak event names to remove numbers
+- add tags
+
+allow searching like "speaker:steve" to filter searching
+
+some page to show distinct speakers, events, tags
+
+read the search term from the url "https://blog.adrianbanks.co.uk/sketchnotes?foo"
