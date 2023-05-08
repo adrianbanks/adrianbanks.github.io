@@ -1,6 +1,24 @@
-<div>
-    <div data-content="title"></div>
-    <div data-content="speaker"></div>
-    <div data-content="tags" data-format="tags"></div>
-    <img width="400" data-src="filename" data-alt="title" data-format="sketchnoteImage" data-format-target="src"/>
+<div class="sketchnote flex-item">
+    <img width="500" data-src="filename" data-alt="title" data-format="sketchnoteImage" data-format-target="src"/>
+
+    <div class="metadata">
+        <div>
+            <i class="fa fa-lg fa-bullhorn"></i>
+            <span data-content="title"></span>
+        </div>
+
+        <div>
+            <i class="fa fa-lg fa-user"></i>
+            <span data-content="speaker"></span>
+        </div>
+
+        <div>
+            <i class="fa fa-lg fa-tags"></i>
+            <span data-content="tags" data-format="tags"></span>
+        </div>
+    </div>
+
+    <div class="link">
+        <a data-href="filename" data-format="sketchnoteImage" data-format-target="href"><i class="fa fa-2x fa-picture-o"></i></a>
+    </div>
 </div>

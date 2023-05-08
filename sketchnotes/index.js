@@ -1,6 +1,6 @@
 $(document).ready(() => {
     var page = 1;
-    var resultsPerPage = 1;
+    var resultsPerPage = 18;
     var allData = [];
     var rootPath = '';
     var allSpeakers = [];
@@ -16,26 +16,27 @@ $(document).ready(() => {
     $("[data-action='prev']").click(() => displayPage(page - 1));
 
     $.addTemplateFormatter({
-        tags: value => value.join(", "),
+        tags2: value => value.join(", "),
+        tags: value => value.map(element => '<span class="tag">' + element + '</span>'),
         sketchnoteImage: value => rootPath + value + '#img-sketchnote'
     });
 
     function displayPage(pageNo) {
-        $("#sketchnote-container").loadTemplate("sketchnote.html", allData, { paged: true, pageNo: pageNo, elemPerPage: resultsPerPage });
+        $("#sketchnotes").loadTemplate("sketchnote.html", allData, { paged: true, pageNo: pageNo, elemPerPage: resultsPerPage });
 
-        page = pageNo;
-
-        if (page * resultsPerPage >= allData.length) {
+        if (pageNo * resultsPerPage >= allData.length) {
             $("[data-action='next']").attr('disabled', 'disabled');
         } else {
             $("[data-action='next']").removeAttr('disabled');
         }
 
-        if (page <= 1) {
+        if (pageNo <= 1) {
             $("[data-action='prev']").attr('disabled', 'disabled');
         } else {
             $("[data-action='prev']").removeAttr('disabled');
         }
+
+        page = pageNo;
     }
     
     fetch('./index.json')

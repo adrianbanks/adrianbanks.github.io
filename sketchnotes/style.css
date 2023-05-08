@@ -1,0 +1,57 @@
+#sketchnotes {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.sketchnote {
+    position: relative;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid #333333;
+    box-shadow: rgba(0,0,0,.4) 0 4px 8px;
+    width: 530px;
+    height: 450px;
+}
+
+.sketchnote img {
+    border: 1px solid #999999;
+    margin-bottom: 4px;
+}
+
+.sketchnote .metadata div {
+    margin-bottom: 4px;
+}
+
+.sketchnote .link {
+    position: absolute;
+    bottom: 4;
+    right: 4;
+    color: black;
+}
+
+.sketchnote .link a {
+    color: #999999;
+}
+
+.tag {
+    background-color: #888888;
+    color: #fff;
+    border-radius: 10px;
+    margin-right: 5px;
+    padding: 3px 7px;
+    min-width: 10px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
