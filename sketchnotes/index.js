@@ -35,6 +35,7 @@ $(document).ready(() => {
         }
 
         page = pageNo;
+        $("#sketchnote-count").text(data.length + ' sketchnote' + (data.length != 1 ? "s" : ""));
     }
 
     const contains = (text, innerText) => text.toUpperCase().indexOf(innerText.toUpperCase()) !== -1;

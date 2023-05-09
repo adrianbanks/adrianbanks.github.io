@@ -1,10 +1,17 @@
 #banner {
-    padding: 4px;
+    padding: 10px;
+    background-color: #333333;
 }
 
 #searchText {
     width: 25em;
     line-height: 2em;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#sketchnote-count {
+    color: #ffffff;
 }
 
 #sketchnotes {
@@ -66,3 +73,6 @@
     vertical-align: middle;
 }
 
+.fa-lg {
+    width: 18px;
+}
