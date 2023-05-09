@@ -36,11 +36,21 @@ $(document).ready(() => {
 
     var currentPage = 1;
     var currentData = [];
+    var currentSearch = '';
 
-    $("#searchText").on("keyup", () => {
-        currentData = search(sketchnotes, $("#searchText").val())
+    const runSearch = () => {
+        var searchText = $("#searchText").val();
+
+        if (searchText === currentSearch) {
+            return;
+        }
+
+        currentSearch = searchText;
+        currentData = search(sketchnotes, searchText)
         displayPage(currentData, 1);
-    });
+    }
+
+    $("#searchText").on("keyup", () => runSearch());
 
     $("[data-action='next']").click(() => {
         currentPage++;
@@ -73,7 +83,6 @@ $(document).ready(() => {
         }
 
         $("#searchText").val(searchText);
-        currentData = search(sketchnotes, $("#searchText").val());
-        displayPage(currentData, 1);
+        runSearch();
     });
 });
