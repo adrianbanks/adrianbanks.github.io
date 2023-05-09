@@ -5,21 +5,31 @@ class Searcher {
         this.terms = terms;
     }
 
-    isSearchHit(sketchnote) {
-        var inTitle = this.#contains(sketchnote.title, this.terms.title);
-        var inSpeaker = this.#contains(sketchnote.speaker, this.terms.speaker);
-        var inTag = sketchnote.tags.some(tagText => this.#contains(tagText, this.terms.tag));
-        var inText = this.#contains(sketchnote.title, this.terms.text) 
-                     || this.#contains(sketchnote.speaker, this.terms.text) 
-                     || sketchnote.tags.some(tagText => this.#contains(tagText, this.terms.text));
+    search(sketchnotes) {
+        var results = sketchnotes.filter(sketchnote => this.#isTitleMatch(sketchnote))
+                          .filter(sketchnote => this.#isSpeakerMatch(sketchnote))
+                          .filter(sketchnote => this.#isTagMatch(sketchnote))
+                          .filter(sketchnote => this.#isTextMatch(sketchnote));
+                          return results;
+    }
 
-        var isHit = (this.terms.hasTitle() && inTitle) 
-                    || (this.terms.hasSpeaker() && inSpeaker) 
-                    || (this.terms.hasTag() && inTag) 
-                    || (this.terms.hasText() && inText);
+    #isTitleMatch(sketchnote) {
+        return this.terms.hasTitle() ? this.#contains(sketchnote.title, this.terms.title) : true;
+    }
 
-        console.log(isHit + " " + sketchnote.title + " " + sketchnote.speaker + "    " + JSON.stringify({"inTitle": inTitle, "inSpeaker": inSpeaker, "inTag": inTag, "inText": inText}));
-        return isHit;
+    #isSpeakerMatch(sketchnote) {
+        return this.terms.hasSpeaker() ? this.#contains(sketchnote.speaker, this.terms.speaker) : true;
+    }
+
+    #isTagMatch(sketchnote) {
+        return this.terms.hasTag() ? this.#contains(sketchnote.tag, this.terms.tag) : true;
+    }
+
+    #isTextMatch(sketchnote) {
+        var terms = this.terms;
+        return terms.hasText() 
+            ? this.#contains(sketchnote.title, terms.text) || this.#contains(sketchnote.speaker, terms.text) || sketchnote.tags.some(tagText => this.#contains(tagText, terms.text))
+            : true;
     }
 
     #contains(text, innerText) {

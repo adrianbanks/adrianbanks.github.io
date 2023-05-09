@@ -9,6 +9,8 @@ class SearchTerms{
         this.speaker = this.#getSearchTermForField("speaker", search);
         this.tag = this.#getSearchTermForField("tag", search);
         this.text = this.#getGeneralSearchTerm(search);
+
+        console.log("'" + search + "' parsed to " + JSON.stringify(this));
     }
 
     #getSearchTermForField(term, text) {
@@ -54,9 +56,5 @@ class SearchTerms{
 
     hasText() {
         return this.text.length > 0;
-    }
-
-    toJson() {
-        return JSON.stringify(this);
     }
 }
