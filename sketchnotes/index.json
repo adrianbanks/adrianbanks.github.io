@@ -7,7 +7,7 @@
           "event": "DDD South West",
           "title": "The Source Code Generation Game",
           "speaker": "Steve Collins",
-          "tags": []
+          "tags": ["roslyn", "dotnet"]
         },
         {
           "postPath": "/ddd-events/sketchnotes/2022/07/04/dddsw-10.md",
@@ -701,8 +701,8 @@
           "postPath": "/alexa/sketchnotes/2018/04/17/alexa-devs-meetup.md",
           "imagePath": "/2018/04/working-backwards-david-low.jpg",
           "event": "Cambridge Alexa Devs Meetup",
-          "title": "",
-          "speaker": "",
+          "title": "Working Backwards",
+          "speaker": "David Low",
           "tags": []
         },
         {
