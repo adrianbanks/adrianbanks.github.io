@@ -61,6 +61,12 @@ $(document).ready(() => {
         allSpeakers = [...new Set(allData.map(sketchnote => sketchnote.speaker))];
         allTags = [...new Set(allData.map(sketchnote => sketchnote.tags).flat(Infinity))];
 
-        search("");
+        var searchText = window.location.hash;
+
+        if (searchText.length > 0) {
+            searchText = searchText.substring(1);
+        }
+
+        search(searchText);
     });
 });
