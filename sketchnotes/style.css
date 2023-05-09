@@ -10,8 +10,14 @@
     padding-right: 4px;
 }
 
+#paging {
+    display: inline-block;
+    white-space: nowrap;
+}
+
 #sketchnote-count {
     color: #ffffff;
+    white-space: nowrap;
 }
 
 #sketchnotes {
@@ -39,11 +45,20 @@
     height: 450px;
 }
 
+.sketchnote:hover {
+    background-color: #f2f2f2;
+}
+
 .sketchnote img {
     border: 1px solid #999999;
     background-image: url('./placeholder.jpg');
     background-repeat: no-repeat;
     margin-bottom: 4px;
+}
+
+.sketchnote .fa-lg {
+    width: 18px;
+    margin: 4px;
 }
 
 .sketchnote .metadata div {
@@ -73,6 +88,3 @@
     vertical-align: middle;
 }
 
-.fa-lg {
-    width: 18px;
-}
