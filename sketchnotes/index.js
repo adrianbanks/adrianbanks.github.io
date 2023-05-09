@@ -36,7 +36,7 @@ $(document).ready(() => {
 
     var currentPage = 1;
     var currentData = [];
-    var currentSearch = '';
+    var currentSearch = null;
 
     const runSearch = () => {
         var searchText = $("#searchText").val();
