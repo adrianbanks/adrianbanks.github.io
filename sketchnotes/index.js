@@ -41,8 +41,6 @@ $(document).ready(() => {
     const contains = (text, innerText) => text.toUpperCase().indexOf(innerText.toUpperCase()) !== -1;
 
     const search = (text) => {
-        console.log('Searching for \'' + text + '\'...');
-
         var results = allData.filter(sketchnote => {
             var inTitle = contains(sketchnote.title, text);
             var inSpeaker = contains(sketchnote.speaker, text);
@@ -50,7 +48,6 @@ $(document).ready(() => {
             return inTitle || inSpeaker || inTag;
         });
 
-        console.log(results.length + ' results found')
         currentData = results;
         displayPage(results, 1);
     }
@@ -64,7 +61,6 @@ $(document).ready(() => {
         allSpeakers = [...new Set(allData.map(sketchnote => sketchnote.speaker))];
         allTags = [...new Set(allData.map(sketchnote => sketchnote.tags).flat(Infinity))];
 
-        currentData = allData;
-        displayPage(allData, 1);
+        search("");
     });
 });
