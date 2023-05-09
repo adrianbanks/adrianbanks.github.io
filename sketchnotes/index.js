@@ -1,3 +1,6 @@
+$.getScript("SearchTerms.js");
+$.getScript("Searcher.js");
+
 $(document).ready(() => {
     var page = 1;
     var resultsPerPage = 8;
@@ -38,21 +41,18 @@ $(document).ready(() => {
         $("#sketchnote-count").text(data.length + ' sketchnote' + (data.length != 1 ? "s" : ""));
     }
 
-    const contains = (text, innerText) => text.toUpperCase().indexOf(innerText.toUpperCase()) !== -1;
+    const search = (search) => {
+        var terms = new SearchTerms(search);
+        var searcher = new Searcher(terms);
 
-    const search = (text) => {
-        var results = allData.filter(sketchnote => {
-            var inTitle = contains(sketchnote.title, text);
-            var inSpeaker = contains(sketchnote.speaker, text);
-            var inTag = sketchnote.tags.some(tag => contains(tag, text));
-            return inTitle || inSpeaker || inTag;
-        });
+        console.log("'" + search + "' parsed to " + terms.toJson());
+        var results = allData.filter(sketchnote => searcher.isSearchHit(sketchnote));
 
         currentData = results;
-        $("#searchText").val(text);
+        $("#searchText").val(search);
         displayPage(results, 1);
     }
-    
+
     fetch('./index.json')
     .then(response => response.json())
     .then(json => {
@@ -65,7 +65,7 @@ $(document).ready(() => {
         var searchText = window.location.hash;
 
         if (searchText.length > 0) {
-            searchText = searchText.substring(1);
+            searchText = decodeURI(searchText.substring(1));
         }
 
         search(searchText);
