@@ -49,6 +49,7 @@ $(document).ready(() => {
         });
 
         currentData = results;
+        $("#searchText").val(text);
         displayPage(results, 1);
     }
     
