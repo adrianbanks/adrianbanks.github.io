@@ -1,8 +1,8 @@
-$.getScript("SearchTerms.js");
-$.getScript("Searcher.js");
+import { Searcher } from './Searcher.js'
+import { SearchTerms } from './SearchTerms.js'
 
 const displayPage = (data, pageNo) => {
-    const resultsPerPage = 8;
+    const resultsPerPage = 6;
 
     $("#sketchnotes").loadTemplate("sketchnote.html", data, { paged: true, pageNo: pageNo, elemPerPage: resultsPerPage });
 

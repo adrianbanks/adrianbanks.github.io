@@ -1,4 +1,4 @@
-class Searcher {
+export class Searcher {
     terms;
 
     constructor(terms) {

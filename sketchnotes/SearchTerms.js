@@ -1,4 +1,4 @@
-class SearchTerms{
+export class SearchTerms{
     title;
     speaker;
     tag;
