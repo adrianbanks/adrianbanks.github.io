@@ -22,7 +22,7 @@ export class Searcher {
     }
 
     #isTagMatch(sketchnote) {
-        return this.terms.hasTag() ? this.#contains(sketchnote.tag, this.terms.tag) : true;
+        return this.terms.hasTag() ? sketchnote.tags.some(tag => this.#contains(tag, this.terms.tag)) : true;
     }
 
     #isTextMatch(sketchnote) {
