@@ -19,6 +19,10 @@ const displayPage = (data, pageNo) => {
     }
 
     $("#sketchnote-count").text(data.length + ' sketchnote' + (data.length != 1 ? "s" : ""));
+
+    var pageNum = data.length > 0 ? pageNo : 0;
+    var numPages = Math.ceil(data.length / resultsPerPage);
+    $("#sketchnote-count").prop('title', 'Page ' + pageNum + '/' + numPages);
 }
 
 const search = (sketchnotes, search) => {
