@@ -25,6 +25,8 @@ button:not([disabled]):hover {
 #banner {
     padding: 10px;
     background-color: #333333;
+    color: #ffffff;
+    white-space: nowrap;
 }
 
 #searchText {
@@ -36,11 +38,6 @@ button:not([disabled]):hover {
 
 #paging {
     display: inline-block;
-    white-space: nowrap;
-}
-
-#sketchnote-count {
-    color: #ffffff;
     white-space: nowrap;
 }
 
