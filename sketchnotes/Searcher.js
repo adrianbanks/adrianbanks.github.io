@@ -9,8 +9,9 @@ export class Searcher {
         var results = sketchnotes.filter(sketchnote => this.#isTitleMatch(sketchnote))
                           .filter(sketchnote => this.#isSpeakerMatch(sketchnote))
                           .filter(sketchnote => this.#isTagMatch(sketchnote))
-                          .filter(sketchnote => this.#isTextMatch(sketchnote));
-                          return results;
+                          .filter(sketchnote => this.#isTextMatch(sketchnote))
+                          .sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
+        return results;
     }
 
     #isTitleMatch(sketchnote) {
