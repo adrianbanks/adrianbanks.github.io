@@ -2,7 +2,7 @@ import { Searcher } from './Searcher.js'
 import { SearchTerms } from './SearchTerms.js'
 
 const displayPage = (data, pageNo) => {
-    const resultsPerPage = 6;
+    const resultsPerPage = 8;
 
     $("#sketchnotes").loadTemplate("sketchnote.html", data, { paged: true, pageNo: pageNo, elemPerPage: resultsPerPage });
 

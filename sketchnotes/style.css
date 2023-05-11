@@ -66,18 +66,24 @@ button:not([disabled]):hover {
     border: 1px solid #333333;
     box-shadow: rgba(0,0,0,.4) 0 4px 8px;
     width: 530px;
-    height: 480px;
+    height: 500px;
 }
 
 .sketchnote:hover {
     background-color: #f2f2f2;
 }
 
-.sketchnote img {
+.sketchnote .sketchnote-image {
     border: 1px solid #999999;
     background-image: url('./placeholder.jpg');
     background-repeat: no-repeat;
     margin-bottom: 4px;
+    width: 500px;
+    height: 310px;
+}
+
+.sketchnote .sketchnote-locate {
+    margin: 4px;
 }
 
 .sketchnote .fa-lg {
