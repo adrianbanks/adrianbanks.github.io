@@ -82,15 +82,13 @@ button:not([disabled]):hover {
 
 .sketchnote .fa-lg {
     width: 18px;
-    margin: 4px;
+    margin: 4px 8px 4px 4px;
 }
 
 .sketchnote .metadata div {
     margin-bottom: 4px;
-}
-
-.sketchnote .metadata div span {
-    vertical-align: middle;
+    display: flex;
+    line-height: 1.6;
 }
 
 .sketchnote .link {
