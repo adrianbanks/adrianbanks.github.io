@@ -66,7 +66,7 @@ button:not([disabled]):hover {
     border: 1px solid #333333;
     box-shadow: rgba(0,0,0,.4) 0 4px 8px;
     width: 530px;
-    height: 450px;
+    height: 480px;
 }
 
 .sketchnote:hover {
@@ -87,6 +87,10 @@ button:not([disabled]):hover {
 
 .sketchnote .metadata div {
     margin-bottom: 4px;
+}
+
+.sketchnote .metadata div span {
+    vertical-align: middle;
 }
 
 .sketchnote .link {
