@@ -10,36 +10,18 @@ export class SearchTerms{
         this.tag = this.#getSearchTermForField("tag", search);
         this.text = this.#getGeneralSearchTerm(search);
 
-        console.log("'" + search + "' parsed to " + JSON.stringify(this));
+        console.log(`'${search}' parsed to ${JSON.stringify(this)}`);
     }
 
     #getSearchTermForField(term, text) {
-        var parts = text.split(" ");
-
-        for (let i = 0; i < parts.length; i++) {
-            var part = parts[i];
-
-            if (part.startsWith(term + ":")) {
-                return part.substring(part.indexOf(":") + 1);
-            }            
-        }
-
-        return "";
+        var pattern = `${term}:(?:"([^"]+)"|(\\w+))`;
+        var match = text.match(pattern);
+        return match ? match.filter(n => n)[1] : "";
     }
     
     #getGeneralSearchTerm(text) {
-        var parts = text.split(" ");
-        var terms = [];
-
-        for (let i = 0; i < parts.length; i++) {
-            var part = parts[i];
-
-            if (!part.includes(":")) {
-                terms.push(part);
-            }            
-        }
-
-        return terms.join(" ");
+        var match = text.match(/(?<!\S)\w+(?!\S|:\s*"[^"]*")/g);
+        return match ? match.join(" ") : "";
     }
 
     hasTitle() {

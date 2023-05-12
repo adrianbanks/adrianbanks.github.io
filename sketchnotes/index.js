@@ -22,7 +22,7 @@ const displayPage = (data, pageNo) => {
 
     var pageNum = data.length > 0 ? pageNo : 0;
     var numPages = Math.ceil(data.length / resultsPerPage);
-    $("#sketchnote-count").prop('title', 'Page ' + pageNum + '/' + numPages);
+    $("#sketchnote-count").prop('title', `Page ${pageNum}/${numPages}`);
 }
 
 const search = (sketchnotes, search) => {
@@ -67,7 +67,7 @@ $(document).ready(() => {
     });
 
     $.addTemplateFormatter({
-        tags: value => value.map(tag => '<span class="tag">' + tag + '</span>'),
+        tags: value => value.map(tag => `<span class="tag">${tag}</span>`),
         sketchnoteImage: value => rootPath + value
     });
 
@@ -83,7 +83,7 @@ $(document).ready(() => {
         var searchText = window.location.hash;
 
         if (searchText.length > 0) {
-            searchText = decodeURI(searchText.substring(1));
+            searchText = decodeURIComponent(searchText.substring(1));
         }
 
         $("#searchText").val(searchText);
