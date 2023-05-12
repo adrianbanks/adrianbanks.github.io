@@ -7,10 +7,11 @@ export class Searcher {
 
     search(sketchnotes) {
         var results = sketchnotes.filter(sketchnote => this.#isTitleMatch(sketchnote))
-                          .filter(sketchnote => this.#isSpeakerMatch(sketchnote))
-                          .filter(sketchnote => this.#isTagMatch(sketchnote))
-                          .filter(sketchnote => this.#isTextMatch(sketchnote))
-                          .sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
+                                 .filter(sketchnote => this.#isSpeakerMatch(sketchnote))
+                                 .filter(sketchnote => this.#isEventMatch(sketchnote))
+                                 .filter(sketchnote => this.#isTagMatch(sketchnote))
+                                 .filter(sketchnote => this.#isTextMatch(sketchnote))
+                                 .sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
         return results;
     }
 
@@ -22,6 +23,10 @@ export class Searcher {
         return this.terms.hasSpeaker() ? this.#contains(sketchnote.speaker, this.terms.speaker) : true;
     }
 
+    #isEventMatch(sketchnote) {
+        return this.terms.hasEvent() ? this.#contains(sketchnote.event, this.terms.event) : true;
+    }
+
     #isTagMatch(sketchnote) {
         return this.terms.hasTag() ? sketchnote.tags.some(tag => this.#contains(tag, this.terms.tag)) : true;
     }
@@ -29,7 +34,10 @@ export class Searcher {
     #isTextMatch(sketchnote) {
         var terms = this.terms;
         return terms.hasText() 
-            ? this.#contains(sketchnote.title, terms.text) || this.#contains(sketchnote.speaker, terms.text) || sketchnote.tags.some(tagText => this.#contains(tagText, terms.text))
+            ? this.#contains(sketchnote.title, terms.text) 
+               || this.#contains(sketchnote.speaker, terms.text) 
+               || this.#contains(sketchnote.event, terms.text) 
+               || sketchnote.tags.some(tagText => this.#contains(tagText, terms.text))
             : true;
     }
 
