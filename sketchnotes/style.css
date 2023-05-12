@@ -29,6 +29,10 @@ button:not([disabled]):hover {
     white-space: nowrap;
 }
 
+#banner a {
+    color: #ffffff;
+}
+
 #searchText {
     width: 25em;
     line-height: 2em;

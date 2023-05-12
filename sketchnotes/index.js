@@ -88,5 +88,9 @@ $(document).ready(() => {
 
         $("#searchText").val(searchText);
         runSearch();
+
+        allEvents.sort((a, b) => a.localeCompare(b)).forEach(event => $("#event-list").append('<li><a href="#">' + event + '</a></li>'));
+        allSpeakers.sort((a, b) => a.localeCompare(b)).forEach(speaker => $("#speaker-list").append('<li><a href="#">' + speaker + '</a></li>'));
+        allTags.sort((a, b) => a.localeCompare(b)).forEach(tag => $("#tag-list").append('<li><a href="#">' + tag + '</a></li>'));
     });
 });

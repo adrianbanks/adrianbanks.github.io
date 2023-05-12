@@ -1,6 +1,7 @@
 <html>
     <head>
         <link href="../assets/resources/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link href="./jquery.modal.min.css" rel="stylesheet">
         <link href="./style.css" rel="stylesheet">
     </head>
 
@@ -14,11 +15,33 @@
             </div>
 
             <span id="sketchnote-count"></span>
+
+            <div>
+                <a href="#events" rel="modal:open">Events</a>
+                <a href="#speakers" rel="modal:open">Speakers</a>
+                <a href="#tags" rel="modal:open">Tags</a>
+            </div>
         </div>
 
         <div id="sketchnotes"></div>
 
+        <div id="events" class="modal">
+            <h2>Events</h2>
+            <ul id="event-list"></ul>
+        </div>
+
+        <div id="speakers" class="modal">
+            <h2>Speakers</h2>
+            <ul id="speaker-list"></ul>
+        </div>
+        
+        <div id="tags" class="modal">
+            <h2>Tags</h2>
+            <ul id="tag-list"></ul>
+        </div>
+
         <script src="../assets/resources/jquery/jquery.min.js"></script>
+        <script src="./jquery.modal.min.js"></script>
         <script src="./jquery.loadTemplate.min.js"></script>
         <script type="module" src="./index.js"></script>
     </body>
