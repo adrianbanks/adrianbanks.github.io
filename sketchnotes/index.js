@@ -76,9 +76,9 @@ $(document).ready(() => {
     .then(json => {
         sketchnotes = json.sketchnotes;
         rootPath = json.rootPath;
-        allEvents = [...new Set(sketchnotes.map(sketchnote => sketchnote.event))];
-        allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speaker))];
-        allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))];
+        allEvents = [...new Set(sketchnotes.map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
+        allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speaker))].sort((a, b) => a.localeCompare(b));
+        allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))].sort((a, b) => a.localeCompare(b));
 
         var searchText = window.location.hash;
 
@@ -89,8 +89,16 @@ $(document).ready(() => {
         $("#searchText").val(searchText);
         runSearch();
 
-        allEvents.sort((a, b) => a.localeCompare(b)).forEach(event => $("#event-list").append('<li><a href="#">' + event + '</a></li>'));
-        allSpeakers.sort((a, b) => a.localeCompare(b)).forEach(speaker => $("#speaker-list").append('<li><a href="#">' + speaker + '</a></li>'));
-        allTags.sort((a, b) => a.localeCompare(b)).forEach(tag => $("#tag-list").append('<li><a href="#">' + tag + '</a></li>'));
+        allEvents.forEach(event => $("#event-list").append(`<li><a class="modal-link" data-type="event" data-value="${event}" href="#" rel="modal:close">${event}</a></li>`));
+        allSpeakers.forEach(speaker => $("#speaker-list").append(`<li><a class="modal-link"data-type="speaker" data-value="${speaker}" href="#" rel="modal:close">${speaker}</a></li>`));
+        allTags.forEach(tag => $("#tag-list").append(`<li><a class="modal-link" data-type="tag" data-value="${tag}" href="#" rel="modal:close">${tag}</a></li>`));
+
+        $(".modal-link").click(function () {
+            var type = this.getAttribute("data-type");
+            var value = this.getAttribute("data-value");
+            var search = `${type}:"${value}"`;
+            $("#searchText").val(search);
+            runSearch();
+        });
     });
 });
