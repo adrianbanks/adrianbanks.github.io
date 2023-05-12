@@ -67,6 +67,7 @@ $(document).ready(() => {
     });
 
     $.addTemplateFormatter({
+        speakers: value => value.join(", "),
         tags: value => value.map(tag => `<span class="tag">${tag}</span>`),
         sketchnoteImage: value => rootPath + value
     });
@@ -77,7 +78,7 @@ $(document).ready(() => {
         sketchnotes = json.sketchnotes;
         rootPath = json.rootPath;
         allEvents = [...new Set(sketchnotes.map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
-        allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speaker))].sort((a, b) => a.localeCompare(b));
+        allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speakers).flat(Infinity))].sort((a, b) => a.localeCompare(b));
         allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))].sort((a, b) => a.localeCompare(b));
 
         var searchText = window.location.hash;

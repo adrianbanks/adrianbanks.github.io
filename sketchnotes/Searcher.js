@@ -20,7 +20,7 @@ export class Searcher {
     }
 
     #isSpeakerMatch(sketchnote) {
-        return this.terms.hasSpeaker() ? this.#contains(sketchnote.speaker, this.terms.speaker) : true;
+        return this.terms.hasSpeaker() ? sketchnote.speakers.some(speaker => this.#contains(speaker, this.terms.speaker)) : true;
     }
 
     #isEventMatch(sketchnote) {
@@ -34,10 +34,10 @@ export class Searcher {
     #isTextMatch(sketchnote) {
         var terms = this.terms;
         return terms.hasText() 
-            ? this.#contains(sketchnote.title, terms.text) 
-               || this.#contains(sketchnote.speaker, terms.text) 
-               || this.#contains(sketchnote.event, terms.text) 
-               || sketchnote.tags.some(tagText => this.#contains(tagText, terms.text))
+            ? this.#contains(sketchnote.title, terms.text)
+            || sketchnote.speakers.some(speakerText => this.#contains(speakerText, terms.speaker))
+            || this.#contains(sketchnote.event, terms.text)
+            || sketchnote.tags.some(tagText => this.#contains(tagText, terms.text))
             : true;
     }
 
