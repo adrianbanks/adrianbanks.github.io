@@ -8,7 +8,7 @@
         "event": "DDD South West",
         "title": "Being Staff Plus",
         "speakers": ["Ian Cooper"],
-        "tags": []
+        "tags": ["first", "second", "third"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2023/05/12/dddsw-11.html",

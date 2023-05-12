@@ -67,8 +67,9 @@ $(document).ready(() => {
     });
 
     $.addTemplateFormatter({
-        speakers: value => value.join(", "),
-        tags: value => value.map(tag => `<span class="tag">${tag}</span>`),
+        speakers: value => value.map(speaker => `<a href="#">${speaker}</a>`).join(", "),
+        events: value => `<a href="#">${value}</a>`,
+        tags: value => value.map(tag => `<span class="tag"><a href="#">${tag}</a></span>`),
         sketchnoteImage: value => rootPath + value
     });
 

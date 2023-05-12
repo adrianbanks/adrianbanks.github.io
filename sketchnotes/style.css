@@ -105,8 +105,8 @@ button:not([disabled]):hover {
     color: black;
 }
 
-.sketchnote .link a {
-    color: #999999;
+.sketchnote a {
+    text-decoration: none;
 }
 
 .tag {
@@ -121,3 +121,7 @@ button:not([disabled]):hover {
     vertical-align: middle;
 }
 
+.tag a {
+    color: #fff;
+    text-decoration: none;
+}
