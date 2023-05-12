@@ -18,7 +18,7 @@ const displayPage = (data, pageNo) => {
         $("[data-action='prev']").removeAttr('disabled');
     }
 
-    $("#sketchnote-count").text(data.length + ' sketchnote' + (data.length != 1 ? "s" : ""));
+    $("#sketchnote-count").text(`${data.length} sketchnote${data.length != 1 ? "s" : ""}`);
 
     var pageNum = data.length > 0 ? pageNo : 0;
     var numPages = Math.ceil(data.length / resultsPerPage);
