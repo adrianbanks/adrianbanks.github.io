@@ -23,11 +23,12 @@
 			"by ${2:speaker}",
 			"<i class=\"fa fa-globe fa-lg\"></i> [Website]($3)",
 			"<i class=\"fa fa-twitter fa-lg\"></i> [Twitter]($4)",
-			"<i class=\"fa fa-slideshare fa-lg\"></i> [Slides]($5)",
-			"<i class=\"fa fa-video-camera fa-lg\"></i> [Video]($6)",
-			"<i class=\"fa fa-file-code-o fa-lg\"></i> [Code]($7)",
+			"<i class=\"fa fa-mastodon fa-lg\"></i> [Mastodon]($5)",
+			"<i class=\"fa fa-slideshare fa-lg\"></i> [Slides]($6)",
+			"<i class=\"fa fa-video-camera fa-lg\"></i> [Video]($7)",
+			"<i class=\"fa fa-file-code-o fa-lg\"></i> [Code]($8)",
 			"",
-			"[![${1:title} by ${2:speaker}][${8:image-id}]][${8:image-id}]",
+			"[![${1:title} by ${2:speaker}][${9:image-id}]][${9:image-id}]",
 			"$0"
 		],
 		"description": "Add a sketchnote markdown slug"
@@ -47,6 +48,14 @@
 			"<i class=\"fa fa-twitter fa-lg\"></i> [Twitter]($1)$0"
 		],
 		"description": "Add a markdown Twitter link"
+	},
+	"Mastodon link": {
+		"scope": "markdown",
+		"prefix": "sketchnote-mastodon-link",
+		"body": [
+			"<i class=\"fa fa-mastodon fa-lg\"></i> [Mastodon]($1)$0"
+		],
+		"description": "Add a markdown Mastodon link"
 	},
 	"Slides link": {
 		"scope": "markdown",
