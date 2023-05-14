@@ -22,9 +22,9 @@
 			"### ${1:title}",
 			"by ${2:speaker}",
 			"<i class=\"fa fa-globe fa-lg\"></i> [Website]($3)",
-			"<i class=\"fa fa-twitter fa-lg\"></i> [Twitter]($4)",
-			"<i class=\"fa fa-mastodon fa-lg\"></i> [Mastodon]($5)",
-			"<i class=\"fa fa-slideshare fa-lg\"></i> [Slides]($6)",
+			"<i class=\"fa fa-brands fa-twitter fa-lg\"></i> [Twitter]($4)",
+			"<i class=\"fa fa-brands fa-mastodon fa-lg\"></i> [Mastodon]($5)",
+			"<i class=\"fa fa-brands fa-slideshare fa-lg\"></i> [Slides]($6)",
 			"<i class=\"fa fa-video-camera fa-lg\"></i> [Video]($7)",
 			"<i class=\"fa fa-file-code-o fa-lg\"></i> [Code]($8)",
 			"",
@@ -45,7 +45,7 @@
 		"scope": "markdown",
 		"prefix": "sketchnote-twitter-link",
 		"body": [
-			"<i class=\"fa fa-twitter fa-lg\"></i> [Twitter]($1)$0"
+			"<i class=\"fa fa-brands fa-twitter fa-lg\"></i> [Twitter]($1)$0"
 		],
 		"description": "Add a markdown Twitter link"
 	},
@@ -53,7 +53,7 @@
 		"scope": "markdown",
 		"prefix": "sketchnote-mastodon-link",
 		"body": [
-			"<i class=\"fa fa-mastodon fa-lg\"></i> [Mastodon]($1)$0"
+			"<i class=\"fa fa-brands fa-mastodon fa-lg\"></i> [Mastodon]($1)$0"
 		],
 		"description": "Add a markdown Mastodon link"
 	},
@@ -61,7 +61,7 @@
 		"scope": "markdown",
 		"prefix": "sketchnote-slides-link",
 		"body": [
-			"<i class=\"fa fa-slideshare fa-lg\"></i> [Slides]($1)$0"
+			"<i class=\"fa fa-brands fa-slideshare fa-lg\"></i> [Slides]($1)$0"
 		],
 		"description": "Add a markdown slides link"
 	},
@@ -77,7 +77,7 @@
 		"scope": "markdown",
 		"prefix": "sketchnote-video-youtube-link",
 		"body": [
-			"<i class=\"fa fa-youtube fa-lg\"></i> [Video]($1)$0"
+			"<i class=\"fa fa-brands fa-youtube fa-lg\"></i> [Video]($1)$0"
 		],
 		"description": "Add a markdown youtube video link"
 	},
@@ -85,7 +85,7 @@
 		"scope": "markdown",
 		"prefix": "sketchnote-video-vimeo-link",
 		"body": [
-			"<i class=\"fa fa-vimeo fa-lg\"></i> [Video]($1)$0"
+			"<i class=\"fa fa-brands fa-vimeo fa-lg\"></i> [Video]($1)$0"
 		],
 		"description": "Add a markdown vimeo video link"
 	},
