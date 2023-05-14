@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**           |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------------ |
+| 10th May 2023       | Open Source Software: Licensing & Compliance       | [Orcro][33]                                              | Training (2 days)        |
 | 29th April 2023     | DDD South West 11                                  | [DDD South West][2]                                      | Conference               |
 | 25th June 2022      | DDD South West 10                                  | [DDD South West][2]                                      | Conference               |
 | 9th June 2022       | LevelUp 2022                                       | [Redgate][22]                                            | Conference               |
@@ -137,3 +138,4 @@ Of the conferences above, these are the ones that I have attended as a speaker:
  [30]: https://www.patkua.com/shortcut-to-tech-leadership/
  [31]: https://www.infoq.com/presentations/agile-off-the-shelf/
  [32]: https://passdatacommunitysummit.com
+ [33]: https://orcro.co.uk
