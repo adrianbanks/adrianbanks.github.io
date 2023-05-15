@@ -39,6 +39,11 @@ button:not([disabled]):hover {
     color: #ffffff;
 }
 
+#banner-content {
+    display: inline-block;
+    margin-left: 4px;
+}
+
 #searchText {
     width: 25em;
     line-height: 2em;
