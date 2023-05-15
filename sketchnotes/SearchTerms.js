@@ -6,43 +6,33 @@ export class SearchTerms{
     text;
 
     constructor(search) {
-        this.title = this.#getSearchTermForField("title", search);
-        this.speaker = this.#getSearchTermForField("speaker", search);
-        this.event = this.#getSearchTermForField("event", search);
-        this.tag = this.#getSearchTermForField("tag", search);
-        this.text = this.#getGeneralSearchTerm(search);
+        this.title = this.getSearchTermForField("title", search);
+        this.speaker = this.getSearchTermForField("speaker", search);
+        this.event = this.getSearchTermForField("event", search);
+        this.tag = this.getSearchTermForField("tag", search);
+        this.text = this.getGeneralSearchTerm(search);
 
         console.log(`'${search}' parsed to ${JSON.stringify(this)}`);
     }
 
-    #getSearchTermForField(term, text) {
+    getSearchTermForField(term, text) {
         var pattern = `${term}:(?:"([^"]+)"|(\\w+))`;
         var match = text.match(pattern);
         return match ? match.filter(n => n)[1] : "";
     }
     
-    #getGeneralSearchTerm(text) {
+    getGeneralSearchTerm(text) {
         var match = text.match(/(?<!\S)\w+(?!\S|:\s*"[^"]*")/g);
         return match ? match.join(" ") : "";
     }
 
-    hasTitle() {
-        return this.title.length > 0;
-    }
+    hasTitle = () => this.title.length > 0;
 
-    hasSpeaker() {
-        return this.speaker.length > 0;
-    }
+    hasSpeaker = () => this.speaker.length > 0;
     
-    hasEvent() {
-        return this.event.length > 0;
-    }
+    hasEvent = () => this.event.length > 0;
     
-    hasTag() {
-        return this.tag.length > 0;
-    }
+    hasTag = () => this.tag.length > 0;
 
-    hasText() {
-        return this.text.length > 0;
-    }
+    hasText = () => this.text.length > 0;
 }

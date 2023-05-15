@@ -1,106 +1,51 @@
-import { Searcher } from './Searcher.js'
-import { SearchTerms } from './SearchTerms.js'
-
-const displayPage = (data, pageNo) => {
-    const resultsPerPage = 8;
-
-    $("#sketchnotes").loadTemplate("sketchnote.html", data, { paged: true, pageNo: pageNo, elemPerPage: resultsPerPage });
-
-    if (pageNo * resultsPerPage >= data.length) {
-        $("[data-action='next']").attr('disabled', 'disabled');
-    } else {
-        $("[data-action='next']").removeAttr('disabled');
-    }
-
-    if (pageNo <= 1) {
-        $("[data-action='prev']").attr('disabled', 'disabled');
-    } else {
-        $("[data-action='prev']").removeAttr('disabled');
-    }
-
-    $("#sketchnote-count").text(`${data.length} sketchnote${data.length != 1 ? "s" : ""}`);
-
-    var pageNum = data.length > 0 ? pageNo : 0;
-    var numPages = Math.ceil(data.length / resultsPerPage);
-    $("#sketchnote-count").prop('title', `Page ${pageNum}/${numPages}`);
-}
-
-const search = (sketchnotes, search) => {
-    var terms = new SearchTerms(search);
-    var searcher = new Searcher(terms);
-    return searcher.search(sketchnotes);
-}
+import { UiSearcher } from './UiSearcher.js'
 
 $(document).ready(() => {
-    var sketchnotes = [];
     var rootPath = '';
     var allEvents = [];
     var allSpeakers = [];
     var allTags = [];
 
-    var currentPage = 1;
-    var currentData = [];
-    var currentSearch = null;
-
-    const runSearch = () => {
-        var searchText = $("#searchText").val();
-
-        if (searchText === currentSearch) {
-            return;
-        }
-
-        currentSearch = searchText;
-        currentData = search(sketchnotes, searchText)
-        displayPage(currentData, 1);
-    }
-
-    $("#searchText").on("keyup", () => runSearch());
-
-    $("[data-action='next']").click(() => {
-        currentPage++;
-        displayPage(currentData, currentPage);
-    });
-
-    $("[data-action='prev']").click(() => {
-        currentPage--;
-        displayPage(currentData, currentPage);
-    });
-
     $.addTemplateFormatter({
-        speakers: value => value.map(speaker => `<a href="#">${speaker}</a>`).join(", "),
-        events: value => `<a href="#">${value}</a>`,
-        tags: value => value.map(tag => `<span class="tag"><a href="#">${tag}</a></span>`),
+        speakers: value => value.map(speaker => `<a class="search-link" link-type="speaker" href="#">${speaker}</a>`).join(", "),
+        tags: value => value.map(tag => `<a class="tag search-link" link-type="tag" href="#">${tag}</a>`),
         sketchnoteImage: value => rootPath + value
     });
 
     fetch('./index.json')
     .then(response => response.json())
     .then(json => {
-        sketchnotes = json.sketchnotes;
         rootPath = json.rootPath;
+        var sketchnotes = json.sketchnotes;
+
         allEvents = [...new Set(sketchnotes.map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
         allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speakers).flat(Infinity))].sort((a, b) => a.localeCompare(b));
         allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))].sort((a, b) => a.localeCompare(b));
 
+        var searchTextBox = $("#searchText");
+        var previousButton = $("[data-action='prev']");
+        var nextButton = $("[data-action='next']");
+        var searcher = new UiSearcher(sketchnotes, searchTextBox, $("#sketchnotes"), $("#sketchnote-count"), previousButton, nextButton);
+        searchTextBox.on("keyup", () => searcher.runSearch(searchTextBox.val()));
+    
+        nextButton.click(() => searcher.moveToNextPage());
+        previousButton.click(() => searcher.moveToPreviousPage());
+    
         var searchText = window.location.hash;
 
         if (searchText.length > 0) {
             searchText = decodeURIComponent(searchText.substring(1));
+            searchTextBox.val(searchText);
         }
 
-        $("#searchText").val(searchText);
-        runSearch();
+        searcher.runSearch(searchText);
 
-        allEvents.forEach(event => $("#event-list").append(`<li><a class="modal-link" data-type="event" data-value="${event}" href="#" rel="modal:close">${event}</a></li>`));
-        allSpeakers.forEach(speaker => $("#speaker-list").append(`<li><a class="modal-link"data-type="speaker" data-value="${speaker}" href="#" rel="modal:close">${speaker}</a></li>`));
-        allTags.forEach(tag => $("#tag-list").append(`<li><a class="modal-link" data-type="tag" data-value="${tag}" href="#" rel="modal:close">${tag}</a></li>`));
+        allEvents.forEach(event => $("#event-list").append(`<li><a class="modal-link" link-type="event" link-value="${event}" href="#" rel="modal:close">${event}</a></li>`));
+        allSpeakers.forEach(speaker => $("#speaker-list").append(`<li><a class="modal-link"link-type="speaker" link-value="${speaker}" href="#" rel="modal:close">${speaker}</a></li>`));
+        allTags.forEach(tag => $("#tag-list").append(`<li><a class="modal-link" link-type="tag" link-value="${tag}" href="#" rel="modal:close">${tag}</a></li>`));
 
-        $(".modal-link").click(function () {
-            var type = this.getAttribute("data-type");
-            var value = this.getAttribute("data-value");
-            var search = `${type}:"${value}"`;
-            $("#searchText").val(search);
-            runSearch();
+        $(".modal-link").click(function() {
+            searcher.searchLinkClicked(this);
         });
     });
 });
