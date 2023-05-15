@@ -29,6 +29,12 @@ button:not([disabled]):hover {
     white-space: nowrap;
 }
 
+#banner #cc-license {
+    position: absolute;
+    top: 4px;
+    right: 14px;
+}
+
 #banner a {
     color: #ffffff;
 }
