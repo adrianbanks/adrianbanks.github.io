@@ -70,18 +70,16 @@ export class UiSearcher {
         this.#currentData = searcher.search(this.#sketchnotes);
 
         this.#displayPage(this.#currentData, 1);
+        this.#searchTextBox.val(searchText);
     }
     
     addSearchActionToLinks(items) {
         var searcher = this;
-        items.click(item => searcher.#searchLinkClicked(searcher, item));
-    }
-
-    #searchLinkClicked(searcher, link) {
-        var type = link.currentTarget.getAttribute("link-type");
-        var value = link.currentTarget.innerText;
-        var search = `${type}:"${value}"`;
-        searcher.#searchTextBox.val(search);
-        this.runSearch(search);
+        items.click(link => {
+            var type = link.currentTarget.getAttribute("link-type");
+            var value = link.currentTarget.innerText;
+            var search = `${type}:"${value}"`;
+            this.runSearch(search);
+        });
     }
 }

@@ -19,7 +19,7 @@
 
             <div id="banner-content">
                 <input id="search-text" type="search" placeholder="Search" />
-                
+
                 <div id="paging">
                     <button data-action="prev">Previous Page</button>
                     <button data-action="next">Next Page</button>
@@ -27,10 +27,23 @@
 
                 <span id="sketchnote-count"></span>
 
-                <div>
+                <div id="second-row">
+                    <i id="search-help" class="fa-solid fa-circle-question" title="Syntax help"></i>
+
                     <a href="#events" rel="modal:open">Events</a>
                     <a href="#speakers" rel="modal:open">Speakers</a>
                     <a href="#tags" rel="modal:open">Tags</a>
+
+                    <div id="search-help-content">
+                        <p>Searching will search in any of the meta-data of the sketchnote (title, speaker, event, or tags).</p>
+                        <p>To search within a specific field, use the relevant prefix:</p>
+                        <ul>
+                            <li>title - searches only within the title (e.g. <a href="#" class="example" href="#">title:text</a>)</li>
+                            <li>speaker - searches only within the speaker (e.g. <a class="example" href="#">speaker:dylan</a>)</li>
+                            <li>event - searches only within the event (e.g. <a class="example" href="#">event:&quot;NDC London&quot;</a>)</li>
+                            <li>tag - searches only within the tags (e.g. <a class="example" href="#">tag:foo</a>)</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>

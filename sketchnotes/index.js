@@ -28,10 +28,7 @@ $(document).ready(() => {
         var searcher = new UiSearcher(sketchnotes, searchTextBox, $("#sketchnotes"), $("#sketchnote-count"), previousButton, nextButton);
         
         searchTextBox.on("keyup", () => searcher.runSearch(searchTextBox.val()));
-        searchTextBox.on('search', () => {
-            searchTextBox.val('');
-            searcher.runSearch('');
-        });
+        searchTextBox.on('search', () => searcher.runSearch(''));
 
         nextButton.click(() => searcher.moveToNextPage());
         previousButton.click(() => searcher.moveToPreviousPage());
@@ -40,7 +37,6 @@ $(document).ready(() => {
 
         if (searchText.length > 0) {
             searchText = decodeURIComponent(searchText.substring(1));
-            searchTextBox.val(searchText);
         }
 
         searcher.runSearch(searchText);
@@ -50,5 +46,8 @@ $(document).ready(() => {
         allTags.forEach(tag => $("#tag-list").append(`<li><a class="modal-link" link-type="tag" link-value="${tag}" href="#" rel="modal:close">${tag}</a></li>`));
 
         searcher.addSearchActionToLinks($(".modal-link"));
+
+        $("#search-help").click(() => $('#search-help-content').toggle('fast'));
+        $(".example").click(example => searcher.runSearch(example.currentTarget.innerText));
     });
 });

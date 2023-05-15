@@ -1,4 +1,3 @@
 data cleansing:
 - add tags
 
-add a help link next to the search box
