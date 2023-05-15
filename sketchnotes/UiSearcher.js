@@ -35,8 +35,10 @@ export class UiSearcher {
 
     #displayPage(data, pageNo) {
         const resultsPerPage = 8;
-    
-        this.#sketchnotesArea.loadTemplate("sketchnote.html", data, { paged: true, pageNo: pageNo, elemPerPage: resultsPerPage });
+
+        var searcher = this;
+        var complete = () => searcher.addSearchActionToLinks($(".search-link"));
+        this.#sketchnotesArea.loadTemplate("sketchnote.html", data, { paged: true, pageNo: pageNo, elemPerPage: resultsPerPage, complete: complete});
     
         if (pageNo <= 1) {
             this.#previousButton.attr('disabled', 'disabled');
@@ -55,10 +57,6 @@ export class UiSearcher {
         var pageNum = data.length > 0 ? pageNo : 0;
         var numPages = Math.ceil(data.length / resultsPerPage);
         this.#sketchnoteCount.prop('title', `Page ${pageNum}/${numPages}`);
-    
-        $(".search-link").click(function() {
-            this.searchLinkClicked(this);
-        });
     }
     
     runSearch(searchText) {
@@ -74,11 +72,16 @@ export class UiSearcher {
         this.#displayPage(this.#currentData, 1);
     }
     
-    searchLinkClicked(link) {
-        var type = link.getAttribute("link-type");
-        var value = link.innerText;
+    addSearchActionToLinks(items) {
+        var searcher = this;
+        items.click(item => searcher.#searchLinkClicked(searcher, item));
+    }
+
+    #searchLinkClicked(searcher, link) {
+        var type = link.currentTarget.getAttribute("link-type");
+        var value = link.currentTarget.innerText;
         var search = `${type}:"${value}"`;
-        this.#searchTextBox.val(search);
+        searcher.#searchTextBox.val(search);
         this.runSearch(search);
     }
 }

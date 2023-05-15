@@ -44,8 +44,6 @@ $(document).ready(() => {
         allSpeakers.forEach(speaker => $("#speaker-list").append(`<li><a class="modal-link"link-type="speaker" link-value="${speaker}" href="#" rel="modal:close">${speaker}</a></li>`));
         allTags.forEach(tag => $("#tag-list").append(`<li><a class="modal-link" link-type="tag" link-value="${tag}" href="#" rel="modal:close">${tag}</a></li>`));
 
-        $(".modal-link").click(function() {
-            searcher.searchLinkClicked(this);
-        });
+        searcher.addSearchActionToLinks($(".modal-link"));
     });
 });
