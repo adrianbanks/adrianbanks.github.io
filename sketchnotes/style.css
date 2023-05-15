@@ -89,7 +89,7 @@ button:not([disabled]):hover {
     border: 1px solid #999999;
     background-image: url('./placeholder.jpg');
     background-repeat: no-repeat;
-    margin-bottom: 4px;
+    margin-bottom: 10px;
     width: 500px;
     height: 310px;
 }
@@ -100,13 +100,14 @@ button:not([disabled]):hover {
 
 .sketchnote .fa-lg {
     width: 18px;
-    margin: 4px 8px 4px 4px;
+    margin: 10px 8px 4px 4px;
+    padding-top: 2px;
 }
 
 .sketchnote .metadata div {
     margin-bottom: 4px;
     display: flex;
-    line-height: 1.6;
+    line-height: 1.6em;
 }
 
 .sketchnote .link {
