@@ -44,7 +44,7 @@ button:not([disabled]):hover {
     margin-left: 4px;
 }
 
-#searchText {
+#search-text {
     width: 25em;
     line-height: 2em;
     padding-left: 4px;

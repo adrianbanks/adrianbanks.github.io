@@ -22,7 +22,7 @@ $(document).ready(() => {
         allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speakers).flat(Infinity))].sort((a, b) => a.localeCompare(b));
         allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))].sort((a, b) => a.localeCompare(b));
 
-        var searchTextBox = $("#searchText");
+        var searchTextBox = $("#search-text");
         var previousButton = $("[data-action='prev']");
         var nextButton = $("[data-action='next']");
         var searcher = new UiSearcher(sketchnotes, searchTextBox, $("#sketchnotes"), $("#sketchnote-count"), previousButton, nextButton);
