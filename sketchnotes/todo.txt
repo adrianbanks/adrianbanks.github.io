@@ -1,4 +1,4 @@
 data cleansing:
 - add tags
 
-some page to show distinct speakers, events, tags
+add a help link next to the search box

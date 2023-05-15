@@ -26,8 +26,13 @@ $(document).ready(() => {
         var previousButton = $("[data-action='prev']");
         var nextButton = $("[data-action='next']");
         var searcher = new UiSearcher(sketchnotes, searchTextBox, $("#sketchnotes"), $("#sketchnote-count"), previousButton, nextButton);
+        
         searchTextBox.on("keyup", () => searcher.runSearch(searchTextBox.val()));
-    
+        searchTextBox.on('search', () => {
+            searchTextBox.val('');
+            searcher.runSearch('');
+        });
+
         nextButton.click(() => searcher.moveToNextPage());
         previousButton.click(() => searcher.moveToPreviousPage());
     
