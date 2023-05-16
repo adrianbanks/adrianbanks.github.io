@@ -75,7 +75,6 @@ export class UiSearcher {
     }
     
     addSearchActionToLinks(items) {
-        var searcher = this;
         items.click(link => {
             var type = link.currentTarget.getAttribute("link-type");
             var value = link.currentTarget.innerText;
