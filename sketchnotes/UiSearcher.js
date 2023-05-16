@@ -11,7 +11,7 @@ export class UiSearcher {
     #searchTextBox;
     #sketchnotesArea;
     #sketchnoteCount;
-    #previousButton
+    #previousButton;
     #nextButton;
 
     constructor(sketchnotes, searchTextBox, sketchnotesArea, sketchnoteCount, previousButton, nextButton) {
@@ -72,7 +72,8 @@ export class UiSearcher {
 
         this.#displayPage(this.#currentData, 1);
         this.#searchTextBox.val(searchText);
-        window.location.hash = encodeURIComponent(searchText);
+        var hash = encodeURIComponent(searchText);
+        window.location.hash = hash;
     }
     
     addSearchActionToLinks(items) {
