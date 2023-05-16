@@ -162,20 +162,15 @@ a:hover {
 }
 
 .tag {
-    background-color: #888888;
-    color: #fff;
-    border-radius: 10px;
+    background-color: #cccccc;
+    border-radius: 20px;
+    border: 1px solid #aaaaaa;
     margin-right: 5px;
     padding: 3px 10px;
     min-width: 20px;
     text-align: center;
     white-space: nowrap;
     vertical-align: middle;
-}
-
-.tag a {
-    color: #fff;
-    text-decoration: none;
 }
 
 .modal {
