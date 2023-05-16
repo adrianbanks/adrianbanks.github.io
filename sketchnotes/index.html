@@ -1,0 +1,73 @@
+<html>
+    <head>
+        <link href="../assets/resources/font-awesome/css/fontawesome.min.css" rel="stylesheet">
+        <link href="../assets/resources/font-awesome/css/brands.min.css" rel="stylesheet">
+        <link href="../assets/resources/font-awesome/css/solid.min.css" rel="stylesheet">
+        <link href="./jquery.modal.min.css" rel="stylesheet">
+        <link href="./style.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <div id="banner">
+            <p id="cc-license">
+                <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" title="This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License">
+                    <img alt="Creative Commons Licence" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png">
+                </a>
+            </p>
+
+            <a href="./"><img src="../android-icon-48x48.png"></a>
+
+            <div id="banner-content">
+                <input id="search-text" type="search" placeholder="Search" />
+
+                <div id="paging">
+                    <button data-action="prev">Previous Page</button>
+                    <button data-action="next">Next Page</button>
+                </div>
+
+                <span id="sketchnote-count"></span>
+
+                <div id="second-row">
+                    <i id="search-help" class="fa-solid fa-circle-question" title="Syntax help"></i>
+
+                    <a href="#events" rel="modal:open">Events</a>
+                    <a href="#speakers" rel="modal:open">Speakers</a>
+                    <a href="#tags" rel="modal:open">Tags</a>
+
+                    <div id="search-help-content">
+                        <p>Text will match in any of the meta-data of the sketchnote (title, speaker, event, or tags).</p>
+                        <p>To search within a specific field, use the relevant prefix:</p>
+                        <ul>
+                            <li>title - searches only within the title (e.g. <a href="#" class="example" href="#">title:plain</a>)</li>
+                            <li>speaker - searches only within the speaker (e.g. <a class="example" href="#">speaker:dylan</a>)</li>
+                            <li>event - searches only within the event (e.g. <a class="example" href="#">event:&quot;NDC London&quot;</a>)</li>
+                            <li>tag - searches only within the tags (e.g. <a class="example" href="#">tag:legacy-code</a>)</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="sketchnotes"></div>
+
+        <div id="events" class="modal">
+            <h2>Events</h2>
+            <ul id="event-list"></ul>
+        </div>
+
+        <div id="speakers" class="modal">
+            <h2>Speakers</h2>
+            <ul id="speaker-list"></ul>
+        </div>
+        
+        <div id="tags" class="modal">
+            <h2>Tags</h2>
+            <ul id="tag-list"></ul>
+        </div>
+
+        <script src="../assets/resources/jquery/jquery.min.js"></script>
+        <script src="./jquery.modal.min.js"></script>
+        <script src="./jquery.loadTemplate.min.js"></script>
+        <script type="module" src="./index.js"></script>
+    </body>
+</html>

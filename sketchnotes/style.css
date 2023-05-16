@@ -1,0 +1,200 @@
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+button {
+    padding: 6px 12px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: hand;
+    line-height: 1.4;
+}
+
+button:not([disabled]):hover {
+    background-color: #dcdcdc;
+}
+
+a, a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #333333;
+}
+
+#banner {
+    padding: 10px;
+    background-color: #333333;
+    color: #ffffff;
+    white-space: nowrap;
+}
+
+#banner #cc-license {
+    position: absolute;
+    top: 4px;
+    right: 14px;
+}
+
+#banner a {
+    color: #ffffff;
+}
+
+#banner img {
+    vertical-align: top;
+}
+
+#banner-content {
+    display: inline-block;
+    margin-left: 4px;
+}
+
+#second-row {
+    margin-top: 4px;
+}
+
+#second-row i, #second-row a {
+    margin-right: 6px;
+}
+
+#search-text {
+    width: 25em;
+    line-height: 2em;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+#paging {
+    display: inline-block;
+    white-space: nowrap;
+}
+
+#search-help {
+    cursor: hand;
+}
+
+#search-help-content {
+    z-index: 500;
+    display: none;
+    position: relative;
+    margin-top: 4px;
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    padding: 0 10 0 10;
+}
+
+#search-help-content a {
+    color: black;
+    font-style: italic;
+}
+
+#sketchnotes {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.sketchnote {
+    position: relative;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid #333333;
+    box-shadow: rgba(0,0,0,.4) 0 4px 8px;
+    width: 530px;
+    height: 500px;
+}
+
+.sketchnote:hover {
+    background-color: #f2f2f2;
+}
+
+.sketchnote .sketchnote-image {
+    border: 1px solid #999999;
+    background-image: url('./placeholder.jpg');
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    width: 500px;
+    height: 310px;
+}
+
+.sketchnote .sketchnote-locate {
+    margin: 4px;
+}
+
+.sketchnote .fa-lg {
+    width: 18px;
+    margin: 10px 8px 4px 4px;
+    padding-top: 2px;
+}
+
+.sketchnote .metadata div {
+    margin-bottom: 4px;
+    display: flex;
+    line-height: 1.6em;
+}
+
+.sketchnote .link {
+    position: absolute;
+    bottom: 4;
+    right: 4;
+    color: black;
+}
+
+.sketchnote a {
+    text-decoration: none;
+}
+
+.tags {
+    overflow-wrap: anywhere;
+    line-height: 2;
+}
+
+.tag {
+    background-color: #cccccc;
+    border-radius: 20px;
+    border: 1px solid #aaaaaa;
+    margin-right: 5px;
+    padding: 3px 10px;
+    min-width: 20px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.modal {
+    min-width: 20%;
+    max-width: 45%;
+    width: unset;
+}
+
+.modal:has(#speaker-list), .modal:has(#tag-list) {
+    min-width: 35%;
+}
+
+.modal li {
+    margin-bottom: 4px;
+}
+
+#speaker-list, #tag-list {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+    column-gap: 15%;
+}

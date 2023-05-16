@@ -1,0 +1,7 @@
+handle mobile screens
+
+https://github.com/codepb/jquery-template/tree/master
+https://getbootstrap.com/docs/3.4/components/
+https://css-tricks.com/almanac/properties/f/flex-wrap/
+https://fontawesome.com/v4/icons/
+https://jquerymodal.com/

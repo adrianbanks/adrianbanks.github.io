@@ -18,7 +18,7 @@ article.home h4 a::selection {
   background: #2c3e50;
 }
 
-body{
+body {
   color: #2c3e50;
   cursor: default;
 }
@@ -65,7 +65,7 @@ article:last-of-type hr {
   text-transform: uppercase;
 }
 
-.sidebar-header .title a{
+.sidebar-header .title a {
   text-decoration: none;
   color: #fff;
 }
@@ -76,7 +76,7 @@ a.nav-link {
   color: #aaa;
 }
 
-a.nav-link i{
+a.nav-link i {
   font-size: 16px;
 }
 
@@ -124,11 +124,11 @@ article .share .btn {
   }
 }
 
-article{
+article {
   margin-bottom: 40px;
 }
 
-.article_body{
+.article_body {
   margin-bottom: 20px;
 }
 
@@ -261,7 +261,7 @@ footer {
   background: #F2756A;
 }
 
-#nav-menu{
+#nav-menu {
   position: fixed;
   top: 45px;
   right: 45px;
