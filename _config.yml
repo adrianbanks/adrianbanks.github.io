@@ -30,6 +30,7 @@ author:
 
 rss_path: feed.xml
 about_path: about.html
+sketchnotes_path: sketchnotes/
 contact_path: contact.html
 categories_path: categories.html
 tags_path: tags.html

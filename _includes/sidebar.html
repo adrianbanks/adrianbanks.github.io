@@ -16,7 +16,7 @@
 <div id="contact-list" class="text-center">
 	<ul class="list-unstyled list-inline">
 		{% if site.author.stackoverflow %}
-		  <li>
+		  <li title="StackOverflow">
 			  <a class="btn btn-default btn-sm" href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}">
 			  <i class="fa fa-brands fa-stack-overflow fa-lg"></i>
 			</a>
@@ -24,7 +24,7 @@
 		{% endif %}
 
 		{% if site.author.github %}
-		  <li>
+		  <li title="GitHub">
 			  <a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
 			  <i class="fa fa-brands fa-github-alt fa-lg"></i>
 			</a>
@@ -32,7 +32,7 @@
 		{% endif %}
 
 		{% if site.author.twitter %}
-		  <li>
+		  <li title="Twitter">
 			  <a class="btn btn-default btn-sm" href="https://twitter.com/{{ site.author.twitter }}">
 			  <i class="fa fa-brands fa-twitter fa-lg"></i>
 			</a>
@@ -40,7 +40,7 @@
 		{% endif %}
 
 		{% if site.author.mastodon %}
-		  <li>
+		  <li title="Mastodon">
 			  <a class="btn btn-default btn-sm" href="https://{{ site.author.mastodon }}">
 			  <i class="fa fa-brands fa-mastodon fa-lg"></i>
 			</a>
@@ -49,21 +49,27 @@
 	</ul>
 
 	<ul id="contact-list-secondary" class="list-unstyled list-inline">
+		<li title="Sketchnotes">
+			<a class="btn btn-default btn-sm" href="/{{ site.sketchnotes_path }}">
+				<i class="fa fa-solid fa-book-open"></i>
+			</a>
+		</li>
+
+		<li title="About">
+			<a class="btn btn-default btn-sm" href="/{{ site.about_path }}">
+				<i class="fa fa-info-circle fa-lg"></i>
+			</a>
+		</li>
+
 		{% if site.contact_path %}
-		  <li>
+		  <li title="Contact">
 			<a class="btn btn-default btn-sm" href="/{{ site.contact_path }}">
 			  <i class="fa fa-envelope fa-lg"></i>
 			</a>
 		  </li>
 		{% endif %}
 
-		<li>
-			<a class="btn btn-default btn-sm" href="/{{ site.about_path }}">
-				<i class="fa fa-info-circle fa-lg"></i>
-			</a>
-		</li>
-
-		<li>
+		<li title="RSS">
 			<a class="btn btn-default btn-sm" href="/{{ site.rss_path }}">
 				<i class="fa fa-rss fa-lg"></i>
 			</a>
