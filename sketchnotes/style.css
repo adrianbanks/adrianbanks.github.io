@@ -161,6 +161,11 @@ a:hover {
     text-decoration: none;
 }
 
+.tags {
+    overflow-wrap: anywhere;
+    line-height: 2;
+}
+
 .tag {
     background-color: #cccccc;
     border-radius: 20px;
