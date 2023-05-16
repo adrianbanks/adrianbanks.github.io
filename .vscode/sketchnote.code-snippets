@@ -104,5 +104,22 @@
 			"  [${1:image-id}]: /assets/media/images/${2:year}/${3:month}/${4:image-name}.jpg#img-sketchnote$0"
 		],
 		"description": "Add a markdown image link"
+	},
+	"Sketchnote json slug" : {
+	"scope": "json",
+		"prefix": "sketchnote-image-json",
+		"body": [
+			"{",
+      "  \"postPath\": \"$1\",
+      "  \"imagePath\": \"$2\",
+      "  \"date\": \"$3\",
+      "  \"event\": \"$4\",
+      "  \"title\": \"$5\",
+      "  \"speakers\": [\"$6\"],
+      "  \"tags\": [\"$7\"]
+			"}",
+			"$0"
+		],
+		"description": "Add a sketchnote json slug"
 	}
 }
