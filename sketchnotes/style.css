@@ -179,7 +179,7 @@ a:hover {
     width: unset;
 }
 
-.modal:has(#speaker-list) {
+.modal:has(#speaker-list), .modal:has(#tag-list) {
     min-width: 35%;
 }
 
@@ -187,7 +187,7 @@ a:hover {
     margin-bottom: 4px;
 }
 
-#speaker-list {
+#speaker-list, #tag-list {
     -webkit-column-count: 3;
     -moz-column-count: 3;
     column-count: 3;
