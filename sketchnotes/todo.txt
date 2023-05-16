@@ -1,5 +1,2 @@
-data cleansing:
-- add tags
-
 handle mobile screens
-add sketchnote slug to the .vscode snippets
+
