@@ -8,7 +8,7 @@
         "event": "DDD South West",
         "title": "Being Staff Plus",
         "speakers": ["Ian Cooper"],
-        "tags": ["first", "second", "third"]
+        "tags": ["staff-engineering", "staff-plus", "career"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2023/05/12/dddsw-11.html",
@@ -17,7 +17,7 @@
         "event": "DDD South West",
         "title": "User Testing In Production",
         "speakers": ["Eli Holderness"],
-        "tags": []
+        "tags": ["user-testing", "feedback"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2023/05/12/dddsw-11.html",
@@ -26,7 +26,7 @@
         "event": "DDD South West",
         "title": "High Performance .Net JSON Serialization With Code Generation",
         "speakers": ["Ian Griffiths"],
-        "tags": []
+        "tags": ["json", "serialization", "dotnet", "code-generation"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2023/05/12/dddsw-11.html",
@@ -35,7 +35,7 @@
         "event": "DDD South West",
         "title": "Event Sourcing Using .Net, CosmosDB And Elastic",
         "speakers": ["James World", "Gareth James"],
-        "tags": []
+        "tags": ["event-sourcing", "dotnet", "cosmosdb", "elastic"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2023/05/12/dddsw-11.html",
@@ -44,7 +44,7 @@
         "event": "DDD South West",
         "title": "There's No Such Thing As Plain Text",
         "speakers": ["Dylan Beattie"],
-        "tags": []
+        "tags": ["unicode", "history"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2022/07/04/dddsw-10.html",
@@ -53,7 +53,7 @@
         "event": "DDD South West",
         "title": "The Source Code Generation Game",
         "speakers": ["Steve Collins"],
-        "tags": ["roslyn", "dotnet"]
+        "tags": ["roslyn", "dotnet", "code-generation"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2022/07/04/dddsw-10.html",
@@ -62,7 +62,7 @@
         "event": "DDD South West",
         "title": "Exploring Minimal .Net",
         "speakers": ["Kevin Smith"],
-        "tags": []
+        "tags": ["dotnet", "minimal-api"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2022/07/04/dddsw-10.html",
@@ -71,7 +71,7 @@
         "event": "DDD South West",
         "title": "Data Scientists: Making Shit Up Since 1974",
         "speakers": ["Gary Short"],
-        "tags": []
+        "tags": ["fermi", "data-science", "elicitation"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2022/07/04/dddsw-10.html",
@@ -80,16 +80,16 @@
         "event": "DDD South West",
         "title": "Why Premature Optimisation Is The Root Of All Evil",
         "speakers": ["Craig Jones"],
-        "tags": []
+        "tags": ["yagni", "premature-optimisation"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2022/07/04/dddsw-10.html",
         "imagePath": "/2022/07/lets-stop-blaming-our-users-for-getting-hacked-when-it-is-our-problem-to-solve-scott-brady.jpg",
         "date": "2022-06-25",
         "event": "DDD South West",
-        "title": "Let\u0027s Stop Blaming Our Users For Getting Hacked When It Is Our Problem To Solve",
+        "title": "Let's Stop Blaming Our Users For Getting Hacked When It Is Our Problem To Solve",
         "speakers": ["Scott Brady"],
-        "tags": []
+        "tags": ["security", "fido"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -98,7 +98,7 @@
         "event": "NDC London",
         "title": "Team Topologies, Software Architecture And Complexity Science",
         "speakers": ["James Lewis"],
-        "tags": []
+        "tags": ["architecture", "accelerate-metrics", "team-topology"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -107,16 +107,16 @@
         "event": "NDC London",
         "title": "Marvels Of Teenage Engineering",
         "speakers": ["Anders Nor\u00E5s"],
-        "tags": []
+        "tags": ["engineering", "history"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
         "imagePath": "/2022/05/im-gonna-make-you-stop-hating-css-lemon.jpg",
         "date": "2022-05-11",
         "event": "NDC London",
-        "title": "I\u0027m Gonna Make You Stop Hating CSS",
+        "title": "I'm Gonna Make You Stop Hating CSS",
         "speakers": ["Lemon"],
-        "tags": []
+        "tags": ["css"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -125,7 +125,7 @@
         "event": "NDC London",
         "title": "How To Close The Diversity Gap",
         "speakers": ["Heather Wilde"],
-        "tags": []
+        "tags": ["diversity", "bias"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -134,7 +134,7 @@
         "event": "NDC London",
         "title": "How The Fastest Growing Companies Develop Their Public API",
         "speakers": ["Josh Twist"],
-        "tags": []
+        "tags": ["api-design", "design"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -143,7 +143,7 @@
         "event": "NDC London",
         "title": "Design For Developers",
         "speakers": ["Lex Lofthouse"],
-        "tags": []
+        "tags": ["design", "atomic-design"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -152,7 +152,7 @@
         "event": "NDC London",
         "title": "Tracking Database Changes With Apache Kafka",
         "speakers": ["Francesco Tisiot"],
-        "tags": []
+        "tags": ["kafka", "database", "change-tracking"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -161,7 +161,7 @@
         "event": "NDC London",
         "title": "Failure Is Always An Option",
         "speakers": ["Dylan Beattie"],
-        "tags": []
+        "tags": ["history", "failure"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -170,7 +170,7 @@
         "event": "NDC London",
         "title": "Nevermind The Containers",
         "speakers": ["Rob Conery"],
-        "tags": []
+        "tags": ["containers", "vs-code"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -179,7 +179,7 @@
         "event": "NDC London",
         "title": "Fractal Architecture",
         "speakers": ["Mark Seemann"],
-        "tags": []
+        "tags": ["architecture"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -188,7 +188,7 @@
         "event": "NDC London",
         "title": "Software Lessons From Aviation Disasters",
         "speakers": ["Adele Carpenter"],
-        "tags": []
+        "tags": ["failure"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -197,7 +197,7 @@
         "event": "NDC London",
         "title": "The Last Twenty Years Of Software Development",
         "speakers": ["Richard Campbell"],
-        "tags": []
+        "tags": ["history"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -206,7 +206,7 @@
         "event": "NDC London",
         "title": "The Curious Incident In Your Software In The Daytime",
         "speakers": ["Liam Westley"],
-        "tags": []
+        "tags": ["failure", "incident-recovery"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -215,7 +215,7 @@
         "event": "NDC London",
         "title": "The Untruthful Art - Five Ways Of Misrepresenting Data",
         "speakers": ["Alexander Arvidsson"],
-        "tags": []
+        "tags": ["data"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -224,7 +224,7 @@
         "event": "NDC London",
         "title": "Wearable Live Captions",
         "speakers": ["Jo Franchetti"],
-        "tags": []
+        "tags": ["iot", "azure-cognitive-services"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -233,7 +233,7 @@
         "event": "NDC London",
         "title": "The Visible Developer",
         "speakers": ["Heather Downing"],
-        "tags": []
+        "tags": ["career"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html",
@@ -242,7 +242,7 @@
         "event": "NDC London",
         "title": "Roslyn Source Generators",
         "speakers": ["Stefan P\u00F6lz"],
-        "tags": []
+        "tags": ["roslyn", "code-generation"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2020/03/02/dddnorth.html",
@@ -251,7 +251,7 @@
         "event": "DDD North",
         "title": ".Net Core 3 With A Raspberry Pi",
         "speakers": ["Pete Gallagher"],
-        "tags": []
+        "tags": ["raspberry-pi", "iot", "dotnet", "blazor"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2020/03/02/dddnorth.html",
@@ -260,7 +260,7 @@
         "event": "DDD North",
         "title": "Blazor - The Future Of Frontend Is Here",
         "speakers": ["Chris Sainty"],
-        "tags": []
+        "tags": ["blazor", "web-assembly", "wasm"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2020/03/02/dddnorth.html",
@@ -269,7 +269,7 @@
         "event": "DDD North",
         "title": ".Net Configuration Is Easy...Right?",
         "speakers": ["Steve Collins"],
-        "tags": []
+        "tags": ["dotnet", "configuration"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2020/03/02/dddnorth.html",
@@ -278,7 +278,7 @@
         "event": "DDD North",
         "title": "50 Ways To Show Your Data",
         "speakers": ["Thomas H\u00FCtter"],
-        "tags": []
+        "tags": ["data", "data-visialisation", "r"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2020/03/02/dddnorth.html",
@@ -287,7 +287,7 @@
         "event": "DDD North",
         "title": "Kubernetes On Raspberry Pi",
         "speakers": ["Chris Wraith"],
-        "tags": []
+        "tags": ["raspberry-pi", "kubernetes"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html",
@@ -296,7 +296,7 @@
         "event": "NDC London",
         "title": "Common API Security Pitfalls",
         "speakers": ["Philippe De Ryck"],
-        "tags": []
+        "tags": ["security", "api-design", "owasp"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html",
@@ -305,7 +305,7 @@
         "event": "NDC London",
         "title": "Drinking A River Of Data With Akka.Net",
         "speakers": ["Hannes Lowette"],
-        "tags": []
+        "tags": ["dotnet", "akka", "actors"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html",
@@ -314,7 +314,7 @@
         "event": "NDC London",
         "title": "3D Printed Bionic Hand, A Little IoT, And A Xamarin Mobile App",
         "speakers": ["Clifford Agius"],
-        "tags": []
+        "tags": ["iot", "xamarin"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html",
@@ -323,7 +323,7 @@
         "event": "NDC London",
         "title": "Keep It Clean - Why Bad Data Ruins Projects And How To Fix It",
         "speakers": ["Philip Winder"],
-        "tags": []
+        "tags": ["bias", "data"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html",
@@ -332,16 +332,16 @@
         "event": "NDC London",
         "title": "Shrink The Web",
         "speakers": ["Lemon"],
-        "tags": []
+        "tags": ["performance"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html",
         "imagePath": "/2020/02/a-developers-introduction-to-electronics-guy-royse.jpg",
         "date": "2020-01-29",
         "event": "NDC London",
-        "title": "A Developer\u0027s Introduction To Electronics",
+        "title": "A Developer's Introduction To Electronics",
         "speakers": ["Guy Royse"],
-        "tags": []
+        "tags": ["electronics"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html",
@@ -350,7 +350,7 @@
         "event": "NDC London",
         "title": "Capability Mapping",
         "speakers": ["Ian Cooper"],
-        "tags": []
+        "tags": ["microservices", "capability-mapping"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html",
@@ -359,7 +359,7 @@
         "event": "NDC London",
         "title": "Controlling Wildfires While Only Getting Singed",
         "speakers": ["Jessica White"],
-        "tags": []
+        "tags": ["failure"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html",
@@ -368,7 +368,7 @@
         "event": "NDC London",
         "title": "An Introduction To Machine Learning Using Lego",
         "speakers": ["Jeppe Tornfeldt S\u00F8rensen"],
-        "tags": []
+        "tags": ["lego", "machine-learning", "ml"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html",
@@ -377,7 +377,7 @@
         "event": "NDC London",
         "title": "Modernising The Enterprise Desktop Application",
         "speakers": ["Oren Novotny"],
-        "tags": []
+        "tags": ["dotnet", "desktop-applications"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html",
@@ -386,16 +386,16 @@
         "event": "NDC London",
         "title": "Rip It Up And Start Again",
         "speakers": ["Sam Newman"],
-        "tags": []
+        "tags": ["architecture"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/10/28/ddd-east-midlands-2019.html",
         "imagePath": "/2019/10/all-the-mistakes-ive-made-trying-to-implement-microservices-zac-braddy.jpg",
         "date": "2019-10-26",
         "event": "DDD East Midlands",
-        "title": "All The Mistakes I\u0027ve Made Trying To Implement Microservices",
+        "title": "All The Mistakes I've Made Trying To Implement Microservices",
         "speakers": ["Zac Braddy"],
-        "tags": []
+        "tags": ["microservices"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/10/28/ddd-east-midlands-2019.html",
@@ -404,7 +404,7 @@
         "event": "DDD East Midlands",
         "title": "Deep Learning In The World Of Little Ponies",
         "speakers": ["Galiya Warrier"],
-        "tags": []
+        "tags": ["machine-learning", "ml", "artificial-intelligence", "ai"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/10/28/ddd-east-midlands-2019.html",
@@ -413,7 +413,7 @@
         "event": "DDD East Midlands",
         "title": "Whose Design Is It Anyway?",
         "speakers": ["Helen Joy"],
-        "tags": []
+        "tags": ["design", "inclusion"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/10/28/ddd-east-midlands-2019.html",
@@ -422,7 +422,7 @@
         "event": "DDD East Midlands",
         "title": "Think Like A Hacker",
         "speakers": ["Matt Brunt"],
-        "tags": []
+        "tags": ["security"]
       },
       {
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html",
@@ -431,7 +431,7 @@
         "event": "ProgNet",
         "title": "The Pipeline Driven Organisation",
         "speakers": ["Roy Osherove"],
-        "tags": []
+        "tags": ["continuous-delivery"]
       },
       {
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html",
@@ -440,7 +440,7 @@
         "event": "ProgNet",
         "title": "Bayesian Decision Making In The Face Of Uncertainty",
         "speakers": ["Gary Short"],
-        "tags": []
+        "tags": ["decision-making", "data"]
       },
       {
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html",
@@ -449,7 +449,7 @@
         "event": "ProgNet",
         "title": "We Are The Guardians Of Our Future",
         "speakers": ["Tess Ferrandez"],
-        "tags": []
+        "tags": ["data", "bias"]
       },
       {
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html",
@@ -458,7 +458,7 @@
         "event": "ProgNet",
         "title": "Beyond HTTP In ASP.Net Core 3.0 With gRPC",
         "speakers": ["Steve Gordon"],
-        "tags": []
+        "tags": ["dotnet", "asp-net", "http", "grpc"]
       },
       {
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html",
@@ -467,7 +467,7 @@
         "event": "ProgNet",
         "title": "Globalization And Localization In ASP.Net Core",
         "speakers": ["Rachel Appel"],
-        "tags": []
+        "tags": ["dotnet", "asp-net", "globalisation", "localisation"]
       },
       {
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html",
@@ -476,7 +476,7 @@
         "event": "ProgNet",
         "title": "Communication In A Microservice World",
         "speakers": ["Irina Scurtu"],
-        "tags": []
+        "tags": ["microservices", "grpc", "messaging"]
       },
       {
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html",
@@ -485,7 +485,7 @@
         "event": "ProgNet",
         "title": "Surviving Microservices",
         "speakers": ["Michele Leroux Bustamante"],
-        "tags": []
+        "tags": ["microservices"]
       },
       {
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html",
@@ -494,7 +494,7 @@
         "event": "ProgNet",
         "title": "TDD And The Terminator - A Guide To Better TDD",
         "speakers": ["Layla Porter"],
-        "tags": []
+        "tags": ["tdd", "test-driven-design"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/04/29/ddd-south-west-9.html",
@@ -503,7 +503,7 @@
         "event": "DDD South West",
         "title": "Nailing Down Distributed Workflows With Microservices",
         "speakers": ["Ben Arroyo"],
-        "tags": []
+        "tags": ["microservices", "distributed-workflows", "domain-driven-design"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/04/29/ddd-south-west-9.html",
@@ -512,7 +512,7 @@
         "event": "DDD South West",
         "title": "Writing High Performance C# And .Net Code",
         "speakers": ["Steve Gordon"],
-        "tags": []
+        "tags": ["dotnet", "performance", "benchmark-net"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/04/29/ddd-south-west-9.html",
@@ -521,7 +521,7 @@
         "event": "DDD South West",
         "title": "GraphQL And Dapper",
         "speakers": ["John Stovin"],
-        "tags": []
+        "tags": ["graphql", "dapper"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/04/29/ddd-south-west-9.html",
@@ -530,7 +530,7 @@
         "event": "DDD South West",
         "title": "Better The DevTool You Know",
         "speakers": ["Viv Richards"],
-        "tags": []
+        "tags": ["chrome-dev-tools"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/04/29/ddd-south-west-9.html",
@@ -539,7 +539,7 @@
         "event": "DDD South West",
         "title": "Kubernetes, Raspberry Pis, And More",
         "speakers": ["Dan Clarke"],
-        "tags": []
+        "tags": ["raspberry-pi", "kubernetes", "docker"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/03/03/ddd-north-8.html",
@@ -548,7 +548,7 @@
         "event": "DDD North",
         "title": "IoT With Nothing But A Laptop",
         "speakers": ["Pete Gallagher"],
-        "tags": []
+        "tags": ["iot", "raspberry-pi"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/03/03/ddd-north-8.html",
@@ -557,7 +557,7 @@
         "event": "DDD North",
         "title": "Selling Unicorns With Shopify And Azure",
         "speakers": ["Michael Stephenson"],
-        "tags": []
+        "tags": ["shopify", "azure"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/03/03/ddd-north-8.html",
@@ -566,7 +566,7 @@
         "event": "DDD North",
         "title": "Making Noise With F#",
         "speakers": ["John Stovin"],
-        "tags": []
+        "tags": ["f-sharp", "audio"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/03/03/ddd-north-8.html",
@@ -575,7 +575,7 @@
         "event": "DDD North",
         "title": "Air Quality, LoRa And Azure Functions",
         "speakers": ["Rob Miles"],
-        "tags": []
+        "tags": ["iot", "azure-functions", "azure"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2019/03/03/ddd-north-8.html",
@@ -584,7 +584,7 @@
         "event": "DDD North",
         "title": "Solving Microservices Challenges On The Kubernetes Platform",
         "speakers": ["Shahid Iqbal"],
-        "tags": []
+        "tags": ["microservices", "kubernetes", "service-mesh", "promethius"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html",
@@ -593,9 +593,8 @@
         "event": "NDC London",
         "title": "Ctrl-Alt-Del: Learning To Love Legacy Code",
         "speakers": ["Dylan Beattie"],
-        "tags": []
+        "tags": ["legacy-code"]
       },
-
       {
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html",
         "imagePath": "/2019/02/asp-net-core-one-hour-makeover-jon-galloway.jpg",
@@ -603,7 +602,7 @@
         "event": "NDC London",
         "title": "ASP.Net Core One Hour Makeover",
         "speakers": ["Jon Galloway"],
-        "tags": []
+        "tags": ["asp-net", "performance"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html",
@@ -612,7 +611,7 @@
         "event": "NDC London",
         "title": "Leadership Guide For The Reluctant Leader",
         "speakers": ["David Neal"],
-        "tags": []
+        "tags": ["leadership", "career"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html",
@@ -621,7 +620,7 @@
         "event": "NDC London",
         "title": "Keeping It DRYer With Templates",
         "speakers": ["Layla Porter"],
-        "tags": []
+        "tags": ["dotnet", "templates"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html",
@@ -630,7 +629,7 @@
         "event": "NDC London",
         "title": "ML.Net For Developers Without Any AI Experience",
         "speakers": ["Lee Mallon"],
-        "tags": []
+        "tags": ["machine-learning", "ml"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html",
@@ -639,16 +638,16 @@
         "event": "NDC London",
         "title": "Reverse Engineering A Bluetooth Lightbulb",
         "speakers": ["Jesse Phelps"],
-        "tags": []
+        "tags": ["iot", "raspberry-pi"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html",
         "imagePath": "/2019/02/lets-talk-http-in-net-core-steve-gordon.jpg",
         "date": "2019-01-31",
         "event": "NDC London",
-        "title": "Let\u0027s Talk HTTP In .Net Core",
+        "title": "Let's Talk HTTP In .Net Core",
         "speakers": ["Steve Gordon"],
-        "tags": []
+        "tags": ["dotnet", "http", "polly"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html",
@@ -657,7 +656,7 @@
         "event": "NDC London",
         "title": "Dynamic Runtime Code With Roslyn",
         "speakers": ["Jeremy Miller"],
-        "tags": []
+        "tags": ["roslyn", "code-generation"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html",
@@ -666,7 +665,7 @@
         "event": "NDC London",
         "title": "Pragmatic Performance",
         "speakers": ["David Wengier"],
-        "tags": []
+        "tags": ["performance"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html",
@@ -675,7 +674,7 @@
         "event": "NDC London",
         "title": "CSS Grid - What Is This Magic?",
         "speakers": ["Amy Kapernick"],
-        "tags": []
+        "tags": ["css"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html",
@@ -684,7 +683,7 @@
         "event": "NDC London",
         "title": "A Lap Around Azure DevOps",
         "speakers": ["Jakob Ehn"],
-        "tags": []
+        "tags": ["azure-devops"]
       },
       {
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html",
@@ -693,7 +692,7 @@
         "event": "ProgNet",
         "title": "Career Advice For Programmers",
         "speakers": ["Tirsha Gee"],
-        "tags": []
+        "tags": ["career"]
       },
       {
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html",
@@ -702,7 +701,7 @@
         "event": "ProgNet",
         "title": "Turning Passion Into Experience",
         "speakers": ["Shawn Wildermuth"],
-        "tags": []
+        "tags": ["career"]
       },
       {
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html",
@@ -711,16 +710,16 @@
         "event": "ProgNet",
         "title": "Own The Future",
         "speakers": ["Udi Dahan"],
-        "tags": []
+        "tags": ["code-maintenance"]
       },
       {
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html",
         "imagePath": "/2018/09/lets-talk-http-in-net-core-steve-gordon.jpg",
         "date": "2018-09-12",
         "event": "ProgNet",
-        "title": "Let\u0027s Talk HTTP In .Net Core",
+        "title": "Let's Talk HTTP In .Net Core",
         "speakers": ["Steve Gordon"],
-        "tags": []
+        "tags": ["dotnet", "http"]
       },
       {
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html",
@@ -729,7 +728,7 @@
         "event": "ProgNet",
         "title": "Building Real Time Software With ASP.Net Core SignalR",
         "speakers": ["Rachel Appel"],
-        "tags": []
+        "tags": ["asp-net", "signalr"]
       },
       {
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html",
@@ -738,7 +737,7 @@
         "event": "ProgNet",
         "title": "Learning To Code By Making Games",
         "speakers": ["Willow Rendle"],
-        "tags": []
+        "tags": ["scratch", "unity"]
       },
       {
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html",
@@ -747,16 +746,16 @@
         "event": "ProgNet",
         "title": "Security In Cloud Native",
         "speakers": ["Robin Minto"],
-        "tags": []
+        "tags": ["security", "owasp", "cloud-native"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2018/06/26/ddd-reading-13.html",
-        "imagePath": "/2018/06/quantum-computing-don\u0027t-panic-anita-ramanan-frances-tibble.jpg",
+        "imagePath": "/2018/06/quantum-computing-don't-panic-anita-ramanan-frances-tibble.jpg",
         "date": "2018-06-23",
         "event": "DDD Reading",
-        "title": "Quantum Computing: Don\u0027t Panic",
-        "speakers": ["Anita Ramanan"],
-        "tags": []
+        "title": "Quantum Computing: Don't Panic",
+        "speakers": ["Anita Ramanan", "Frances Tibble"],
+        "tags": ["quantum-computing"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2018/06/26/ddd-reading-13.html",
@@ -765,7 +764,7 @@
         "event": "DDD Reading",
         "title": "Web Assembly, Blazor, And The Future Of Web Development",
         "speakers": ["Joseph Woodward"],
-        "tags": []
+        "tags": ["blazor", "web-assembly", "wasm"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2018/06/26/ddd-reading-13.html",
@@ -774,7 +773,7 @@
         "event": "DDD Reading",
         "title": "From Monolithic Monster To Majestic Microservice App",
         "speakers": ["Callum Whyte"],
-        "tags": []
+        "tags": ["microservices"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2018/06/26/ddd-reading-13.html",
@@ -783,7 +782,7 @@
         "event": "DDD Reading",
         "title": "Automate Your Test Infrastructure With Kubernetes",
         "speakers": ["Joe Stead"],
-        "tags": []
+        "tags": ["automation", "kubernetes"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2018/04/23/ddd-south-west-8.html",
@@ -792,7 +791,7 @@
         "event": "DDD South West",
         "title": "Outside-In TDD",
         "speakers": ["Ian Russell"],
-        "tags": []
+        "tags": ["tdd", "test-driven-design"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2018/04/23/ddd-south-west-8.html",
@@ -801,7 +800,7 @@
         "event": "DDD South West",
         "title": "Give It A REST - Tips For Designing And Consuming Public APIs",
         "speakers": ["Liam Westley"],
-        "tags": []
+        "tags": ["rest", "api-design", "grpc"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2018/04/23/ddd-south-west-8.html",
@@ -810,7 +809,7 @@
         "event": "DDD South West",
         "title": "Kubernetes For .Net Developers",
         "speakers": ["Shahid Iqbal"],
-        "tags": []
+        "tags": ["kubernetes"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2018/04/23/ddd-south-west-8.html",
@@ -819,7 +818,7 @@
         "event": "DDD South West",
         "title": "Teaching An Old Dog New Tricks",
         "speakers": ["Ismail Mayat"],
-        "tags": []
+        "tags": ["tdd", "test-driven-design", "code-maintenance"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2018/04/23/ddd-south-west-8.html",
@@ -828,7 +827,7 @@
         "event": "DDD South West",
         "title": "Patterns And Practices For Building A Better Web API Architecture",
         "speakers": ["Joseph Woodward"],
-        "tags": []
+        "tags": ["cqrs", "architecture"]
       },
       {
         "postPath": "/alexa/sketchnotes/2018/04/17/alexa-devs-meetup.html",
@@ -837,16 +836,16 @@
         "event": "Cambridge Alexa Devs Meetup",
         "title": "Working Backwards",
         "speakers": ["David Low"],
-        "tags": []
+        "tags": ["alexa", "alexa-skills"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html",
         "imagePath": "/2018/01/web-apps-cant-do-that-can-they-steve-sanderson.jpg",
         "date": "2018-01-19",
         "event": "NDC London",
-        "title": "Web Apps Can\u0027t Do That, Can They?",
+        "title": "Web Apps Can't Do That, Can They?",
         "speakers": ["Steve Sanderson"],
-        "tags": []
+        "tags": ["web-assembly", "wasm", "browsers", "service-workers"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html",
@@ -855,7 +854,7 @@
         "event": "NDC London",
         "title": "Designing For Speech",
         "speakers": ["Jessice Engstr\u00F6m"],
-        "tags": []
+        "tags": ["design", "speech"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html",
@@ -864,7 +863,7 @@
         "event": "NDC London",
         "title": "Jewelbots: How To Get More Girls Coding",
         "speakers": ["Jennifer Wadella"],
-        "tags": []
+        "tags": ["jewlebots", "iot"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html",
@@ -873,7 +872,7 @@
         "event": "NDC London",
         "title": "Who Needs Dashboards?",
         "speakers": ["Jessica White"],
-        "tags": []
+        "tags": ["dashboards"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html",
@@ -882,16 +881,16 @@
         "event": "NDC London",
         "title": "Pilot Decision Management",
         "speakers": ["Clifford Agius"],
-        "tags": []
+        "tags": ["decision-making"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html",
         "imagePath": "/2018/01/a-developers-guide-to-machine-learning-tess-ferrandez.jpg",
         "date": "2018-01-18",
         "event": "NDC London",
-        "title": "A Developer\u0027s Guide To Machine Learning",
+        "title": "A Developer's Guide To Machine Learning",
         "speakers": ["Tess Ferrandez-Norlander"],
-        "tags": []
+        "tags": ["ml", "machine-learning"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html",
@@ -900,7 +899,7 @@
         "event": "NDC London",
         "title": "CSP XXP STS PKP CAA ETC...",
         "speakers": ["Scott Helme"],
-        "tags": []
+        "tags": ["csp", "xxp", "sts", "pkp", "caa"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html",
@@ -909,7 +908,7 @@
         "event": "NDC London",
         "title": "What Is Programming Anyway?",
         "speakers": ["Felienne Hermans"],
-        "tags": []
+        "tags": ["programming"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html",
@@ -918,7 +917,7 @@
         "event": "NDC London",
         "title": "The Power Of Technical Decisions",
         "speakers": ["Jake Ginnivan"],
-        "tags": []
+        "tags": ["decision-making", "continuous-delivery", "react-native"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html",
@@ -926,8 +925,8 @@
         "date": "2018-01-17",
         "event": "NDC London",
         "title": "You Build It, You Run It",
-        "speakers": ["Chris O\u0027Dell"],
-        "tags": []
+        "speakers": ["Chris O'Dell"],
+        "tags": ["telemetry", "devops"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html",
@@ -936,7 +935,7 @@
         "event": "NDC London",
         "title": "An Introduction To Kotlin",
         "speakers": ["Dmitry Kandalov"],
-        "tags": []
+        "tags": ["kotlin"]
       },
       {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html",
@@ -945,16 +944,16 @@
         "event": "NDC London",
         "title": "Composite UIs: The Microservices Last Mile",
         "speakers": ["Jimmy Bogard"],
-        "tags": []
+        "tags": ["microservices", "composite-uis"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2017/10/16/ddd-north-7.html",
         "imagePath": "/2017/10/microservices-what-ive-learned-after-a-year-of-building-a-system-nathan-gloyn.jpg",
         "date": "2017-10-14",
         "event": "DDD North",
-        "title": "Microservices: What I\u0027ve Learned After A Year Of Building A System",
+        "title": "Microservices: What I've Learned After A Year Of Building A System",
         "speakers": ["Nathan Gloyn"],
-        "tags": []
+        "tags": ["microservices"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2017/10/16/ddd-north-7.html",
@@ -963,7 +962,7 @@
         "event": "DDD North",
         "title": "Spot The Difference: Automating Visual Regression Testing",
         "speakers": ["Viv Richards"],
-        "tags": []
+        "tags": ["automation", "regression-testing", "ui-testing"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2017/10/16/ddd-north-7.html",
@@ -972,7 +971,7 @@
         "event": "DDD North",
         "title": "Married To The Mob (Programming)",
         "speakers": ["Derek Graham"],
-        "tags": []
+        "tags": ["mob-programming", "programming", "xp"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2017/10/16/ddd-north-7.html",
@@ -981,7 +980,7 @@
         "event": "DDD North",
         "title": "How To Parse A File",
         "speakers": ["Matt Ellis"],
-        "tags": []
+        "tags": ["parsing", "lexing", "jetbrains"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2017/10/16/ddd-north-7.html",
@@ -990,7 +989,7 @@
         "event": "DDD North",
         "title": "Alexa, Open Sneezaroo...",
         "speakers": ["Zinat Wali"],
-        "tags": []
+        "tags": ["alexa", "alexa-skills", "aws-lambda"]
       }
     ]
 }
