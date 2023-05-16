@@ -72,6 +72,7 @@ export class UiSearcher {
 
         this.#displayPage(this.#currentData, 1);
         this.#searchTextBox.val(searchText);
+        window.location.hash = encodeURIComponent(searchText);
     }
     
     addSearchActionToLinks(items) {
