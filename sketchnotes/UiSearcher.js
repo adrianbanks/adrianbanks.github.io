@@ -38,7 +38,7 @@ export class UiSearcher {
 
         var searcher = this;
         var complete = () => searcher.addSearchActionToLinks($(".search-link"));
-        this.#sketchnotesArea.loadTemplate("sketchnote.html", data, { paged: true, pageNo: pageNo, elemPerPage: resultsPerPage, complete: complete});
+        this.#sketchnotesArea.loadTemplate("sketchnote.html", data, { isFile: true, paged: true, pageNo: pageNo, elemPerPage: resultsPerPage, complete: complete});
     
         if (pageNo <= 1) {
             this.#previousButton.attr('disabled', 'disabled');
