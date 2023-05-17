@@ -1,4 +1,5 @@
-handle mobile screens
+- handle mobile screens
+- add an anchor to the links to the blog posts
 
 https://github.com/codepb/jquery-template/tree/master
 https://getbootstrap.com/docs/3.4/components/
