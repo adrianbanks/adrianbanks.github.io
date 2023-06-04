@@ -98,6 +98,8 @@ Of the conferences above, these are the ones that I have attended as a speaker:
 
 | **Date**            | **Event Name**                   | **Run By**            | **Session Title**                                       |
 | ------------------- | -------------------------------- | --------------------- | ------------------------------------------------------- |
+| 27th September 2023 | Agile Cambridge                  | [Software Acumen][10] | Tracking the unmeasurable with OKRs                     |
+| 21st June 2023      | LevelUp 2023                     | [Redgate][22]         | How to use Slack effectively                            |
 | 9th June 2022       | LevelUp 2022                     | [Redgate][22]         | How we used AppInsights data to drive product decisions |
 | 12th November 2021  | PASS Data Community Summit 2021  | [PASS][32]            | How Redgate builds ingeniously simple software          |
 | 17th November 2020  | LevelUp Remote Week              | [Redgate][22]         | Getting more out of Zoom                                |
