@@ -30,5 +30,5 @@ export class Searcher {
         || sketchnote.tags.some(tagText => this.#contains(tagText, this.#terms.text))
         : true;
 
-    #contains = (text, innerText) => innerText.length > 0 && text.toUpperCase().indexOf(innerText.toUpperCase()) !== -1;
+    #contains = (text, innerText) => text && innerText.length > 0 && text.toUpperCase().indexOf(innerText.toUpperCase()) !== -1;
 }
