@@ -497,6 +497,13 @@
         "tags": ["tdd", "test-driven-design"]
       },
       {
+        "imagePath": "../../../sketchnotes/images/scaling-ux-elizabeth-churchill.jpg",
+        "date": "2019-05-28",
+        "title": "Scaling UX - Material Design",
+        "speakers": ["Elizabeth Churchill"],
+        "tags": ["ux", "material-design"]
+      },
+      {
         "postPath": "/ddd-events/sketchnotes/2019/04/29/ddd-south-west-9.html#nailing-down-distributed-workflows-with-microservices",
         "imagePath": "/2019/04/nailing-down-distributed-workflows-with-microservices-ben-arroyo.jpg",
         "date": "2019-04-27",
@@ -783,6 +790,13 @@
         "title": "Automate Your Test Infrastructure With Kubernetes",
         "speakers": ["Joe Stead"],
         "tags": ["automation", "kubernetes"]
+      },
+      {
+        "imagePath": "../../../sketchnotes/images/england-dna-ian-bateman.jpg",
+        "date": "2018-05-18",
+        "title": "England DNA",
+        "speakers": ["Ian Bateman"],
+        "tags": ["futsal", "teams"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2018/04/23/ddd-south-west-8.html#outside-in-tdd",
