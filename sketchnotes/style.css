@@ -147,7 +147,12 @@ a:hover {
 .sketchnote .metadata div {
     margin-bottom: 4px;
     display: flex;
+    display: none;
     line-height: 1.6em;
+}
+
+.sketchnote .metadata div:has(a), .sketchnote .metadata div:has(span) {
+    display: flex;
 }
 
 .sketchnote .link {
