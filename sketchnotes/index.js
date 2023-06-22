@@ -19,7 +19,7 @@ $(document).ready(() => {
         var sketchnotes = json.sketchnotes;
 
         sketchnotes.map(sketchnote => sketchnote.tags.sort((a, b) => a.localeCompare(b)));
-        allEvents = [...new Set(sketchnotes.map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
+        allEvents = [...new Set(sketchnotes.filter(sketchnote => sketchnote.event).map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
         allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speakers).flat(Infinity))].sort((a, b) => a.localeCompare(b));
         allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))].sort((a, b) => a.localeCompare(b));
 
