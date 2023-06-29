@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**           |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------------ |
+| 27th June 2023      | StaffPlus London                                   | [LeadDev][29]                                            | Conference (2 days)      |
 | 10th May 2023       | Open Source Software: Licensing & Compliance       | [Orcro][33]                                              | Training (2 days)        |
 | 29th April 2023     | DDD South West 11                                  | [DDD South West][2]                                      | Conference               |
 | 25th June 2022      | DDD South West 10                                  | [DDD South West][2]                                      | Conference               |
