@@ -108,10 +108,6 @@ article .share .btn {
   transform: scale(1.2);
 }
 
-#contact-list-secondary {
-  padding-bottom: 10px;
-}
-
 .page-header,
 .page-header a {
   color: #e74c3c;
@@ -384,4 +380,8 @@ article .share .facebook:hover {
 article .share .gplus:hover {
   color: #dc4a38;
   border: 1px #dc4a38 solid;
+}
+
+.list-inline>li {
+  padding-right: 0;
 }
