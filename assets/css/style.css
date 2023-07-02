@@ -383,5 +383,6 @@ article .share .gplus:hover {
 }
 
 .list-inline>li {
+  padding-left: 0;
   padding-right: 0;
 }
