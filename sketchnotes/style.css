@@ -16,6 +16,7 @@ button {
     border-radius: 4px;
     cursor: hand;
     line-height: 1.4;
+    color: black;
 }
 
 button:not([disabled]):hover {
@@ -81,7 +82,6 @@ a:hover {
 }
 
 #search-help-content {
-    z-index: 500;
     display: none;
     position: relative;
     margin-top: 4px;
