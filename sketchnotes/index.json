@@ -254,6 +254,13 @@
         "tags": ["unicode", "history"]
       },
       {
+        "imagePath": "../../../sketchnotes/images/neurodiversity-anna-granta.jpg",
+        "date": "2022-09-23",
+        "title": "Neurodiversity",
+        "speakers": ["Anna Granta"],
+        "tags": ["neurodiversity", "inclusivity", "diversity"]
+      },
+      {
         "postPath": "/ddd-events/sketchnotes/2022/07/04/dddsw-10.html#the-source-code-generation-game",
         "imagePath": "/2022/07/the-source-code-generation-game-steve-collins.jpg",
         "date": "2022-06-25",
