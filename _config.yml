@@ -20,10 +20,6 @@ defaults:
 description: An online collection of post-it notes
 author:
   name: Adrian Banks
-  github: adrianbanks
-  twitter: adrianbanks
-  mastodon: mastodon.social/@adrianbanks
-  stackoverflow: 116923
   bio: An online collection of post-it notes
   email: websitecontact@adrianbanks.co.uk
   email_md5: 6de17b18a71b8b65b7fddfce827f123f

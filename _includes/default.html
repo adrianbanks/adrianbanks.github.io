@@ -17,8 +17,8 @@
 	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
-	<link href="https://mastodon.social/@adrianbanks" rel="me">
 	<link href="https://twitter.com/adrianbanks" rel="me">
+	<link href="https://mastodon.social/@adrianbanks" rel="me">
 	<link href="https://github.com/adrianbanks" rel="me">
 	<link href="https://stackoverflow.com/users/116923" rel="me">
 
@@ -64,21 +64,17 @@
 				<span class="icon-bar"></span>
 			</button>
 
+			<a type="button" class="navbar-toggle nav-link" href="https://linktr.ee/adrianbanks">
+				<i class="fa fa-link fa-lg"></i>
+			</a>
+
+			<a type="button" class="navbar-toggle nav-link" href="https://twitter.com/adrianbanks">
+				<i class="fa fa-twitter"></i>
+			</a>
+
 			<a type="button" class="navbar-toggle nav-link" href="/{{ site.sketchnotes_path }}">
 				<i class="fa fa-solid fa-book-open"></i>
 			</a>
-
-			{% if site.author.mastodon %}
-			<a type="button" class="navbar-toggle nav-link" href="https://{{ site.author.mastodon }}">
-				<i class="fa fa-brands fa-mastodon fa-lg"></i>
-			</a>
-			{% endif %}
-
-			{% if site.author.twitter %}
-			<a type="button" class="navbar-toggle nav-link" href="https://twitter.com/{{ site.author.twitter }}">
-				<i class="fa fa-twitter"></i>
-			</a>
-			{% endif %}
 
 			<a class="navbar-brand" href="/">
 				<img src="//www.gravatar.com/avatar/{{site.author.email_md5}}?s=35" class="img-circle" alt="Gravatar picture" />
