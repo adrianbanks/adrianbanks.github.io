@@ -70,6 +70,10 @@ article:last-of-type hr {
   color: #fff;
 }
 
+#contact-list li i {
+  width: 18px;
+}
+
 a.nav-link {
   padding-bottom: 5px;
   padding-top: 7px;
@@ -382,7 +386,7 @@ article .share .gplus:hover {
   border: 1px #dc4a38 solid;
 }
 
-.list-inline>li {
+.list-inline > li {
   padding-left: 0;
   padding-right: 0;
 }
