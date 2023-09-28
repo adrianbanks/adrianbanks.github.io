@@ -7,7 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**           |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------------ |
-| 27th September 2023 | Agile Cambridge                                    | [Software Acumen][10]                                    | Conference (3 days)      |
+| 27th September 2023 | Agile Cambridge 2023                               | [Software Acumen][10]                                    | Conference (3 days)      |
 | 27th June 2023      | StaffPlus London                                   | [LeadDev][29]                                            | Conference (2 days)      |
 | 10th May 2023       | Open Source Software: Licensing & Compliance       | [Orcro][33]                                              | Training (2 days)        |
 | 29th April 2023     | DDD South West 11                                  | [DDD South West][2]                                      | Conference               |
@@ -65,7 +65,7 @@ These are the training courses and conferences that I have attended over the yea
 | 24th January 2015   | /dev/winter 2015                                   | [Software Acumen][10]                                    | Conference               |
 | 3rd December 2014   | NDC London 2014                                    | [NDC][9]                                                 | Conference (3 days)      |
 | 18th October 2014   | DDD North 4                                        | [DDD North][3]                                           | Conference               |
-| 1st October 2014    | Agile Cambridge                                    | [Software Acumen][10]                                    | Conference (3 days)      |
+| 1st October 2014    | Agile Cambridge 2014                               | [Software Acumen][10]                                    | Conference (3 days)      |
 | 13th September 2014 | DDD East Anglia 2014                               | [DDD East Anglia][8]                                     | Conference               |
 | 12th July 2014      | /dev/summer 2014                                   | [Software Acumen][10]                                    | Conference               |
 | 28th May 2014       | Progressive .Net Tutorials 2014                    | [SkillsMatter][6]                                        | Conference (3 days)      |
@@ -100,13 +100,13 @@ Of the conferences above, these are the ones that I have attended as a speaker:
 
 | **Date**            | **Event Name**                   | **Run By**            | **Session Title**                                       |
 | ------------------- | -------------------------------- | --------------------- | ------------------------------------------------------- |
-| 27th September 2023 | Agile Cambridge                  | [Software Acumen][10] | Tracking the unmeasurable with OKRs                     |
+| 27th September 2023 | Agile Cambridge 2023             | [Software Acumen][10] | [Tracking the unmeasurable with OKRs][34]               |
 | 21st June 2023      | LevelUp 2023                     | [Redgate][22]         | How to use Slack effectively                            |
 | 9th June 2022       | LevelUp 2022                     | [Redgate][22]         | How we used AppInsights data to drive product decisions |
 | 12th November 2021  | PASS Data Community Summit 2021  | [PASS][32]            | How Redgate builds ingeniously simple software          |
 | 17th November 2020  | LevelUp Remote Week              | [Redgate][22]         | Getting more out of Zoom                                |
 | 6th March 2018      | LevelUp 2018                     | [Redgate][22]         | How many teams can work on the same product             |
-| 1st October 2014    | Agile Cambridge                  | [Software Acumen][10] | [Can agile work for off-the-shelf software?][31]        |
+| 1st October 2014    | Agile Cambridge 2014             | [Software Acumen][10] | [Can agile work for off-the-shelf software?][31]        |
 {:.mdtable}
 
 
@@ -143,3 +143,4 @@ Of the conferences above, these are the ones that I have attended as a speaker:
  [31]: https://www.infoq.com/presentations/agile-off-the-shelf/
  [32]: https://passdatacommunitysummit.com
  [33]: https://orcro.co.uk
+ [34]: https://blog.adrianbanks.co.uk/agile-cambridge
