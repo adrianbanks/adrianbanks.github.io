@@ -2,6 +2,105 @@
     "rootPath": "../assets/media/images/",
     "sketchnotes": [
       {
+        "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#lean-inceptions-how-to-set-your-teams-up-for-success",
+        "imagePath": "/2023/10/lean-inceptions-how-to-set-your-teams-up-for-success-marcel-britsch.jpg",
+        "date": "2023-09-29",
+        "event": "Agile Cambridge",
+        "title": "Lean inceptions: how to set your teams up for success",
+        "speakers": ["Marcel Britsch"],
+        "tags": ["lean"]
+      },
+      {
+        "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#fixing-feedback",
+        "imagePath": "/2023/10/fixing-feedback-ceri-newton-sargunar.jpg",
+        "date": "2023-09-29",
+        "event": "Agile Cambridge",
+        "title": "Fixing Feedback",
+        "speakers": ["Ceri Newton-Sargunar"],
+        "tags": ["feedback"]
+      },
+      {
+        "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#responsible-research-and-innovation",
+        "imagePath": "/2023/10/responsible-research-and-innovation-cat-swetel.jpg",
+        "date": "2023-09-29",
+        "event": "Agile Cambridge",
+        "title": "Responsible research and innovation",
+        "speakers": ["Cat Swetel"],
+        "tags": ["research"]
+      },
+      {
+        "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#how-to-be-agile-with-critical-national-priorities",
+        "imagePath": "/2023/10/how-to-be-agile-with-critical-national-priorities-anna-sherrington-nick-smith.jpg",
+        "date": "2023-09-28",
+        "event": "Agile Cambridge",
+        "title": "How to be agile with critical national priorities",
+        "speakers": ["Anna Sherrington", "Nick Smith"],
+        "tags": ["agile"]
+      },
+      {
+        "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#how-to-deal-with-uncertainties--risk-in-complex-environments",
+        "imagePath": "/2023/10/how-to-deal-with-uncertainties-and-risk-in-complex-environments-maik-wojcieszak.jpg",
+        "date": "2023-09-28",
+        "event": "Agile Cambridge",
+        "title": "How to deal with uncertainties & risk in complex environments",
+        "speakers": ["Maik Wojcieszak"],
+        "tags": ["complexity", "uncertainty", "risk"]
+      },
+      {
+        "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#empower-your-master-builders-with-strategic-context",
+        "imagePath": "/2023/10/empower-your-master-builders-with-strategic-context-cei-sanderson.jpg",
+        "date": "2023-09-28",
+        "event": "Agile Cambridge",
+        "title": "Empower your master builders with strategic context",
+        "speakers": ["Cei Sanderson"],
+        "tags": ["product-strategy", "product-vision"]
+      },
+      {
+        "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#a-game-of-patterns",
+        "imagePath": "/2023/10/a-game-of-patterns-tiani-jones.jpg",
+        "date": "2023-09-28",
+        "event": "Agile Cambridge",
+        "title": "A game of patterns",
+        "speakers": ["Tiani Jones"],
+        "tags": ["patterns", "systems-thinking"]
+      },
+      {
+        "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#to-mob-pair-or-fly-solo",
+        "imagePath": "/2023/10/to-mob-pair-or-fly-solo-chris-oldwood.jpg",
+        "date": "2023-09-27",
+        "event": "Agile Cambridge",
+        "title": "To mob, pair, or fly solo?",
+        "speakers": ["Chris Oldwood"],
+        "tags": ["mob-programming"]
+      },
+      {
+        "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#improving-engineering-performance-the-dora-way",
+        "imagePath": "/2023/10/improving-engineering-performance-the-dora-way-carlo-beschi.jpg",
+        "date": "2023-09-27",
+        "event": "Agile Cambridge",
+        "title": "Improving engineering performance, the DORA way",
+        "speakers": ["Carlo Beschi"],
+        "tags": ["dora-metrics", "accelerate-metrics"]
+      },
+      {
+        "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#a-culture-of-observing-how-to-get-better-understanding-across-the-org-through-observability",
+        "imagePath": "/2023/10/a-culture-of-observing-how-to-get-better-understanding-across-the-org-through-observability-apostolis-apostolidis.jpg",
+        "date": "2023-09-27",
+        "event": "Agile Cambridge",
+        "title": "A culture of observing: how to get better understanding across the org through observability",
+        "speakers": ["Apostolis Apostolidis"],
+        "tags": ["dora-metrics", "observability"]
+      },
+      {
+        "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#five-reflections-for-modern-leaders",
+        "imagePath": "/2023/10/five-reflections-for-modern-leaders-marcin-floryan.jpg",
+        "date": "2023-09-27",
+        "event": "Agile Cambridge",
+        "title": "Five reflections for modern leaders",
+        "speakers": ["Marcin Floryan"],
+        "tags": ["leadership"]
+      },
+      {
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#delivering-a-digital-first-bbc---an-architects-perspective",
         "imagePath": "/2023/06/delivering-a-digital-first-bbc-an-architects-perspective-hannes-ricklefs.jpg",
         "date": "2023-06-28",
