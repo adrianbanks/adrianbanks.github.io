@@ -23,7 +23,7 @@ export class SearchTerms{
     
     getGeneralSearchTerm(text) {
         var match = text.match(/(?<!\S)\w+(?!\S|:\s*"[^"]*")/g);
-        return match ? match.join(" ") : "";
+        return match ?? [];
     }
 
     hasTitle = () => this.title.length > 0;

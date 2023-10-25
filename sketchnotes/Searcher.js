@@ -24,10 +24,10 @@ export class Searcher {
     #isTagMatch = (sketchnote) => this.#terms.hasTag() ? sketchnote.tags.some(tag => this.#contains(tag, this.#terms.tag)) : true;
 
     #isTextMatch = (sketchnote) => this.#terms.hasText() 
-        ? this.#contains(sketchnote.title, this.#terms.text)
-        || sketchnote.speakers.some(speakerText => this.#contains(speakerText, this.#terms.text))
-        || this.#contains(sketchnote.event, this.#terms.text)
-        || sketchnote.tags.some(tagText => this.#contains(tagText, this.#terms.text))
+        ? this.#terms.text.every(text => this.#contains(sketchnote.title, text)
+            || sketchnote.speakers.some(speakerText => this.#contains(speakerText, text))
+            || this.#contains(sketchnote.event, text)
+            || sketchnote.tags.some(tagText => this.#contains(tagText, text)))
         : true;
 
     #contains = (text, innerText) => text && innerText.length > 0 && text.toUpperCase().indexOf(innerText.toUpperCase()) !== -1;
