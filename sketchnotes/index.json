@@ -5,8 +5,8 @@
         "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#lean-inceptions-how-to-set-your-teams-up-for-success",
         "imagePath": "/2023/10/lean-inceptions-how-to-set-your-teams-up-for-success-marcel-britsch.jpg",
         "date": "2023-09-29",
-        "event": "Agile Cambridge",
-        "title": "Lean inceptions: how to set your teams up for success",
+        "conference": "Agile Cambridge",
+        "title": "Lean Inceptions: How To Set Your Teams Up For Success",
         "speakers": ["Marcel Britsch"],
         "tags": ["lean"]
       },
@@ -14,7 +14,7 @@
         "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#fixing-feedback",
         "imagePath": "/2023/10/fixing-feedback-ceri-newton-sargunar.jpg",
         "date": "2023-09-29",
-        "event": "Agile Cambridge",
+        "conference": "Agile Cambridge",
         "title": "Fixing Feedback",
         "speakers": ["Ceri Newton-Sargunar"],
         "tags": ["feedback"]
@@ -23,8 +23,8 @@
         "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#responsible-research-and-innovation",
         "imagePath": "/2023/10/responsible-research-and-innovation-cat-swetel.jpg",
         "date": "2023-09-29",
-        "event": "Agile Cambridge",
-        "title": "Responsible research and innovation",
+        "conference": "Agile Cambridge",
+        "title": "Responsible Research and Innovation",
         "speakers": ["Cat Swetel"],
         "tags": ["research"]
       },
@@ -32,8 +32,8 @@
         "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#how-to-be-agile-with-critical-national-priorities",
         "imagePath": "/2023/10/how-to-be-agile-with-critical-national-priorities-anna-sherrington-nick-smith.jpg",
         "date": "2023-09-28",
-        "event": "Agile Cambridge",
-        "title": "How to be agile with critical national priorities",
+        "conference": "Agile Cambridge",
+        "title": "How To Be Agile With Critical National Priorities",
         "speakers": ["Anna Sherrington", "Nick Smith"],
         "tags": ["agile"]
       },
@@ -41,8 +41,8 @@
         "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#how-to-deal-with-uncertainties--risk-in-complex-environments",
         "imagePath": "/2023/10/how-to-deal-with-uncertainties-and-risk-in-complex-environments-maik-wojcieszak.jpg",
         "date": "2023-09-28",
-        "event": "Agile Cambridge",
-        "title": "How to deal with uncertainties & risk in complex environments",
+        "conference": "Agile Cambridge",
+        "title": "How To Deal With Uncertainties And Risk In Complex Environments",
         "speakers": ["Maik Wojcieszak"],
         "tags": ["complexity", "uncertainty", "risk"]
       },
@@ -50,8 +50,8 @@
         "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#empower-your-master-builders-with-strategic-context",
         "imagePath": "/2023/10/empower-your-master-builders-with-strategic-context-cei-sanderson.jpg",
         "date": "2023-09-28",
-        "event": "Agile Cambridge",
-        "title": "Empower your master builders with strategic context",
+        "conference": "Agile Cambridge",
+        "title": "Empower Your Master Builders With Strategic Context",
         "speakers": ["Cei Sanderson"],
         "tags": ["product-strategy", "product-vision"]
       },
@@ -59,8 +59,8 @@
         "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#a-game-of-patterns",
         "imagePath": "/2023/10/a-game-of-patterns-tiani-jones.jpg",
         "date": "2023-09-28",
-        "event": "Agile Cambridge",
-        "title": "A game of patterns",
+        "conference": "Agile Cambridge",
+        "title": "A Game Of Patterns",
         "speakers": ["Tiani Jones"],
         "tags": ["patterns", "systems-thinking"]
       },
@@ -68,8 +68,8 @@
         "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#to-mob-pair-or-fly-solo",
         "imagePath": "/2023/10/to-mob-pair-or-fly-solo-chris-oldwood.jpg",
         "date": "2023-09-27",
-        "event": "Agile Cambridge",
-        "title": "To mob, pair, or fly solo?",
+        "conference": "Agile Cambridge",
+        "title": "To Mob, Pair, Or Fly Solo?",
         "speakers": ["Chris Oldwood"],
         "tags": ["mob-programming"]
       },
@@ -77,8 +77,8 @@
         "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#improving-engineering-performance-the-dora-way",
         "imagePath": "/2023/10/improving-engineering-performance-the-dora-way-carlo-beschi.jpg",
         "date": "2023-09-27",
-        "event": "Agile Cambridge",
-        "title": "Improving engineering performance, the DORA way",
+        "conference": "Agile Cambridge",
+        "title": "Improving Engineering Performance, The DORA Way",
         "speakers": ["Carlo Beschi"],
         "tags": ["dora-metrics", "accelerate-metrics"]
       },
@@ -86,8 +86,8 @@
         "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#a-culture-of-observing-how-to-get-better-understanding-across-the-org-through-observability",
         "imagePath": "/2023/10/a-culture-of-observing-how-to-get-better-understanding-across-the-org-through-observability-apostolis-apostolidis.jpg",
         "date": "2023-09-27",
-        "event": "Agile Cambridge",
-        "title": "A culture of observing: how to get better understanding across the org through observability",
+        "conference": "Agile Cambridge",
+        "title": "A Culture Of Observing: How To Get Better Understanding Across The Org Through Observability",
         "speakers": ["Apostolis Apostolidis"],
         "tags": ["dora-metrics", "observability"]
       },
@@ -95,8 +95,8 @@
         "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#five-reflections-for-modern-leaders",
         "imagePath": "/2023/10/five-reflections-for-modern-leaders-marcin-floryan.jpg",
         "date": "2023-09-27",
-        "event": "Agile Cambridge",
-        "title": "Five reflections for modern leaders",
+        "conference": "Agile Cambridge",
+        "title": "Five Reflections For Modern Leaders",
         "speakers": ["Marcin Floryan"],
         "tags": ["leadership"]
       },
@@ -104,7 +104,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#delivering-a-digital-first-bbc---an-architects-perspective",
         "imagePath": "/2023/06/delivering-a-digital-first-bbc-an-architects-perspective-hannes-ricklefs.jpg",
         "date": "2023-06-28",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Delivering A Digital-First BBC - An Architect's Perspective",
         "speakers": ["Hannes Ricklefs"],
         "tags": ["staff-engineering", "staff-plus"]
@@ -113,7 +113,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#defining-a-technical-visiion",
         "imagePath": "/2023/06/defining-a-technical-vision-eamon-scullion.jpg",
         "date": "2023-06-28",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Defining A Technical Visiion",
         "speakers": ["Eamon Scullion"],
         "tags": ["techincal-vision", "staff-engineering", "staff-plus"]
@@ -122,7 +122,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#putting-down-line-management---returning-to-the-individual-contributor-role",
         "imagePath": "/2023/06/putting-down-line-management-returning-to-the-individual-contributor-role-caroline-handley.jpg",
         "date": "2023-06-28",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Putting Down Line Management - Returning To The Individual Contributor Role",
         "speakers": ["Caroline Handley"],
         "tags": ["staff-engineering", "staff-plus"]
@@ -131,7 +131,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#cloud-infrastructure-architecuture-for-nubanks-global-expansion",
         "imagePath": "/2023/06/cloud-infrastructure-architext-for-nubanks-global-expansion-lais-oliviera.jpg",
         "date": "2023-06-28",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Cloud Infrastructure Architecuture For Nubank's Global Expansion",
         "speakers": ["Lais Oliviera"],
         "tags": ["leadership", "staff-engineering", "staff-plus"]
@@ -140,7 +140,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#building-a-shared-vision-creating-alignment-across-autonomous-teams",
         "imagePath": "/2023/06/building-a-shared-vision-creating-alignment-across-autonomous-teams-maria-neumayer.jpg",
         "date": "2023-06-28",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Building A Shared Vision: Creating Alignment Across Autonomous Teams",
         "speakers": ["Maria Neumayer"],
         "tags": ["leadership", "staff-engineering", "staff-plus"]
@@ -149,7 +149,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#working-sideways",
         "imagePath": "/2023/06/working-sideways-aish-raj-dahal.jpg",
         "date": "2023-06-28",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Working Sideways",
         "speakers": ["Aish Raj Dahal"],
         "tags": ["staff-engineering", "staff-plus"]
@@ -158,7 +158,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#scaling-your-influence-when-you-can-only-be-in-one-place",
         "imagePath": "/2023/06/scaling-your-influence-when-you-can-only-be-in-one-place-michael-tweed.jpg",
         "date": "2023-06-28",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Scaling Your Influence When You Can Only Be In One Place",
         "speakers": ["Michael Tweed"],
         "tags": ["staff-engineering", "staff-plus"]
@@ -167,7 +167,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#the-dark-side-of-standardisation",
         "imagePath": "/2023/06/the-dark-side-of-standardisation-samantha-schaevitz.jpg",
         "date": "2023-06-28",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "The Dark Side Of Standardisation",
         "speakers": ["Samantha Schaevitz"],
         "tags": ["standardisation", "staff-engineering", "staff-plus"]
@@ -176,7 +176,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#librarians-guide-to-documentation",
         "imagePath": "/2023/06/librarians-guide-to-documentation-kaitlyn-tierney.jpg",
         "date": "2023-06-28",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Librarian's Guide To Documentation",
         "speakers": ["Kaitlyn Tierney"],
         "tags": ["documentation", "staff-engineering", "staff-plus"]
@@ -185,7 +185,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#building-a-diverse-and-inclusive-guild-from-the-ground-up",
         "imagePath": "/2023/06/building-a-diverse-and-inclusive-guild-from-the-ground-up-liem-pham.jpg",
         "date": "2023-06-28",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Building A Diverse And Inclusive Guild From The Ground Up",
         "speakers": ["Liem Pham"],
         "tags": ["diversity", "staff-engineering", "staff-plus"]
@@ -194,7 +194,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#seting-goals-as-a-staff-engineer",
         "imagePath": "/2023/06/setting-goals-as-a-staffplus-engineer-sabrina-leandro.jpg",
         "date": "2023-06-28",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Seting Goals As A Staff+ Engineer",
         "speakers": ["Sabrina Leandro"],
         "tags": ["goals", "staff-engineering", "staff-plus"]
@@ -203,7 +203,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#filling-the-jar-of-impact-and-trust-as-a-principal-engineer",
         "imagePath": "/2023/06/filling-the-jar-of-impact-and-trust-as-a-principal-engineer-nayana-shetty.jpg",
         "date": "2023-06-27",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Filling The Jar Of Impact And Trust As A Principal Engineer",
         "speakers": ["Nayana Shetty"],
         "tags": ["leadership", "staff-engineering", "staff-plus"]
@@ -212,7 +212,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#the-journey-of-a-byline",
         "imagePath": "/2023/06/the-journey-of-a-byline-alice-bartlett.jpg",
         "date": "2023-06-27",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "The Journey Of A Byline",
         "speakers": ["Alice Bartlett"],
         "tags": ["leadership", "staff-engineering", "staff-plus"]
@@ -221,7 +221,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#running-large-scale-migrations-continuously",
         "imagePath": "/2023/06/running-large-scale-migrations-continuously-suhail-patel.jpg",
         "date": "2023-06-27",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Running Large Scale Migrations Continuously",
         "speakers": ["Suhail Patel"],
         "tags": ["staff-engineering", "staff-plus", "migrations"]
@@ -230,7 +230,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#how-to-not-lose-friends-and-alienate-yourself",
         "imagePath": "/2023/06/how-to-not-lose-friends-and-alienate-people-waheed-el-miladi.jpg",
         "date": "2023-06-27",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "How To Not Lose Friends And Alienate Yourself",
         "speakers": ["Waheed El Miladi"],
         "tags": ["leadership", "staff-engineering", "staff-plus"]
@@ -239,7 +239,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#scaling-your-influence-through-documentation",
         "imagePath": "/2023/06/scaling-your-influence-through-documentation-james-ford.jpg",
         "date": "2023-06-27",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Scaling Your Influence Through Documentation",
         "speakers": ["James Ford"],
         "tags": ["leadership", "staff-engineering", "staff-plus", "documentation"]
@@ -248,7 +248,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#solving-the-puzzle-of-staff-time-management",
         "imagePath": "/2023/06/solving-the-puzzle-of-staffplus-time-management-blanca-garcia-gil.jpg",
         "date": "2023-06-27",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Solving The Puzzle Of Staff+ Time Management",
         "speakers": ["Blanca Garcia Gil"],
         "tags": ["leadership", "staff-engineering", "staff-plus"]
@@ -257,7 +257,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#maximising-your-impact-when-context-switching",
         "imagePath": "/2023/06/maximising-your-impact-when-context-switching-maude-lemaire.jpg",
         "date": "2023-06-27",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Maximising Your Impact When Context Switching",
         "speakers": ["Maude Lemaire"],
         "tags": ["staff-engineering", "staff-plus"]
@@ -266,7 +266,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#homebrews-greatest-migration-moving-to-github-packages-with-zero-downtime",
         "imagePath": "/2023/06/homebrews-greatest-migration-moving-to-github-packages-with-zero-downtime-mike-mcquaid.jpg",
         "date": "2023-06-27",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Homebrew's Greatest Migration: Moving To Github Packages With Zero Downtime",
         "speakers": ["Mike McQuaid"],
         "tags": ["homebrew", "migrations", "staff-engineering", "staff-plus"]
@@ -275,7 +275,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#the-dark-side-of-lessons-learned",
         "imagePath": "/2023/06/the-dark-side-of-lessons-learned-dianing-yudono.jpg",
         "date": "2023-06-27",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "The Dark Side Of Lessons Learned",
         "speakers": ["Dianing Yudono"],
         "tags": ["staff-engineering", "staff-plus"]
@@ -284,7 +284,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#working-on-software-that-is-older-than-you",
         "imagePath": "/2023/06/working-on-software-that-is-older-than-you-sally-wahba.jpg",
         "date": "2023-06-27",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Working On Software That Is Older Than You",
         "speakers": ["Sally Wahba"],
         "tags": ["staff-engineering", "staff-plus"]
@@ -293,7 +293,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#practical-systems-thinking-for-software-engineers",
         "imagePath": "/2023/06/practical-systems-thinking-for-software-engineers-laura-nolan.jpg",
         "date": "2023-06-27",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Practical Systems Thinking For Software Engineers",
         "speakers": ["Laura Nolan"],
         "tags": ["systems-thinking", "leadership", "staff-engineering", "staff-plus"]
@@ -302,7 +302,7 @@
         "postPath": "/staff-plus/sketchnotes/2023/06/30/staffplus-london-2023.html#unmasking-imposters-by-debugging-doubts",
         "imagePath": "/2023/06/unmasking-imposters-by-debugging-doubts-j-bobby-dorlus.jpg",
         "date": "2023-06-27",
-        "event": "StaffPlus London",
+        "conference": "StaffPlus London",
         "title": "Unmasking Imposters By Debugging Doubts",
         "speakers": ["J Bobby Dorlus"],
         "tags": ["imposter-syndrome", "leadership", "staff-engineering", "staff-plus"]
@@ -311,7 +311,7 @@
         "postPath": "/ddd-events/sketchnotes/2023/05/12/dddsw-11.html#being-staff-plus",
         "imagePath": "/2023/05/being-staff-plus-ian-cooper.jpg",
         "date": "2023-04-29",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Being Staff Plus",
         "speakers": ["Ian Cooper"],
         "tags": ["staff-engineering", "staff-plus", "career"]
@@ -320,7 +320,7 @@
         "postPath": "/ddd-events/sketchnotes/2023/05/12/dddsw-11.html#user-testing-in-production",
         "imagePath": "/2023/05/user-testing-in-production-eli-holderness.jpg",
         "date": "2023-04-29",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "User Testing In Production",
         "speakers": ["Eli Holderness"],
         "tags": ["user-testing", "feedback"]
@@ -329,7 +329,7 @@
         "postPath": "/ddd-events/sketchnotes/2023/05/12/dddsw-11.html#high-performance-dotnet-json-serialization-with-code-generation",
         "imagePath": "/2023/05/high-performance-dotnet-json-serialization-with-code-generation-ian-griffiths.jpg",
         "date": "2023-04-29",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "High Performance .Net JSON Serialization With Code Generation",
         "speakers": ["Ian Griffiths"],
         "tags": ["json", "serialization", "dotnet", "code-generation"]
@@ -338,7 +338,7 @@
         "postPath": "/ddd-events/sketchnotes/2023/05/12/dddsw-11.html#event-sourcing-using-dotnet-cosmosdb-and-elastic",
         "imagePath": "/2023/05/event-sourcing-using-dotnet-cosmosdb-and-elastic-james-world-gareth-james.jpg",
         "date": "2023-04-29",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Event Sourcing Using .Net, CosmosDB And Elastic",
         "speakers": ["James World", "Gareth James"],
         "tags": ["event-sourcing", "dotnet", "cosmosdb", "elastic"]
@@ -347,7 +347,7 @@
         "postPath": "/ddd-events/sketchnotes/2023/05/12/dddsw-11.html#theres-no-such-thing-as-plain-text",
         "imagePath": "/2023/05/theres-no-such-thing-as-plain-text-dylan-beattie.jpg",
         "date": "2023-04-29",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "There's No Such Thing As Plain Text",
         "speakers": ["Dylan Beattie"],
         "tags": ["unicode", "history"]
@@ -363,7 +363,7 @@
         "postPath": "/ddd-events/sketchnotes/2022/07/04/dddsw-10.html#the-source-code-generation-game",
         "imagePath": "/2022/07/the-source-code-generation-game-steve-collins.jpg",
         "date": "2022-06-25",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "The Source Code Generation Game",
         "speakers": ["Steve Collins"],
         "tags": ["roslyn", "dotnet", "code-generation"]
@@ -372,7 +372,7 @@
         "postPath": "/ddd-events/sketchnotes/2022/07/04/dddsw-10.html#exploring-minimal-dotnet",
         "imagePath": "/2022/07/exploring-minimal-dotnet-kevin-smith.jpg",
         "date": "2022-06-25",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Exploring Minimal .Net",
         "speakers": ["Kevin Smith"],
         "tags": ["dotnet", "minimal-api"]
@@ -381,7 +381,7 @@
         "postPath": "/ddd-events/sketchnotes/2022/07/04/dddsw-10.html#data-scientists-making-shit-up-since-1974",
         "imagePath": "/2022/07/data-scientists-making-shit-up-since-1974-gary-short.jpg",
         "date": "2022-06-25",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Data Scientists: Making Shit Up Since 1974",
         "speakers": ["Gary Short"],
         "tags": ["fermi", "data-science", "elicitation"]
@@ -390,7 +390,7 @@
         "postPath": "/ddd-events/sketchnotes/2022/07/04/dddsw-10.html#why-premature-optimisation-is-the-root-of-all-evil",
         "imagePath": "/2022/07/why-premature-optimisation-is-the-root-of-all-evil-craig-jones.jpg",
         "date": "2022-06-25",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Why Premature Optimisation Is The Root Of All Evil",
         "speakers": ["Craig Jones"],
         "tags": ["yagni", "premature-optimisation"]
@@ -399,7 +399,7 @@
         "postPath": "/ddd-events/sketchnotes/2022/07/04/dddsw-10.html#lets-stop-blaming-our-users-for-getting-hacked-when-it-is-our-problem-to-solve",
         "imagePath": "/2022/07/lets-stop-blaming-our-users-for-getting-hacked-when-it-is-our-problem-to-solve-scott-brady.jpg",
         "date": "2022-06-25",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Let's Stop Blaming Our Users For Getting Hacked When It Is Our Problem To Solve",
         "speakers": ["Scott Brady"],
         "tags": ["security", "fido"]
@@ -408,7 +408,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#team-topologies-software-architecture-and-complexity-science",
         "imagePath": "/2022/05/team-topologies-software-architecture-and-complexity-science-james-lewis.jpg",
         "date": "2022-05-11",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Team Topologies, Software Architecture And Complexity Science",
         "speakers": ["James Lewis"],
         "tags": ["architecture", "accelerate-metrics", "team-topology"]
@@ -417,7 +417,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#marvels-of-teenage-engineering",
         "imagePath": "/2022/05/marvels-of-teenage-engineering-anders-noras.jpg",
         "date": "2022-05-11",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Marvels Of Teenage Engineering",
         "speakers": ["Anders Nor\u00E5s"],
         "tags": ["engineering", "history"]
@@ -426,7 +426,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#im-gonna-make-you-stop-hating-css",
         "imagePath": "/2022/05/im-gonna-make-you-stop-hating-css-lemon.jpg",
         "date": "2022-05-11",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "I'm Gonna Make You Stop Hating CSS",
         "speakers": ["Lemon"],
         "tags": ["css"]
@@ -435,7 +435,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#how-to-close-the-diversity-gap",
         "imagePath": "/2022/05/how-to-close-the-diversity-gap-heather-wilde.jpg",
         "date": "2022-05-11",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "How To Close The Diversity Gap",
         "speakers": ["Heather Wilde"],
         "tags": ["diversity", "bias"]
@@ -444,7 +444,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#how-the-fastest-growing-companies-develop-their-public-api",
         "imagePath": "/2022/05/how-the-fastest-growing-companies-develop-their-public-api-josh-twist.jpg",
         "date": "2022-05-10",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "How The Fastest Growing Companies Develop Their Public API",
         "speakers": ["Josh Twist"],
         "tags": ["api-design", "design"]
@@ -453,7 +453,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#design-for-developers",
         "imagePath": "/2022/05/design-for-developers-lex-lofthouse.jpg",
         "date": "2022-05-10",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Design For Developers",
         "speakers": ["Lex Lofthouse"],
         "tags": ["design", "atomic-design"]
@@ -462,7 +462,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#tracking-database-changes-with-apache-kafka",
         "imagePath": "/2022/05/tracking-database-changes-with-apache-kafka-francesco-tisiot.jpg",
         "date": "2022-05-10",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Tracking Database Changes With Apache Kafka",
         "speakers": ["Francesco Tisiot"],
         "tags": ["kafka", "database", "change-tracking"]
@@ -471,7 +471,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#failure-is-always-an-option",
         "imagePath": "/2022/05/failure-is-always-an-option-dylan-beattie.jpg",
         "date": "2022-05-10",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Failure Is Always An Option",
         "speakers": ["Dylan Beattie"],
         "tags": ["history", "failure"]
@@ -480,7 +480,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#nevermind-the-containers",
         "imagePath": "/2022/05/nevermind-the-containers-rob-conery.jpg",
         "date": "2022-05-10",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Nevermind The Containers",
         "speakers": ["Rob Conery"],
         "tags": ["containers", "vs-code"]
@@ -489,7 +489,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#fractal-architecture",
         "imagePath": "/2022/05/fractal-architecture-mark-seemann.jpg",
         "date": "2022-05-10",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Fractal Architecture",
         "speakers": ["Mark Seemann"],
         "tags": ["architecture"]
@@ -498,7 +498,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#software-lessons-from-aviation-disasters",
         "imagePath": "/2022/05/software-lessons-from-aviation-disasters-adele-carpenter.jpg",
         "date": "2022-05-10",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Software Lessons From Aviation Disasters",
         "speakers": ["Adele Carpenter"],
         "tags": ["failure"]
@@ -507,7 +507,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#the-last-twenty-years-of-software-development",
         "imagePath": "/2022/05/the-last-twenty-years-of-software-development-richard-campbell.jpg",
         "date": "2022-05-09",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "The Last Twenty Years Of Software Development",
         "speakers": ["Richard Campbell"],
         "tags": ["history"]
@@ -516,7 +516,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#the-curious-incident-in-your-software-in-the-daytime",
         "imagePath": "/2022/05/the-curious-incident-in-your-software-in-the-daytime-liam-westley.jpg",
         "date": "2022-05-09",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "The Curious Incident In Your Software In The Daytime",
         "speakers": ["Liam Westley"],
         "tags": ["failure", "incident-recovery"]
@@ -525,7 +525,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#the-untruthful-art-five-ways-of-misrepresenting-data",
         "imagePath": "/2022/05/the-untruthful-art-five-ways-of-misrepresenting-data-alexander-arvidsson.jpg",
         "date": "2022-05-09",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "The Untruthful Art - Five Ways Of Misrepresenting Data",
         "speakers": ["Alexander Arvidsson"],
         "tags": ["data"]
@@ -534,7 +534,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#wearable-live-captions",
         "imagePath": "/2022/05/wearable-live-captions-jo-franchetti.jpg",
         "date": "2022-05-09",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Wearable Live Captions",
         "speakers": ["Jo Franchetti"],
         "tags": ["iot", "azure-cognitive-services"]
@@ -543,7 +543,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#the-visible-developer",
         "imagePath": "/2022/05/the-visible-developer-heather-downing.jpg",
         "date": "2022-05-09",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "The Visible Developer",
         "speakers": ["Heather Downing"],
         "tags": ["career"]
@@ -552,7 +552,7 @@
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#roslyn-source-generators",
         "imagePath": "/2022/05/roslyn-source-generators-stefan-polz.jpg",
         "date": "2022-05-09",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Roslyn Source Generators",
         "speakers": ["Stefan P\u00F6lz"],
         "tags": ["roslyn", "code-generation"]
@@ -561,7 +561,7 @@
         "postPath": "/ddd-events/sketchnotes/2020/03/02/dddnorth.html#dotnet-core-3-with-a-raspberry-pi",
         "imagePath": "/2020/03/dotnet-core-3-with-a-raspberry-pi-pete-gallagher.jpg",
         "date": "2020-02-29",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": ".Net Core 3 With A Raspberry Pi",
         "speakers": ["Pete Gallagher"],
         "tags": ["raspberry-pi", "iot", "dotnet", "blazor"]
@@ -570,7 +570,7 @@
         "postPath": "/ddd-events/sketchnotes/2020/03/02/dddnorth.html#blazor-the-future-of-front-end-is-here",
         "imagePath": "/2020/03/blazor-the-future-of-front-end-is-here-chris-sainty.jpg",
         "date": "2020-02-29",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "Blazor - The Future Of Frontend Is Here",
         "speakers": ["Chris Sainty"],
         "tags": ["blazor", "web-assembly", "wasm"]
@@ -579,7 +579,7 @@
         "postPath": "/ddd-events/sketchnotes/2020/03/02/dddnorth.html#dotnet-configuration-is-easy-right",
         "imagePath": "/2020/03/dotnet-configuration-is-easy-right-steve-collins.jpg",
         "date": "2020-02-29",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": ".Net Configuration Is Easy...Right?",
         "speakers": ["Steve Collins"],
         "tags": ["dotnet", "configuration"]
@@ -588,7 +588,7 @@
         "postPath": "/ddd-events/sketchnotes/2020/03/02/dddnorth.html#50-ways-to-show-your-data",
         "imagePath": "/2020/03/50-ways-to-show-your-data-thomas-hutter.jpg",
         "date": "2020-02-29",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "50 Ways To Show Your Data",
         "speakers": ["Thomas H\u00FCtter"],
         "tags": ["data", "data-visialisation"]
@@ -597,7 +597,7 @@
         "postPath": "/ddd-events/sketchnotes/2020/03/02/dddnorth.html#kubernetes-on-a-raspberry-pi",
         "imagePath": "/2020/03/kubernetes-on-a-raspberry-pi-chris-wraith.jpg",
         "date": "2020-02-29",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "Kubernetes On Raspberry Pi",
         "speakers": ["Chris Wraith"],
         "tags": ["raspberry-pi", "kubernetes"]
@@ -606,7 +606,7 @@
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html#common-api-security-pitfalls",
         "imagePath": "/2020/02/common-api-security-pitfalls-philippe-de-ryke.jpg",
         "date": "2020-01-31",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Common API Security Pitfalls",
         "speakers": ["Philippe De Ryck"],
         "tags": ["security", "api-design", "owasp"]
@@ -615,7 +615,7 @@
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html#drinking-a-river-of-data-with-akkadotnet",
         "imagePath": "/2020/02/drinking-a-river-of-data-with-akkadotnet-hannes-lowette.jpg",
         "date": "2020-01-31",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Drinking A River Of Data With Akka.Net",
         "speakers": ["Hannes Lowette"],
         "tags": ["dotnet", "akka", "actors"]
@@ -624,7 +624,7 @@
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html#3d-printed-bionic-hand-a-little-iot-and-a-xamarin-mobile-app",
         "imagePath": "/2020/02/3d-printed-bionic-hand-a-little-iot-and-a-xamarin-mobile-app-clifford-agius.jpg",
         "date": "2020-01-30",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "3D Printed Bionic Hand, A Little IoT, And A Xamarin Mobile App",
         "speakers": ["Clifford Agius"],
         "tags": ["iot", "xamarin"]
@@ -633,7 +633,7 @@
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html#keep-it-clean-why-bad-data-ruins-projects-and-how-to-fix-it",
         "imagePath": "/2020/02/keep-it-clean-why-bad-data-ruins-projects-and-how-to-fix-it-philip-winder.jpg",
         "date": "2020-01-30",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Keep It Clean - Why Bad Data Ruins Projects And How To Fix It",
         "speakers": ["Philip Winder"],
         "tags": ["bias", "data"]
@@ -642,7 +642,7 @@
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html#shrink-the-web",
         "imagePath": "/2020/02/shrink-the-web-lemon.jpg",
         "date": "2020-01-30",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Shrink The Web",
         "speakers": ["Lemon"],
         "tags": ["performance"]
@@ -651,7 +651,7 @@
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html#a-developers-introduction-to-electronics",
         "imagePath": "/2020/02/a-developers-introduction-to-electronics-guy-royse.jpg",
         "date": "2020-01-29",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "A Developer's Introduction To Electronics",
         "speakers": ["Guy Royse"],
         "tags": ["electronics"]
@@ -660,7 +660,7 @@
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html#capability-mapping",
         "imagePath": "/2020/02/capability-mapping-ian-cooper.jpg",
         "date": "2020-01-29",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Capability Mapping",
         "speakers": ["Ian Cooper"],
         "tags": ["microservices", "capability-mapping"]
@@ -669,7 +669,7 @@
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html#controlling-wildfires-while-only-getting-singed",
         "imagePath": "/2020/02/controlling-wildfires-while-only-getting-singed-jessica-white.jpg",
         "date": "2020-01-29",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Controlling Wildfires While Only Getting Singed",
         "speakers": ["Jessica White"],
         "tags": ["failure"]
@@ -678,7 +678,7 @@
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html#an-introduction-to-machine-learning-using-lego",
         "imagePath": "/2020/02/an-introduction-to-machine-learning-using-lego-jeppe-tornfeldt-sorensen.jpg",
         "date": "2020-01-29",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "An Introduction To Machine Learning Using Lego",
         "speakers": ["Jeppe Tornfeldt S\u00F8rensen"],
         "tags": ["lego", "machine-learning", "ml"]
@@ -687,7 +687,7 @@
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html#modernising-the-enterprise-desktop-application",
         "imagePath": "/2020/02/modernising-the-enterprise-desktop-application-oren-novotny.jpg",
         "date": "2020-01-29",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Modernising The Enterprise Desktop Application",
         "speakers": ["Oren Novotny"],
         "tags": ["dotnet", "desktop-applications"]
@@ -696,7 +696,7 @@
         "postPath": "/ndc-london/sketchnotes/2020/02/10/ndc-london-2020.html#rip-it-up-and-start-again",
         "imagePath": "/2020/02/rip-it-up-and-start-again-sam-newman.jpg",
         "date": "2020-01-29",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Rip It Up And Start Again",
         "speakers": ["Sam Newman"],
         "tags": ["architecture"]
@@ -705,7 +705,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/10/28/ddd-east-midlands-2019.html#all-the-mistakes-ive-made-trying-to-implement-microservices",
         "imagePath": "/2019/10/all-the-mistakes-ive-made-trying-to-implement-microservices-zac-braddy.jpg",
         "date": "2019-10-26",
-        "event": "DDD East Midlands",
+        "conference": "DDD East Midlands",
         "title": "All The Mistakes I've Made Trying To Implement Microservices",
         "speakers": ["Zac Braddy"],
         "tags": ["microservices"]
@@ -714,7 +714,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/10/28/ddd-east-midlands-2019.html#deep-learning-in-the-world-of-little-ponies",
         "imagePath": "/2019/10/deep-learning-in-the-world-of-little-ponies-galiya-warrier.jpg",
         "date": "2019-10-26",
-        "event": "DDD East Midlands",
+        "conference": "DDD East Midlands",
         "title": "Deep Learning In The World Of Little Ponies",
         "speakers": ["Galiya Warrier"],
         "tags": ["machine-learning", "ml", "artificial-intelligence", "ai"]
@@ -723,7 +723,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/10/28/ddd-east-midlands-2019.html#whose-design-is-it-anyway",
         "imagePath": "/2019/10/whose-design-is-it-anyway-helen-joy.jpg",
         "date": "2019-10-26",
-        "event": "DDD East Midlands",
+        "conference": "DDD East Midlands",
         "title": "Whose Design Is It Anyway?",
         "speakers": ["Helen Joy"],
         "tags": ["design", "inclusion"]
@@ -732,7 +732,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/10/28/ddd-east-midlands-2019.html#think-like-a-hacker",
         "imagePath": "/2019/10/think-like-a-hacker-matt-brunt.jpg",
         "date": "2019-10-26",
-        "event": "DDD East Midlands",
+        "conference": "DDD East Midlands",
         "title": "Think Like A Hacker",
         "speakers": ["Matt Brunt"],
         "tags": ["security"]
@@ -741,7 +741,7 @@
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html#the-pipeline-driven-organisation",
         "imagePath": "/2019/09/the-pipeline-driven-organisation-roy-osherove.jpg",
         "date": "2019-09-12",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "The Pipeline Driven Organisation",
         "speakers": ["Roy Osherove"],
         "tags": ["continuous-delivery"]
@@ -750,7 +750,7 @@
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html#bayesian-decision-making-in-the-face-of-uncertainty",
         "imagePath": "/2019/09/bayesian-decision-making-in-the-face-of-uncertainty-gary-short.jpg",
         "date": "2019-09-12",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "Bayesian Decision Making In The Face Of Uncertainty",
         "speakers": ["Gary Short"],
         "tags": ["decision-making", "data"]
@@ -759,7 +759,7 @@
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html#we-are-the-guardians-of-our-future",
         "imagePath": "/2019/09/we-are-the-guardians-of-our-future-tess-ferrandez.jpg",
         "date": "2019-09-11",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "We Are The Guardians Of Our Future",
         "speakers": ["Tess Ferrandez"],
         "tags": ["data", "bias"]
@@ -768,7 +768,7 @@
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html#beyond-http-in-aspnet-core-30-with-grpc",
         "imagePath": "/2019/09/beyond-http-in-aspnet-core-30-with-grpc-steve-gordon.jpg",
         "date": "2019-09-11",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "Beyond HTTP In ASP.Net Core 3.0 With gRPC",
         "speakers": ["Steve Gordon"],
         "tags": ["dotnet", "asp-net", "http", "grpc"]
@@ -777,7 +777,7 @@
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html#globalization-localization-in-aspnet-core",
         "imagePath": "/2019/09/globalization-localization-in-aspnet-core-rachel-appel.jpg",
         "date": "2019-09-11",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "Globalization And Localization In ASP.Net Core",
         "speakers": ["Rachel Appel"],
         "tags": ["dotnet", "asp-net", "globalisation", "localisation"]
@@ -786,7 +786,7 @@
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html#communication-in-a-microservice-world",
         "imagePath": "/2019/09/communication-in-a-microservice-world-irina-scrutu.jpg",
         "date": "2019-09-11",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "Communication In A Microservice World",
         "speakers": ["Irina Scurtu"],
         "tags": ["microservices", "grpc", "messaging"]
@@ -795,7 +795,7 @@
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html#surviving-microservices",
         "imagePath": "/2019/09/surviving-microservices-michele-leroux-bustamante.jpg",
         "date": "2019-09-11",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "Surviving Microservices",
         "speakers": ["Michele Leroux Bustamante"],
         "tags": ["microservices"]
@@ -804,7 +804,7 @@
         "postPath": "/prognet/sketchnotes/2019/09/17/prognet-2019.html#tdd-and-the-terminator-a-guide-to-better-tdd",
         "imagePath": "/2019/09/tdd-and-the-terminator-a-guide-to-better-tdd-layla-porter.jpg",
         "date": "2019-09-11",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "TDD And The Terminator - A Guide To Better TDD",
         "speakers": ["Layla Porter"],
         "tags": ["tdd", "test-driven-design"]
@@ -820,7 +820,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/04/29/ddd-south-west-9.html#nailing-down-distributed-workflows-with-microservices",
         "imagePath": "/2019/04/nailing-down-distributed-workflows-with-microservices-ben-arroyo.jpg",
         "date": "2019-04-27",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Nailing Down Distributed Workflows With Microservices",
         "speakers": ["Ben Arroyo"],
         "tags": ["microservices", "distributed-workflows", "domain-driven-design"]
@@ -829,7 +829,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/04/29/ddd-south-west-9.html#writing-high-performance-csharp-and-dotnet-code",
         "imagePath": "/2019/04/writing-high-performance-csharp-and-dotnet-code-steve-gordon.jpg",
         "date": "2019-04-27",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Writing High Performance C# And .Net Code",
         "speakers": ["Steve Gordon"],
         "tags": ["dotnet", "performance", "benchmark-net"]
@@ -838,7 +838,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/04/29/ddd-south-west-9.html#graphql-and-dapper",
         "imagePath": "/2019/04/graphql-and-dapper-john-stovin.jpg",
         "date": "2019-04-27",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "GraphQL And Dapper",
         "speakers": ["John Stovin"],
         "tags": ["graphql", "dapper"]
@@ -847,7 +847,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/04/29/ddd-south-west-9.html#better-the-devtool-you-know",
         "imagePath": "/2019/04/better-the-devtool-you-know-viv-richards.jpg",
         "date": "2019-04-27",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Better The DevTool You Know",
         "speakers": ["Viv Richards"],
         "tags": ["chrome-dev-tools"]
@@ -856,7 +856,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/04/29/ddd-south-west-9.html#kubernetes-raspberry-pis-and-more",
         "imagePath": "/2019/04/kubernetes-raspberry-pis-and-more-dan-clarke.jpg",
         "date": "2019-04-27",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Kubernetes, Raspberry Pis, And More",
         "speakers": ["Dan Clarke"],
         "tags": ["raspberry-pi", "kubernetes", "docker"]
@@ -865,7 +865,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/03/03/ddd-north-8.html#io-with-nothing-but-a-laptop",
         "imagePath": "/2019/03/io-with-nothing-but-a-laptop-pete-gallagher.jpg",
         "date": "2019-03-02",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "IoT With Nothing But A Laptop",
         "speakers": ["Pete Gallagher"],
         "tags": ["iot", "raspberry-pi"]
@@ -874,7 +874,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/03/03/ddd-north-8.html#selling-unicorns-with-shopify-and-azure",
         "imagePath": "/2019/03/selling-unicorns-with-shopify-and-azure-michael-stephenson.jpg",
         "date": "2019-03-02",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "Selling Unicorns With Shopify And Azure",
         "speakers": ["Michael Stephenson"],
         "tags": ["shopify", "azure"]
@@ -883,7 +883,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/03/03/ddd-north-8.html#making-noise-with-fsharp",
         "imagePath": "/2019/03/making-noise-with-fsharp-john-stovin.jpg",
         "date": "2019-03-02",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "Making Noise With F#",
         "speakers": ["John Stovin"],
         "tags": ["f-sharp", "audio"]
@@ -892,7 +892,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/03/03/ddd-north-8.html#air-quality-lora-and-azure-functions",
         "imagePath": "/2019/03/air-quality-lora-and-azure-functions-rob-miles.jpg",
         "date": "2019-03-02",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "Air Quality, LoRa And Azure Functions",
         "speakers": ["Rob Miles"],
         "tags": ["iot", "azure-functions", "azure"]
@@ -901,7 +901,7 @@
         "postPath": "/ddd-events/sketchnotes/2019/03/03/ddd-north-8.html#solving-microservices-challenges-on-the-kubernetes-platform",
         "imagePath": "/2019/03/solving-microservices-challenges-on-the-kubernetes-platform-shahid-iqbal.jpg",
         "date": "2019-03-02",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "Solving Microservices Challenges On The Kubernetes Platform",
         "speakers": ["Shahid Iqbal"],
         "tags": ["microservices", "kubernetes", "service-mesh", "promethius"]
@@ -910,7 +910,7 @@
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#ctrl-alt-del-learning-to-love-legacy-code",
         "imagePath": "/2019/02/ctrl-alt-del-learning-to-love-legacy-code-dylan-beattie.jpg",
         "date": "2019-02-01",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Ctrl-Alt-Del: Learning To Love Legacy Code",
         "speakers": ["Dylan Beattie"],
         "tags": ["legacy-code"]
@@ -919,7 +919,7 @@
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#asp-net-core-one-hour-makeover",
         "imagePath": "/2019/02/asp-net-core-one-hour-makeover-jon-galloway.jpg",
         "date": "2019-01-31",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "ASP.Net Core One Hour Makeover",
         "speakers": ["Jon Galloway"],
         "tags": ["asp-net", "performance"]
@@ -928,7 +928,7 @@
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#leadership-guide-for-the-reluctant-leader",
         "imagePath": "/2019/02/leadership-guide-for-the-reluctant-leader-david-neal.jpg",
         "date": "2019-01-31",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Leadership Guide For The Reluctant Leader",
         "speakers": ["David Neal"],
         "tags": ["leadership", "career"]
@@ -937,7 +937,7 @@
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#keeping-it-dryer-with-templates",
         "imagePath": "/2019/02/keeping-it-dryer-with-templates-layla-porter.jpg",
         "date": "2019-01-31",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Keeping It DRYer With Templates",
         "speakers": ["Layla Porter"],
         "tags": ["dotnet", "templates"]
@@ -946,7 +946,7 @@
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#ml-net-for-developers-without-any-ai-experience",
         "imagePath": "/2019/02/ml-net-for-developers-without-any-ai-experience-lee-mallon.jpg",
         "date": "2019-01-31",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "ML.Net For Developers Without Any AI Experience",
         "speakers": ["Lee Mallon"],
         "tags": ["machine-learning", "ml"]
@@ -955,7 +955,7 @@
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#reverse-engineering-a-bluetooth-lightbulb",
         "imagePath": "/2019/02/reverse-engineering-a-bluetooth-lightbulb-jesse-phelps.jpg",
         "date": "2019-01-31",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Reverse Engineering A Bluetooth Lightbulb",
         "speakers": ["Jesse Phelps"],
         "tags": ["iot", "raspberry-pi"]
@@ -964,7 +964,7 @@
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#lets-talk-http-in-net-core",
         "imagePath": "/2019/02/lets-talk-http-in-net-core-steve-gordon.jpg",
         "date": "2019-01-31",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Let's Talk HTTP In .Net Core",
         "speakers": ["Steve Gordon"],
         "tags": ["dotnet", "http", "polly"]
@@ -973,7 +973,7 @@
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#dynamic-runtime-code-with-roslyn",
         "imagePath": "/2019/02/dynamic-runtime-code-with-roslyn-jeremy-miller.jpg",
         "date": "2019-01-30",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Dynamic Runtime Code With Roslyn",
         "speakers": ["Jeremy Miller"],
         "tags": ["roslyn", "code-generation"]
@@ -982,7 +982,7 @@
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#pragmatic-performance",
         "imagePath": "/2019/02/pragmatic-performance-david-wengier.jpg",
         "date": "2019-01-30",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Pragmatic Performance",
         "speakers": ["David Wengier"],
         "tags": ["performance"]
@@ -991,7 +991,7 @@
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#css-grid-what-is-this-magic",
         "imagePath": "/2019/02/css-grid-what-is-this-magic-amy-kapernick.jpg",
         "date": "2019-01-30",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "CSS Grid - What Is This Magic?",
         "speakers": ["Amy Kapernick"],
         "tags": ["css"]
@@ -1000,7 +1000,7 @@
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#a-lap-around-azure-devops",
         "imagePath": "/2019/02/a-lap-around-azure-devops-jakob-ehn.jpg",
         "date": "2019-01-30",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "A Lap Around Azure DevOps",
         "speakers": ["Jakob Ehn"],
         "tags": ["azure-devops"]
@@ -1009,7 +1009,7 @@
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html#career-advice-for-programmers",
         "imagePath": "/2018/09/career-advice-for-programmers-trisha-gee.jpg",
         "date": "2018-09-14",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "Career Advice For Programmers",
         "speakers": ["Tirsha Gee"],
         "tags": ["career"]
@@ -1018,7 +1018,7 @@
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html#turning-passion-into-experience",
         "imagePath": "/2018/09/turning-passion-into-experience-shawn-wildermuth.jpg",
         "date": "2018-09-13",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "Turning Passion Into Experience",
         "speakers": ["Shawn Wildermuth"],
         "tags": ["career"]
@@ -1027,7 +1027,7 @@
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html#own-the-future",
         "imagePath": "/2018/09/own-the-future-udi-dahan.jpg",
         "date": "2018-09-12",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "Own The Future",
         "speakers": ["Udi Dahan"],
         "tags": ["code-maintenance"]
@@ -1036,7 +1036,7 @@
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html#lets-talk-http-in-net-core",
         "imagePath": "/2018/09/lets-talk-http-in-net-core-steve-gordon.jpg",
         "date": "2018-09-12",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "Let's Talk HTTP In .Net Core",
         "speakers": ["Steve Gordon"],
         "tags": ["dotnet", "http"]
@@ -1045,7 +1045,7 @@
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html#building-real-time-software-with-aspnet-core-signalr",
         "imagePath": "/2018/09/building-real-time-software-with-aspnet-core-signalr-rachel-appel.jpg",
         "date": "2018-09-12",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "Building Real Time Software With ASP.Net Core SignalR",
         "speakers": ["Rachel Appel"],
         "tags": ["asp-net", "signalr"]
@@ -1054,7 +1054,7 @@
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html#learning-to-code-by-making-games",
         "imagePath": "/2018/09/learning-to-code-by-making-games-willow-rendle.jpg",
         "date": "2018-09-12",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "Learning To Code By Making Games",
         "speakers": ["Willow Rendle"],
         "tags": ["scratch", "unity"]
@@ -1063,7 +1063,7 @@
         "postPath": "/prognet/sketchnotes/2018/09/12/prognet-2018.html#security-in-cloud-native",
         "imagePath": "/2018/09/security-in-cloud-native-robin-minto.jpg",
         "date": "2018-09-12",
-        "event": "ProgNet",
+        "conference": "ProgNet",
         "title": "Security In Cloud Native",
         "speakers": ["Robin Minto"],
         "tags": ["security", "owasp", "cloud-native"]
@@ -1072,7 +1072,7 @@
         "postPath": "/ddd-events/sketchnotes/2018/06/26/ddd-reading-13.html#quantum-computing-dont-panic",
         "imagePath": "/2018/06/quantum-computing-dont-panic-anita-ramanan-frances-tibble.jpg",
         "date": "2018-06-23",
-        "event": "DDD Reading",
+        "conference": "DDD Reading",
         "title": "Quantum Computing: Don't Panic",
         "speakers": ["Anita Ramanan", "Frances Tibble"],
         "tags": ["quantum-computing"]
@@ -1081,7 +1081,7 @@
         "postPath": "/ddd-events/sketchnotes/2018/06/26/ddd-reading-13.html#web-assembly-blazor-and-the-future-of-web-development",
         "imagePath": "/2018/06/web-assembly-blazor-and-the-future-of-web-development-joseph-woodward.jpg",
         "date": "2018-06-23",
-        "event": "DDD Reading",
+        "conference": "DDD Reading",
         "title": "Web Assembly, Blazor, And The Future Of Web Development",
         "speakers": ["Joseph Woodward"],
         "tags": ["blazor", "web-assembly", "wasm"]
@@ -1090,7 +1090,7 @@
         "postPath": "/ddd-events/sketchnotes/2018/06/26/ddd-reading-13.html#from-monolithic-monster-to-majestic-microservice-app",
         "imagePath": "/2018/06/from-monolithic-monster-to-majestic-microservice-app-callum-whyte.jpg",
         "date": "2018-06-23",
-        "event": "DDD Reading",
+        "conference": "DDD Reading",
         "title": "From Monolithic Monster To Majestic Microservice App",
         "speakers": ["Callum Whyte"],
         "tags": ["microservices"]
@@ -1099,7 +1099,7 @@
         "postPath": "/ddd-events/sketchnotes/2018/06/26/ddd-reading-13.html#automate-your-test-infrastructure-with-kubernetes",
         "imagePath": "/2018/06/automate-your-test-infrastructure-with-kubernetes-joe-stead.jpg",
         "date": "2018-06-23",
-        "event": "DDD Reading",
+        "conference": "DDD Reading",
         "title": "Automate Your Test Infrastructure With Kubernetes",
         "speakers": ["Joe Stead"],
         "tags": ["automation", "kubernetes"]
@@ -1115,7 +1115,7 @@
         "postPath": "/ddd-events/sketchnotes/2018/04/23/ddd-south-west-8.html#outside-in-tdd",
         "imagePath": "/2018/04/outside-in-tdd-ian-russell.jpg",
         "date": "2018-04-21",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Outside-In TDD",
         "speakers": ["Ian Russell"],
         "tags": ["tdd", "test-driven-design"]
@@ -1124,7 +1124,7 @@
         "postPath": "/ddd-events/sketchnotes/2018/04/23/ddd-south-west-8.html#give-it-a-rest-tips-for-designing-and-consuming-public-apis",
         "imagePath": "/2018/04/give-it-a-rest-tips-for-designing-and-consuming-public-apis-liam-westley.jpg",
         "date": "2018-04-21",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Give It A REST - Tips For Designing And Consuming Public APIs",
         "speakers": ["Liam Westley"],
         "tags": ["rest", "api-design", "grpc"]
@@ -1133,7 +1133,7 @@
         "postPath": "/ddd-events/sketchnotes/2018/04/23/ddd-south-west-8.html#kubernetes-for-dotnet-developers",
         "imagePath": "/2018/04/kubernetes-for-dotnet-developers-shahid-iqbal.jpg",
         "date": "2018-04-21",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Kubernetes For .Net Developers",
         "speakers": ["Shahid Iqbal"],
         "tags": ["kubernetes"]
@@ -1142,7 +1142,7 @@
         "postPath": "/ddd-events/sketchnotes/2018/04/23/ddd-south-west-8.html#teaching-an-old-dog-new-tricks",
         "imagePath": "/2018/04/teaching-an-old-dog-new-tricks-ismail-mayat.jpg",
         "date": "2018-04-21",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Teaching An Old Dog New Tricks",
         "speakers": ["Ismail Mayat"],
         "tags": ["tdd", "test-driven-design", "code-maintenance"]
@@ -1151,7 +1151,7 @@
         "postPath": "/ddd-events/sketchnotes/2018/04/23/ddd-south-west-8.html#patterns-and-practices-for-building-a-better-web-api-architecture",
         "imagePath": "/2018/04/patterns-and-practices-for-building-a-better-web-api-architecture-joseph-woodward.jpg",
         "date": "2018-04-21",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Patterns And Practices For Building A Better Web API Architecture",
         "speakers": ["Joseph Woodward"],
         "tags": ["cqrs", "architecture"]
@@ -1169,7 +1169,7 @@
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#web-apps-cant-do-that-can-they",
         "imagePath": "/2018/01/web-apps-cant-do-that-can-they-steve-sanderson.jpg",
         "date": "2018-01-19",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Web Apps Can't Do That, Can They?",
         "speakers": ["Steve Sanderson"],
         "tags": ["web-assembly", "wasm", "browsers", "service-workers"]
@@ -1178,7 +1178,7 @@
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#designing-for-speech",
         "imagePath": "/2018/01/designing-for-speech-jessica-engstrom.jpg",
         "date": "2018-01-18",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Designing For Speech",
         "speakers": ["Jessice Engstr\u00F6m"],
         "tags": ["design", "speech"]
@@ -1187,7 +1187,7 @@
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#jewelbots-how-to-get-more-girls-coding",
         "imagePath": "/2018/01/jewelbots-how-to-get-more-girls-coding-jennifer-wadella.jpg",
         "date": "2018-01-18",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Jewelbots: How To Get More Girls Coding",
         "speakers": ["Jennifer Wadella"],
         "tags": ["jewlebots", "iot"]
@@ -1196,7 +1196,7 @@
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#who-needs-dashboards",
         "imagePath": "/2018/01/who-needs-dashboards-jessica-white.jpg",
         "date": "2018-01-18",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Who Needs Dashboards?",
         "speakers": ["Jessica White"],
         "tags": ["dashboards"]
@@ -1205,7 +1205,7 @@
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#pilot-decision-management",
         "imagePath": "/2018/01/pilot-decision-management-clifford-agius.jpg",
         "date": "2018-01-18",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Pilot Decision Management",
         "speakers": ["Clifford Agius"],
         "tags": ["decision-making"]
@@ -1214,7 +1214,7 @@
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#a-developers-guide-to-machine-learning",
         "imagePath": "/2018/01/a-developers-guide-to-machine-learning-tess-ferrandez.jpg",
         "date": "2018-01-18",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "A Developer's Guide To Machine Learning",
         "speakers": ["Tess Ferrandez-Norlander"],
         "tags": ["ml", "machine-learning"]
@@ -1223,7 +1223,7 @@
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#csp-xxp-sts-pkp-caa-etc",
         "imagePath": "/2018/01/csp-xxp-sts-pkp-caa-etc-scott-helme.jpg",
         "date": "2018-01-18",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "CSP XXP STS PKP CAA ETC...",
         "speakers": ["Scott Helme"],
         "tags": ["csp", "xxp", "sts", "pkp", "caa"]
@@ -1232,7 +1232,7 @@
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#what-is-programming-anyway",
         "imagePath": "/2018/01/what-is-programming-anyway-felienne-hermans.jpg",
         "date": "2018-01-17",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "What Is Programming Anyway?",
         "speakers": ["Felienne Hermans"],
         "tags": ["programming"]
@@ -1241,7 +1241,7 @@
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#the-power-of-technical-decisions",
         "imagePath": "/2018/01/the-power-of-technical-decisions-jake-ginnivan.jpg",
         "date": "2018-01-17",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "The Power Of Technical Decisions",
         "speakers": ["Jake Ginnivan"],
         "tags": ["decision-making", "continuous-delivery", "react-native"]
@@ -1250,7 +1250,7 @@
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#you-build-it-you-run-it",
         "imagePath": "/2018/01/you-build-it-you-run-it-chris-odell.jpg",
         "date": "2018-01-17",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "You Build It, You Run It",
         "speakers": ["Chris O'Dell"],
         "tags": ["telemetry", "devops"]
@@ -1259,7 +1259,7 @@
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#an-introduction-to-kotlin",
         "imagePath": "/2018/01/an-introduction-to-kotlin-dmitry-kandalov.jpg",
         "date": "2018-01-17",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "An Introduction To Kotlin",
         "speakers": ["Dmitry Kandalov"],
         "tags": ["kotlin"]
@@ -1268,7 +1268,7 @@
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#composite-uis-the-microservices-last-mile",
         "imagePath": "/2018/01/composite-uis-the-microservices-last-mile-jimmy-bogard.jpg",
         "date": "2018-01-17",
-        "event": "NDC London",
+        "conference": "NDC London",
         "title": "Composite UIs: The Microservices Last Mile",
         "speakers": ["Jimmy Bogard"],
         "tags": ["microservices", "composite-uis"]
@@ -1277,7 +1277,7 @@
         "postPath": "/ddd-events/sketchnotes/2017/10/16/ddd-north-7.html#microservices-what-ive-learned-after-a-year-of-building-a-system",
         "imagePath": "/2017/10/microservices-what-ive-learned-after-a-year-of-building-a-system-nathan-gloyn.jpg",
         "date": "2017-10-14",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "Microservices: What I've Learned After A Year Of Building A System",
         "speakers": ["Nathan Gloyn"],
         "tags": ["microservices"]
@@ -1286,7 +1286,7 @@
         "postPath": "/ddd-events/sketchnotes/2017/10/16/ddd-north-7.html#spot-the-difference-automating-visual-regression-testing",
         "imagePath": "/2017/10/spot-the-difference-automating-visual-regression-testing-viv-richards.jpg",
         "date": "2017-10-14",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "Spot The Difference: Automating Visual Regression Testing",
         "speakers": ["Viv Richards"],
         "tags": ["automation", "regression-testing", "ui-testing"]
@@ -1295,7 +1295,7 @@
         "postPath": "/ddd-events/sketchnotes/2017/10/16/ddd-north-7.html#married-to-the-mob-programming",
         "imagePath": "/2017/10/married-to-the-mob-programming-derek-graham.jpg",
         "date": "2017-10-14",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "Married To The Mob (Programming)",
         "speakers": ["Derek Graham"],
         "tags": ["mob-programming", "programming", "xp"]
@@ -1304,7 +1304,7 @@
         "postPath": "/ddd-events/sketchnotes/2017/10/16/ddd-north-7.html#how-to-parse-a-file",
         "imagePath": "/2017/10/how-to-parse-a-file-matt-ellis.jpg",
         "date": "2017-10-14",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "How To Parse A File",
         "speakers": ["Matt Ellis"],
         "tags": ["parsing", "lexing", "jetbrains"]
@@ -1313,7 +1313,7 @@
         "postPath": "/ddd-events/sketchnotes/2017/10/16/ddd-north-7.html#alexa-open-sneezaroo",
         "imagePath": "/2017/10/alexa-open-sneezaroo-zinat-wali.jpg",
         "date": "2017-10-14",
-        "event": "DDD North",
+        "conference": "DDD North",
         "title": "Alexa, Open Sneezaroo...",
         "speakers": ["Zinat Wali"],
         "tags": ["alexa", "alexa-skills", "aws-lambda"]

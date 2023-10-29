@@ -1,6 +1,7 @@
-export class SearchTerms{
+export class SearchTerms {
     title;
     speaker;
+    conference;
     event;
     tag;
     text;
@@ -8,6 +9,7 @@ export class SearchTerms{
     constructor(search) {
         this.title = this.getSearchTermForField("title", search);
         this.speaker = this.getSearchTermForField("speaker", search);
+        this.conference = this.getSearchTermForField("conference", search);
         this.event = this.getSearchTermForField("event", search);
         this.tag = this.getSearchTermForField("tag", search);
         this.text = this.getGeneralSearchTerm(search);
@@ -16,19 +18,21 @@ export class SearchTerms{
     }
 
     getSearchTermForField(term, text) {
-        var pattern = `${term}:(?:"([^"]+)"|(\\w+))`;
-        var match = text.match(pattern);
+        const pattern = `${term}:(?:"([^"]+)"|(\\w+))`;
+        const match = text.match(pattern);
         return match ? match.filter(n => n)[1] : "";
     }
     
     getGeneralSearchTerm(text) {
-        var match = text.match(/(?<!\S)\w+(?!\S|:\s*"[^"]*")/g);
-        return match ? match.join(" ") : "";
+        const match = text.match(/(?<!\S)\w+(?!\S|:\s*"[^"]*")/g);
+        return match ?? [];
     }
 
     hasTitle = () => this.title.length > 0;
 
     hasSpeaker = () => this.speaker.length > 0;
+    
+    hasConference = () => this.conference.length > 0;
     
     hasEvent = () => this.event.length > 0;
     

@@ -31,6 +31,7 @@
                     <div>
                     <i id="search-help" class="fa-solid fa-circle-question" title="Syntax help"></i>
 
+                    <a href="#conferences" rel="modal:open">Conferences</a>
                     <a href="#events" rel="modal:open">Events</a>
                     <a href="#speakers" rel="modal:open">Speakers</a>
                     <a href="#tags" rel="modal:open">Tags</a>
@@ -42,7 +43,8 @@
                         <ul>
                             <li>title - searches only within the title (e.g. <a href="#" class="example" href="#">title:plain</a>)</li>
                             <li>speaker - searches only within the speaker (e.g. <a class="example" href="#">speaker:dylan</a>)</li>
-                            <li>event - searches only within the event (e.g. <a class="example" href="#">event:&quot;NDC London&quot;</a>)</li>
+                            <li>conference - searches only within the conference (e.g. <a class="example" href="#">conference:&quot;NDC London&quot;</a>)</li>
+                            <li>event - searches only within the event (e.g. <a class="example" href="#">event:&quot;NDC London 2022&quot;</a>)</li>
                             <li>tag - searches only within the tags (e.g. <a class="example" href="#">tag:legacy-code</a>)</li>
                         </ul>
                     </div>
@@ -51,6 +53,11 @@
         </div>
 
         <div id="sketchnotes"></div>
+
+        <div id="conferences" class="modal">
+            <h2>Conferences</h2>
+            <ul id="conference-list"></ul>
+        </div>
 
         <div id="events" class="modal">
             <h2>Events</h2>

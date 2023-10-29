@@ -1,10 +1,8 @@
+import { SummaryPresenter } from './SummaryPresenter.js';
 import { UiSearcher } from './UiSearcher.js'
 
 $(document).ready(() => {
-    var rootPath = '';
-    var allEvents = [];
-    var allSpeakers = [];
-    var allTags = [];
+    let rootPath = '';
 
     $.addTemplateFormatter({
         speakers: value => value.map(speaker => `<a class="search-link" link-type="speaker" href="#">${speaker}</a>`).join(", "),
@@ -16,17 +14,12 @@ $(document).ready(() => {
     .then(response => response.json())
     .then(json => {
         rootPath = json.rootPath;
-        var sketchnotes = json.sketchnotes;
+        const sketchnotes = json.sketchnotes;
 
-        sketchnotes.map(sketchnote => sketchnote.tags.sort((a, b) => a.localeCompare(b)));
-        allEvents = [...new Set(sketchnotes.filter(sketchnote => sketchnote.event).map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
-        allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speakers).flat(Infinity))].sort((a, b) => a.localeCompare(b));
-        allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))].sort((a, b) => a.localeCompare(b));
-
-        var searchTextBox = $("#search-text");
-        var previousButton = $("[data-action='prev']");
-        var nextButton = $("[data-action='next']");
-        var searcher = new UiSearcher(sketchnotes, searchTextBox, $("#sketchnotes"), $("#sketchnote-count"), previousButton, nextButton);
+        const searchTextBox = $("#search-text");
+        const previousButton = $("[data-action='prev']");
+        const nextButton = $("[data-action='next']");
+        const searcher = new UiSearcher(sketchnotes, searchTextBox, $("#sketchnotes"), $("#sketchnote-count"), previousButton, nextButton);
         
         searchTextBox.on("keyup", () => searcher.runSearch(searchTextBox.val()));
         searchTextBox.on('search', () => searcher.runSearch(''));
@@ -34,17 +27,17 @@ $(document).ready(() => {
         nextButton.click(() => searcher.moveToNextPage());
         previousButton.click(() => searcher.moveToPreviousPage());
     
-        var searchText = window.location.hash;
-
-        if (searchText.length > 0) {
-            searchText = decodeURIComponent(searchText.substring(1));
-        }
+        const searchText = window.location.hash.length > 1 
+            ? decodeURIComponent(window.location.hash.substring(1))
+            : '';
 
         searcher.runSearch(searchText);
 
-        allEvents.forEach(event => $("#event-list").append(`<li><a class="modal-link" link-type="event" link-value="${event}" href="#" rel="modal:close">${event}</a></li>`));
-        allSpeakers.forEach(speaker => $("#speaker-list").append(`<li><a class="modal-link"link-type="speaker" link-value="${speaker}" href="#" rel="modal:close">${speaker}</a></li>`));
-        allTags.forEach(tag => $("#tag-list").append(`<li><a class="modal-link" link-type="tag" link-value="${tag}" href="#" rel="modal:close">${tag}</a></li>`));
+        const summaryPresenter = new SummaryPresenter(sketchnotes);
+        summaryPresenter.addConferences($('#conference-list'));
+        summaryPresenter.addEvents($('#event-list'));
+        summaryPresenter.addSpeakers($('#speaker-list'));
+        summaryPresenter.addTags($('#tag-list'));
 
         searcher.addSearchActionToLinks($(".modal-link"));
 
@@ -52,3 +45,4 @@ $(document).ready(() => {
         $(".example").click(example => searcher.runSearch(example.currentTarget.innerText));
     });
 });
+

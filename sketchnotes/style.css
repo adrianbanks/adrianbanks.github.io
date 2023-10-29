@@ -186,7 +186,6 @@ a:hover {
 .modal {
     min-width: 20%;
     max-width: 45%;
-    width: unset;
 }
 
 .modal:has(#speaker-list), .modal:has(#tag-list) {
@@ -195,6 +194,7 @@ a:hover {
 
 .modal li {
     margin-bottom: 4px;
+    white-space: nowrap;
 }
 
 #speaker-list, #tag-list {
