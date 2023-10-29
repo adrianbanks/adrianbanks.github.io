@@ -19,7 +19,6 @@ $(document).ready(() => {
         rootPath = json.rootPath;
         var sketchnotes = json.sketchnotes;
 
-        sketchnotes.map(sketchnote => sketchnote.tags.sort((a, b) => a.localeCompare(b)));
         allConferences = [...new Set(sketchnotes.filter(sketchnote => sketchnote.conference).map(sketchnote => sketchnote.conference))].sort((a, b) => a.localeCompare(b));
         allEvents = [...new Set(sketchnotes.filter(sketchnote => sketchnote.event).map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
         allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speakers).flat(Infinity))].sort((a, b) => a.localeCompare(b));
