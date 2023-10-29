@@ -26,11 +26,9 @@ $(document).ready(() => {
         nextButton.click(() => searcher.moveToNextPage());
         previousButton.click(() => searcher.moveToPreviousPage());
     
-        let searchText = window.location.hash;
-
-        if (searchText.length > 0) {
-            searchText = decodeURIComponent(searchText.substring(1));
-        }
+        const searchText = window.location.hash.length > 1 
+            ? decodeURIComponent(window.location.hash.substring(1))
+            : '';
 
         searcher.runSearch(searchText);
 
