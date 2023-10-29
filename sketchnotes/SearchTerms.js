@@ -18,13 +18,13 @@ export class SearchTerms{
     }
 
     getSearchTermForField(term, text) {
-        var pattern = `${term}:(?:"([^"]+)"|(\\w+))`;
-        var match = text.match(pattern);
+        const pattern = `${term}:(?:"([^"]+)"|(\\w+))`;
+        const match = text.match(pattern);
         return match ? match.filter(n => n)[1] : "";
     }
     
     getGeneralSearchTerm(text) {
-        var match = text.match(/(?<!\S)\w+(?!\S|:\s*"[^"]*")/g);
+        const match = text.match(/(?<!\S)\w+(?!\S|:\s*"[^"]*")/g);
         return match ?? [];
     }
 

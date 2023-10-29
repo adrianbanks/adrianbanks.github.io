@@ -36,8 +36,8 @@ export class UiSearcher {
     #displayPage(data, pageNo) {
         const resultsPerPage = 8;
 
-        var searcher = this;
-        var complete = () => searcher.addSearchActionToLinks($(".search-link"));
+        const searcher = this;
+        const complete = () => searcher.addSearchActionToLinks($(".search-link"));
         this.#sketchnotesArea.loadTemplate("sketchnote.html", data,
             { 
                 isFile: true,
@@ -64,8 +64,8 @@ export class UiSearcher {
         this.#sketchnoteCount.text(`${data.length} sketchnote${data.length != 1 ? "s" : ""}`);
     
         this.#currentPage = pageNo;
-        var pageNum = data.length > 0 ? pageNo : 0;
-        var numPages = Math.ceil(data.length / resultsPerPage);
+        const pageNum = data.length > 0 ? pageNo : 0;
+        const numPages = Math.ceil(data.length / resultsPerPage);
         this.#sketchnoteCount.prop('title', `Page ${pageNum}/${numPages}`);
     }
     
@@ -75,21 +75,21 @@ export class UiSearcher {
         }
     
         this.#currentSearch = searchText;
-        var terms = new SearchTerms(searchText);
-        var searcher = new Searcher(terms);
+        const terms = new SearchTerms(searchText);
+        const searcher = new Searcher(terms);
         this.#currentData = searcher.search(this.#sketchnotes);
 
         this.#displayPage(this.#currentData, 1);
         this.#searchTextBox.val(searchText);
-        var hash = encodeURIComponent(searchText);
+        const hash = encodeURIComponent(searchText);
         window.location.hash = hash;
     }
     
     addSearchActionToLinks(items) {
         items.click(link => {
-            var type = link.currentTarget.getAttribute("link-type");
-            var value = link.currentTarget.innerText;
-            var search = `${type}:"${value}"`;
+            const type = link.currentTarget.getAttribute("link-type");
+            const value = link.currentTarget.innerText;
+            const search = `${type}:"${value}"`;
             this.runSearch(search);
         });
     }

@@ -1,11 +1,7 @@
 import { UiSearcher } from './UiSearcher.js'
 
 $(document).ready(() => {
-    var rootPath = '';
-    var allConferences = [];
-    var allEvents = [];
-    var allSpeakers = [];
-    var allTags = [];
+    let rootPath = '';
 
     $.addTemplateFormatter({
         speakers: value => value.map(speaker => `<a class="search-link" link-type="speaker" href="#">${speaker}</a>`).join(", "),
@@ -17,17 +13,17 @@ $(document).ready(() => {
     .then(response => response.json())
     .then(json => {
         rootPath = json.rootPath;
-        var sketchnotes = json.sketchnotes;
+        const sketchnotes = json.sketchnotes;
 
-        allConferences = [...new Set(sketchnotes.filter(sketchnote => sketchnote.conference).map(sketchnote => sketchnote.conference))].sort((a, b) => a.localeCompare(b));
-        allEvents = [...new Set(sketchnotes.filter(sketchnote => sketchnote.event).map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
-        allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speakers).flat(Infinity))].sort((a, b) => a.localeCompare(b));
-        allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))].sort((a, b) => a.localeCompare(b));
+        const allConferences = [...new Set(sketchnotes.filter(sketchnote => sketchnote.conference).map(sketchnote => sketchnote.conference))].sort((a, b) => a.localeCompare(b));
+        const allEvents = [...new Set(sketchnotes.filter(sketchnote => sketchnote.event).map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
+        const allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speakers).flat(Infinity))].sort((a, b) => a.localeCompare(b));
+        const allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))].sort((a, b) => a.localeCompare(b));
 
-        var searchTextBox = $("#search-text");
-        var previousButton = $("[data-action='prev']");
-        var nextButton = $("[data-action='next']");
-        var searcher = new UiSearcher(sketchnotes, searchTextBox, $("#sketchnotes"), $("#sketchnote-count"), previousButton, nextButton);
+        const searchTextBox = $("#search-text");
+        const previousButton = $("[data-action='prev']");
+        const nextButton = $("[data-action='next']");
+        const searcher = new UiSearcher(sketchnotes, searchTextBox, $("#sketchnotes"), $("#sketchnote-count"), previousButton, nextButton);
         
         searchTextBox.on("keyup", () => searcher.runSearch(searchTextBox.val()));
         searchTextBox.on('search', () => searcher.runSearch(''));
@@ -35,7 +31,7 @@ $(document).ready(() => {
         nextButton.click(() => searcher.moveToNextPage());
         previousButton.click(() => searcher.moveToPreviousPage());
     
-        var searchText = window.location.hash;
+        let searchText = window.location.hash;
 
         if (searchText.length > 0) {
             searchText = decodeURIComponent(searchText.substring(1));

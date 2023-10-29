@@ -5,16 +5,14 @@ export class Searcher {
         this.#terms = terms;
     }
 
-    search(sketchnotes) {
-        var results = sketchnotes.filter(sketchnote => this.#isTitleMatch(sketchnote));
-        results = results.filter(sketchnote => this.#isSpeakerMatch(sketchnote));
-        results = results.filter(sketchnote => this.#isConferenceMatch(sketchnote));
-        results = results.filter(sketchnote => this.#isEventMatch(sketchnote));
-        results = results.filter(sketchnote => this.#isTagMatch(sketchnote));
-        results = results.filter(sketchnote => this.#isTextMatch(sketchnote));
-        results = results.sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
-        return results;
-    }
+    search = (sketchnotes) =>
+         sketchnotes.filter(sketchnote => this.#isTitleMatch(sketchnote))
+            .filter(sketchnote => this.#isSpeakerMatch(sketchnote))
+            .filter(sketchnote => this.#isConferenceMatch(sketchnote))
+            .filter(sketchnote => this.#isEventMatch(sketchnote))
+            .filter(sketchnote => this.#isTagMatch(sketchnote))
+            .filter(sketchnote => this.#isTextMatch(sketchnote))
+            .sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
 
     #isTitleMatch = (sketchnote) => this.#terms.hasTitle() ? this.#contains(sketchnote.title, this.#terms.title) : true;
 
