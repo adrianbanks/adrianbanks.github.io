@@ -15,11 +15,6 @@ $(document).ready(() => {
         rootPath = json.rootPath;
         const sketchnotes = json.sketchnotes;
 
-        const allConferences = [...new Set(sketchnotes.filter(sketchnote => sketchnote.conference).map(sketchnote => sketchnote.conference))].sort((a, b) => a.localeCompare(b));
-        const allEvents = [...new Set(sketchnotes.filter(sketchnote => sketchnote.event).map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
-        const allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speakers).flat(Infinity))].sort((a, b) => a.localeCompare(b));
-        const allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))].sort((a, b) => a.localeCompare(b));
-
         const searchTextBox = $("#search-text");
         const previousButton = $("[data-action='prev']");
         const nextButton = $("[data-action='next']");
@@ -39,9 +34,16 @@ $(document).ready(() => {
 
         searcher.runSearch(searchText);
 
+        const allConferences = [...new Set(sketchnotes.filter(sketchnote => sketchnote.conference).map(sketchnote => sketchnote.conference))].sort((a, b) => a.localeCompare(b));
         allConferences.forEach(conference => $("#conference-list").append(`<li><a class="modal-link" link-type="conference" link-value="${conference}" href="#" rel="modal:close">${conference}</a></li>`));
+
+        const allEvents = [...new Set(sketchnotes.filter(sketchnote => sketchnote.event).map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
         allEvents.forEach(event => $("#event-list").append(`<li><a class="modal-link" link-type="event" link-value="${event}" href="#" rel="modal:close">${event}</a></li>`));
+
+        const allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speakers).flat(Infinity))].sort((a, b) => a.localeCompare(b));
         allSpeakers.forEach(speaker => $("#speaker-list").append(`<li><a class="modal-link"link-type="speaker" link-value="${speaker}" href="#" rel="modal:close">${speaker}</a></li>`));
+
+        const allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))].sort((a, b) => a.localeCompare(b));
         allTags.forEach(tag => $("#tag-list").append(`<li><a class="modal-link" link-type="tag" link-value="${tag}" href="#" rel="modal:close">${tag}</a></li>`));
 
         searcher.addSearchActionToLinks($(".modal-link"));
