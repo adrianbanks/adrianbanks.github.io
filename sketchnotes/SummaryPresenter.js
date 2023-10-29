@@ -4,6 +4,13 @@ export class SummaryPresenter {
     #summary;
 
     constructor(sketchnotes) {
+        sketchnotes.forEach(sketchnote => {
+            if (sketchnote.conference && !sketchnote.event) {
+                const date = new Date(sketchnote.date);
+                sketchnote.event = `${sketchnote.conference} ${date.getFullYear()}`;
+            }
+        });
+
         this.#summary = new GroupedSummary(sketchnotes);
     }
 
