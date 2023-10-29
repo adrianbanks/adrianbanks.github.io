@@ -1,6 +1,7 @@
 export class SearchTerms{
     title;
     speaker;
+    conference;
     event;
     tag;
     text;
@@ -8,6 +9,7 @@ export class SearchTerms{
     constructor(search) {
         this.title = this.getSearchTermForField("title", search);
         this.speaker = this.getSearchTermForField("speaker", search);
+        this.conference = this.getSearchTermForField("conference", search);
         this.event = this.getSearchTermForField("event", search);
         this.tag = this.getSearchTermForField("tag", search);
         this.text = this.getGeneralSearchTerm(search);
@@ -29,6 +31,8 @@ export class SearchTerms{
     hasTitle = () => this.title.length > 0;
 
     hasSpeaker = () => this.speaker.length > 0;
+    
+    hasConference = () => this.conference.length > 0;
     
     hasEvent = () => this.event.length > 0;
     

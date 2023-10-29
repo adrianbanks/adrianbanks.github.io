@@ -2,6 +2,7 @@ import { UiSearcher } from './UiSearcher.js'
 
 $(document).ready(() => {
     var rootPath = '';
+    var allConferences = [];
     var allEvents = [];
     var allSpeakers = [];
     var allTags = [];
@@ -19,6 +20,7 @@ $(document).ready(() => {
         var sketchnotes = json.sketchnotes;
 
         sketchnotes.map(sketchnote => sketchnote.tags.sort((a, b) => a.localeCompare(b)));
+        allConferences = [...new Set(sketchnotes.filter(sketchnote => sketchnote.conference).map(sketchnote => sketchnote.conference))].sort((a, b) => a.localeCompare(b));
         allEvents = [...new Set(sketchnotes.filter(sketchnote => sketchnote.event).map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
         allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speakers).flat(Infinity))].sort((a, b) => a.localeCompare(b));
         allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))].sort((a, b) => a.localeCompare(b));
@@ -42,6 +44,7 @@ $(document).ready(() => {
 
         searcher.runSearch(searchText);
 
+        allConferences.forEach(conference => $("#conference-list").append(`<li><a class="modal-link" link-type="conference" link-value="${conference}" href="#" rel="modal:close">${conference}</a></li>`));
         allEvents.forEach(event => $("#event-list").append(`<li><a class="modal-link" link-type="event" link-value="${event}" href="#" rel="modal:close">${event}</a></li>`));
         allSpeakers.forEach(speaker => $("#speaker-list").append(`<li><a class="modal-link"link-type="speaker" link-value="${speaker}" href="#" rel="modal:close">${speaker}</a></li>`));
         allTags.forEach(tag => $("#tag-list").append(`<li><a class="modal-link" link-type="tag" link-value="${tag}" href="#" rel="modal:close">${tag}</a></li>`));
