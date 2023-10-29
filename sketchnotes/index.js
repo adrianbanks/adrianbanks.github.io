@@ -1,3 +1,4 @@
+import { GroupedSummary } from './GroupedSummary.js';
 import { UiSearcher } from './UiSearcher.js'
 
 $(document).ready(() => {
@@ -32,17 +33,22 @@ $(document).ready(() => {
 
         searcher.runSearch(searchText);
 
-        const allConferences = [...new Set(sketchnotes.filter(sketchnote => sketchnote.conference).map(sketchnote => sketchnote.conference))].sort((a, b) => a.localeCompare(b));
-        allConferences.forEach(conference => $("#conference-list").append(`<li><a class="modal-link" link-type="conference" link-value="${conference}" href="#" rel="modal:close">${conference}</a></li>`));
+        function addListItem(list, type, item) {
+            let html = `<li><a class="modal-link" link-type="${type}" link-value="${item.name}" href="#" rel="modal:close">${item.name}</a>`;
 
-        const allEvents = [...new Set(sketchnotes.filter(sketchnote => sketchnote.event).map(sketchnote => sketchnote.event))].sort((a, b) => a.localeCompare(b));
-        allEvents.forEach(event => $("#event-list").append(`<li><a class="modal-link" link-type="event" link-value="${event}" href="#" rel="modal:close">${event}</a></li>`));
+            if (item.count > 1) {
+                html += ` (${item.count})`;
+            }
 
-        const allSpeakers = [...new Set(sketchnotes.map(sketchnote => sketchnote.speakers).flat(Infinity))].sort((a, b) => a.localeCompare(b));
-        allSpeakers.forEach(speaker => $("#speaker-list").append(`<li><a class="modal-link"link-type="speaker" link-value="${speaker}" href="#" rel="modal:close">${speaker}</a></li>`));
-
-        const allTags = [...new Set(sketchnotes.map(sketchnote => sketchnote.tags).flat(Infinity))].sort((a, b) => a.localeCompare(b));
-        allTags.forEach(tag => $("#tag-list").append(`<li><a class="modal-link" link-type="tag" link-value="${tag}" href="#" rel="modal:close">${tag}</a></li>`));
+            html += '</li>';
+            list.append(html);
+        }
+        
+        const summary = new GroupedSummary(sketchnotes);
+        summary.byConference().forEach(conference => addListItem($("#conference-list"), 'conference', conference));
+        summary.byEvent().forEach(event => addListItem($("#event-list"), 'event', event));
+        summary.bySpeaker().forEach(speaker => addListItem($("#speaker-list"), 'speaker', speaker));
+        summary.byTag().forEach(tag => addListItem($("#tag-list"), 'tag', tag));
 
         searcher.addSearchActionToLinks($(".modal-link"));
 
@@ -50,3 +56,4 @@ $(document).ready(() => {
         $(".example").click(example => searcher.runSearch(example.currentTarget.innerText));
     });
 });
+

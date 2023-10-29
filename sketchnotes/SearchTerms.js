@@ -1,4 +1,4 @@
-export class SearchTerms{
+export class SearchTerms {
     title;
     speaker;
     conference;
