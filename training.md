@@ -105,7 +105,7 @@ Of the conferences above, these are the ones that I have attended as a speaker:
 | 9th June 2022       | LevelUp 2022                     | [Redgate][22]         | How we used AppInsights data to drive product decisions |
 | 12th November 2021  | PASS Data Community Summit 2021  | [PASS][32]            | How Redgate builds ingeniously simple software          |
 | 17th November 2020  | LevelUp Remote Week              | [Redgate][22]         | Getting more out of Zoom                                |
-| 6th March 2018      | LevelUp 2018                     | [Redgate][22]         | How many teams can work on the same product             |
+| 6th March 2018      | LevelUp 2018                     | [Redgate][22]         | How several teams can work on the same product          |
 | 1st October 2014    | Agile Cambridge 2014             | [Software Acumen][10] | [Can agile work for off-the-shelf software?][31]        |
 {:.mdtable}
 
