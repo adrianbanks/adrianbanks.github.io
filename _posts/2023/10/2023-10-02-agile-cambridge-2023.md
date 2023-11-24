@@ -110,12 +110,12 @@ by Marcel Britsch
 [![Lean inceptions: how to set your teams up for success by Marcel Britsch][13]][13]
 
 
-### Unleashing the transformational power of play. with Lego. seriously
+### Unleashing the transformational power of play. With Lego. Seriously
 by Robb Lockwood
 <i class="fa fa-globe fa-lg"></i> [Website](https://www.atticushunter.co.uk)
 <i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/robblockwood)
 
-For my last session of the conference I chose to attend Robb's session. I mainly chose this because it involved Lego, something which I have a strong interest in since I was a child. Robb showed how using a small set of just 50 Lego pieces, insights can be discovered to aid with the coaching process. It was also fun to build some simple models as the workshop progressed, including once challenge of "build a tower with you in it". We also got to keep the Lego at the end of the session :)
+For my last session of the conference I chose to attend Robb's session. I mainly chose this because it involved Lego, something which I have had a strong interest in since I was a child. Robb showed how using a small set of just 50 Lego pieces, insights can be discovered to aid with the coaching process. It was also fun to build some simple models as the workshop progressed, including one challenge of "build a tower with you in it". We also got to keep the Lego at the end of the session :)
 
 [![A dog I built during the workshop][14]][14]
 
