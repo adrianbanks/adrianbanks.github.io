@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**           |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------------ |
+| 15th February 2024  | NorDevCon 2024                                     | [Norfolk Developers][35]                                 | Conference (2 days)      |
 | 27th September 2023 | Agile Cambridge 2023                               | [Software Acumen][10]                                    | Conference (3 days)      |
 | 27th June 2023      | StaffPlus London                                   | [LeadDev][29]                                            | Conference (2 days)      |
 | 10th May 2023       | Open Source Software: Licensing & Compliance       | [Orcro][33]                                              | Training (2 days)        |
@@ -144,3 +145,4 @@ Of the conferences above, these are the ones that I have attended as a speaker:
  [32]: https://passdatacommunitysummit.com
  [33]: https://orcro.co.uk
  [34]: https://blog.adrianbanks.co.uk/agile-cambridge
+ [35]: https://nordevcon.com
