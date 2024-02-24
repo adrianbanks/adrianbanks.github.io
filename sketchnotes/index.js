@@ -27,18 +27,17 @@ $(document).ready(() => {
         nextButton.click(() => searcher.moveToNextPage());
         previousButton.click(() => searcher.moveToPreviousPage());
     
-        const searchText = window.location.hash.length > 1 
-            ? decodeURIComponent(window.location.hash.substring(1))
-            : '';
-
-        searcher.runSearch(searchText);
-
         const summaryPresenter = new SummaryPresenter(sketchnotes);
         summaryPresenter.addConferences($('#conference-list'));
         summaryPresenter.addEvents($('#event-list'));
         summaryPresenter.addSpeakers($('#speaker-list'));
         summaryPresenter.addTags($('#tag-list'));
 
+        const searchText = window.location.hash.length > 1 
+            ? decodeURIComponent(window.location.hash.substring(1))
+            : '';
+
+        searcher.runSearch(searchText);
         searcher.addSearchActionToLinks($(".modal-link"));
 
         $("#search-help").click(() => $('#search-help-content').toggle('fast'));
