@@ -2,6 +2,96 @@
     "rootPath": "../assets/media/images/",
     "sketchnotes": [
       {
+        "postPath": "/nordevcon/sketchnotes/2024/02/24/nordevcon-2024.html#escaping-the-hype-train",
+        "imagePath": "/2024/02/escaping-the-hype-train-anna-aitchison.jpg",
+        "date": "2024-02-16",
+        "conference": "NorDevCon",
+        "title": "Escaping The Hype Train",
+        "speakers": ["Anna Aitchison"],
+        "tags": ["microservices"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2024/02/24/nordevcon-2024.html#cedar-next-generation-authz-for-your-apps",
+        "imagePath": "/2024/02/cedar-next-generation-authz-for-your-apps-ricardo-sueiras.jpg",
+        "date": "2024-02-16",
+        "conference": "NorDevCon",
+        "title": "Cedar: Next Generation Authz For Your Apps",
+        "speakers": ["Ricardo Sueiras"],
+        "tags": ["cedar", "authz", "authorization"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2024/02/24/nordevcon-2024.html#the-erosion-of-consumer-ownership-from-posession-to-subscriptions",
+        "imagePath": "/2024/02/the-erosion-of-consumer-ownership-from-posession-to-subscriptions-alexio-rodrigues.jpg",
+        "date": "2024-02-16",
+        "conference": "NorDevCon",
+        "title": "The Erosion Of Consumer Ownership: From Posession To Subscriptions",
+        "speakers": ["Alexio Rodrigues"],
+        "tags": ["subscriptions"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2024/02/24/nordevcon-2024.html#genai-for-automating-business-processes",
+        "imagePath": "/2024/02/genai-for-automating-business-processes-maryleen-amaizu.jpg",
+        "date": "2024-02-16",
+        "conference": "NorDevCon",
+        "title": "GenAI For Automating Business Processes",
+        "speakers": ["Maryleen Amaizu"],
+        "tags": ["generative-ai", "llm"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2024/02/24/nordevcon-2024.html#rethinking-content-modelling-for-unfogettable-user-experiences",
+        "imagePath": "/2024/02/rethinking-content-modelling-for-unforgettable-user-experiences-esther-agbaje.jpg",
+        "date": "2024-02-16",
+        "conference": "NorDevCon",
+        "title": "Rethinking Content Modelling For Unforgettable User Experiences",
+        "speakers": ["Esther Agbaje"],
+        "tags": ["content-modelling"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2024/02/24/nordevcon-2024.html#authentic-storytelling",
+        "imagePath": "/2024/02/authentic-storytelling-elle-overvoorde.jpg",
+        "date": "2024-02-16",
+        "conference": "NorDevCon",
+        "title": "Authentic Storytelling",
+        "speakers": ["Elle Overvoorde"],
+        "tags": ["storytelling"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2024/02/24/nordevcon-2024.html#predict-the-future-with-old-school-maths",
+        "imagePath": "/2024/02/predict-the-future-with-old-school-maths-dani-papamaximou.jpg",
+        "date": "2024-02-15",
+        "conference": "NorDevCon",
+        "title": "Predict The Future (With Old-School Maths)",
+        "speakers": ["Dani Papamaximou"],
+        "tags": ["neural-networks"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2024/02/24/nordevcon-2024.html#introduction-to-property-based-testing-in-mostly-c",
+        "imagePath": "/2024/02/introduction-to-property-based-testing-in-mostly-csharp-steve-love.jpg",
+        "date": "2024-02-15",
+        "conference": "NorDevCon",
+        "title": "Introduction To Property Based Testing In (Mostly) C#",
+        "speakers": ["Steve Love"],
+        "tags": ["property-testing", "fscheck"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2024/02/24/nordevcon-2024.html#how-to-protect-yourself-from-the-biggest-internet-threats",
+        "imagePath": "/2024/02/how-to-protect-yourself-from-the-biggest-internet-threats-ignat-korchagin.jpg",
+        "date": "2024-02-15",
+        "conference": "NorDevCon",
+        "title": "How To Protect Yourself From the Biggest Internet Threats",
+        "speakers": ["Ignat Korchagin"],
+        "tags": ["security", "bgp"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2024/02/24/nordevcon-2024.html#the-heat-death-of-enterprise-it",
+        "imagePath": "/2024/02/the-heat-death-of-enterprise-it-garth-gilmour-eamonn-boyle.jpg",
+        "date": "2024-02-15",
+        "conference": "NorDevCon",
+        "title": "The Heat Death Of Enterprise IT",
+        "speakers": ["Garth Gilmour", "Eamonn Boyle"],
+        "tags": ["developer-skills"]
+      },
+      {
         "postPath": "/agile-cambridge/sketchnotes/2023/10/02/agile-cambridge-2023.html#lean-inceptions-how-to-set-your-teams-up-for-success",
         "imagePath": "/2023/10/lean-inceptions-how-to-set-your-teams-up-for-success-marcel-britsch.jpg",
         "date": "2023-09-29",
