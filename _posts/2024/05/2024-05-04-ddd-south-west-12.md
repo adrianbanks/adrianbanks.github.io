@@ -6,6 +6,8 @@ tags: [failure, culture, communication, debugging, asynchronous-messaging]
 fullview: true
 ---
 
+I attended the latest [DDD South West](https://www.dddsouthwest.com) last weekend. It's become one of my favourite of the [DDD events](/ddd-grouped.html), partly because of the venue and the relaxed feeling of the conference, but also because of Bristol - one of my favourite cities in the UK.
+
 ### #FAIL
 by Kevlin Henney
 <i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/KevlinHenney)

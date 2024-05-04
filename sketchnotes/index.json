@@ -2,6 +2,60 @@
     "rootPath": "../assets/media/images/",
     "sketchnotes": [
       {
+        "postPath": "/ddd-events/sketchnotes/2024/05/04/ddd-south-west-12.html#fail",
+        "imagePath": "2024/05/fail-kevlin-henney.jpg",
+        "date": "2024-04-27",
+        "conference": "DDD South West",
+        "title": "#FAIL",
+        "speakers": ["Kevlin Henney"],
+        "tags": ["failure"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2024/05/04/ddd-south-west-12.html#confident-communication-for-developers",
+        "imagePath": "2024/05/confident-communication-for-developers-aaron-green.jpg",
+        "date": "2024-04-27",
+        "conference": "DDD South West",
+        "title": "Confident Communication For Developers",
+        "speakers": ["Aaron Green"],
+        "tags": ["communication", "body-language"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2024/05/04/ddd-south-west-12.html#an-above-average-tech-ecosystem",
+        "imagePath": "2024/05/an-above-average-tech-ecosystem-jennifer-d-daniel.jpg",
+        "date": "2024-04-27",
+        "conference": "DDD South West",
+        "title": "An Above Average Tech Ecosystem",
+        "speakers": ["Jennifer D Daniel"],
+        "tags": ["tech-ecosystem", "bristol", "diversity"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2024/05/04/ddd-south-west-12.html#celibrate-youre-misteaks",
+        "imagePath": "2024/05/celibrate-youre-misteaks-joe-glombek.jpg",
+        "date": "2024-04-27",
+        "conference": "DDD South West",
+        "title": "Celibrate You're Misteaks",
+        "speakers": ["Joe Glombek"],
+        "tags": ["mistakes", "culture"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2024/05/04/ddd-south-west-12.html#debugging-more-than-breakpoints-and-log-analysis",
+        "imagePath": "2024/05/debugging-more-than-breakpoints-and-log-analysis-rachel-breeze.jpg",
+        "date": "2024-04-27",
+        "conference": "DDD South West",
+        "title": "Debugging: More Than Breakpoints And Log Analysis",
+        "speakers": ["Rachel Breeze"],
+        "tags": ["debugging", "logging", "microsoft-clarity"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2024/05/04/ddd-south-west-12.html#rest-grpc-graphql-or-asynchronous-messaging",
+        "imagePath": "2024/05/rest-grpc-graphql-or-asynchronous-messaging-poornima-nayar.jpg",
+        "date": "2024-04-27",
+        "conference": "DDD South West",
+        "title": "REST, gRPC, GraphQL Or Asynchronous Messaging",
+        "speakers": ["Poornima Nayar"],
+        "tags": ["rest", "grpc", "graphql", "asynchronous-messaging"]
+      },
+      {
         "postPath": "/nordevcon/sketchnotes/2024/02/24/nordevcon-2024.html#escaping-the-hype-train",
         "imagePath": "2024/02/escaping-the-hype-train-anna-aitchison.jpg",
         "date": "2024-02-16",
