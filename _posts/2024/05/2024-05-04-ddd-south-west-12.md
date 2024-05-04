@@ -2,13 +2,14 @@
 layout: post
 title: DDD South West 12
 categories: [ddd-events, sketchnotes]
-tags: []
+tags: [failure, culture, communication, debugging, asynchronous-messaging]
 fullview: true
 ---
 
 ### #FAIL
 by Kevlin Henney
 <i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/KevlinHenney)
+<i class="fa fa-brands fa-bluesky fa-lg"></i> [BlueSky](https://bsky.app/profile/kevlin.bsky.social)
 <i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](http://mastodon.social/@kevlin)
 
 [![#FAIL by Kevlin Henney][1]][1]
@@ -40,11 +41,8 @@ by Joe Glombek
 by Rachel Breeze
 <i class="fa fa-globe fa-lg"></i> [Website](https://www.rachelbreeze.dev)
 <i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/BreezeRachel)
-BlueSky https://bsky.app/profile/rachelbeezedev.bsky.social
+<i class="fa fa-brands fa-bluesky fa-lg"></i> [BlueSky](https://bsky.app/profile/rachelbeezedev.bsky.social)
 <i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://geekdom.social/@rachelbreezedev)
-<i class="fa fa-brands fa-slideshare fa-lg"></i> [Slides]()
-<i class="fa fa-video-camera fa-lg"></i> [Video]()
-<i class="fa fa-file-code-o fa-lg"></i> [Code]()
 
 [![Debugging: More Than Breakpoints And Log Analysis by Rachel Breeze][5]][5]
 
@@ -57,9 +55,9 @@ by Poornima Nayar
 [![Rest, gRPC, GraphQL Or Asynchronous Messaging by Poornima Nayar][6]][6]
 
 
-  [1]: /assets/media/images/2024/04/fail-kevlin-henney.jpg#img-sketchnote
-  [2]: /assets/media/images/2024/04/confident-communication-for-developers-aaron-green.jpg#img-sketchnote
-  [3]: /assets/media/images/2024/04/an-above-average-tech-ecosystem-jennifer-d-daniel.jpg#img-sketchnote
-  [4]: /assets/media/images/2024/04/celibrate-youre-misteaks-joe-glombek.jpg#img-sketchnote
-  [5]: /assets/media/images/2024/04/debugging-more-than-breakpoints-and-log-analysis-rachel-breeze.jpg#img-sketchnote
-  [6]: /assets/media/images/2024/04/rest-grpc-graphql-or-asynchronous-messaging-poornima-nayar.jpg#img-sketchnote
+  [1]: /assets/media/images/2024/05/fail-kevlin-henney.jpg#img-sketchnote
+  [2]: /assets/media/images/2024/05/confident-communication-for-developers-aaron-green.jpg#img-sketchnote
+  [3]: /assets/media/images/2024/05/an-above-average-tech-ecosystem-jennifer-d-daniel.jpg#img-sketchnote
+  [4]: /assets/media/images/2024/05/celibrate-youre-misteaks-joe-glombek.jpg#img-sketchnote
+  [5]: /assets/media/images/2024/05/debugging-more-than-breakpoints-and-log-analysis-rachel-breeze.jpg#img-sketchnote
+  [6]: /assets/media/images/2024/05/rest-grpc-graphql-or-asynchronous-messaging-poornima-nayar.jpg#img-sketchnote
