@@ -363,6 +363,10 @@ img.img-circle:hover {
   color: #1da1f2;
 }
 
+.fa-bluesky:hover {
+  color: #0085ff;
+}
+
 .fa-facebook:hover {
   color: #4267b2;
 }
