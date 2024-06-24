@@ -115,6 +115,21 @@ Of the conferences above, these are the ones that I have attended as a speaker:
 | 1st October 2014    | Agile Cambridge 2014             | [Software Acumen][10] | [Can agile work for off-the-shelf software?][31]        |
 {:.mdtable}
 
+Of the conferences above, these are the ones that I have been involved in organising:
+
+| **Date**            | **Event Name**       |
+| ------------------- | -------------------- |
+| 19th June 2024      | LevelUp 2024         |
+| 21st June 2023      | LevelUp 2023         |
+| 21st September 2019 | DDD East Anglia 2019 |
+| 22nd September 2018 | DDD East Anglia 2018 |
+| 16th September 2017 | DDD East Anglia 2017 |
+| 26th September 2015 | DDD East Anglia 2015 |
+| 13th September 2014 | DDD East Anglia 2014 |
+| 29th June 2013      | DDD East Anglia 2013 |
+{:.mdtable}
+
+
 
  [1]: https://www.developerdeveloperdeveloper.com
  [2]: https://www.dddsouthwest.com
