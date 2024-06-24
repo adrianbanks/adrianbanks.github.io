@@ -8,6 +8,7 @@ These are the training courses and conferences that I have attended over the yea
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**           |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------------ |
 | 11th June 2024      | StaffPlus London 2024                              | [LeadDev][29]                                            | Conference (2 days)      |
+| 27th April 2024     | DDD South West 12                                  | [DDD South West][2]                                      | Conference               |
 | 15th February 2024  | NorDevCon 2024                                     | [Norfolk Developers][35]                                 | Conference (2 days)      |
 | 27th September 2023 | Agile Cambridge 2023                               | [Software Acumen][10]                                    | Conference (3 days)      |
 | 27th June 2023      | StaffPlus London 2023                              | [LeadDev][29]                                            | Conference (2 days)      |

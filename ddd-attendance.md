@@ -5,6 +5,7 @@ title: Developer! Developer! Developer! Event Attendance
 
 Over the years I have attended many DDD events:
 
+- DDD South West 12
 - DDD South West 11
 - DDD South West 10
 - DDD Reading 15 (virtual)
