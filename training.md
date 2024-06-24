@@ -7,11 +7,13 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**           |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------------ |
+| 19th June 2024      | LevelUp 2024                                       | [Redgate][22]                                            | Conference               |
 | 11th June 2024      | StaffPlus London 2024                              | [LeadDev][29]                                            | Conference (2 days)      |
 | 27th April 2024     | DDD South West 12                                  | [DDD South West][2]                                      | Conference               |
 | 15th February 2024  | NorDevCon 2024                                     | [Norfolk Developers][35]                                 | Conference (2 days)      |
 | 27th September 2023 | Agile Cambridge 2023                               | [Software Acumen][10]                                    | Conference (3 days)      |
 | 27th June 2023      | StaffPlus London 2023                              | [LeadDev][29]                                            | Conference (2 days)      |
+| 21st June 2023      | LevelUp 2023                                       | [Redgate][22]                                            | Conference               |
 | 10th May 2023       | Open Source Software: Licensing & Compliance       | [Orcro][33]                                              | Training (2 days)        |
 | 29th April 2023     | DDD South West 11                                  | [DDD South West][2]                                      | Conference               |
 | 25th June 2022      | DDD South West 10                                  | [DDD South West][2]                                      | Conference               |
@@ -19,6 +21,7 @@ These are the training courses and conferences that I have attended over the yea
 | 9th May 2022        | NDC London 2022                                    | [NDC][9]                                                 | Conference (3 days)      |
 | 30th September 2021 | Shortcut To Technical Leadership (virtual)         | [Patrick Kua][30]                                        | Training                 |
 | 14th September 2021 | LeadDev Live & StaffPlus Live (virtual)            | [LeadDev][29]                                            | Conference               |
+| 17th May 2021       | LevelUp Remote Week                                | [Redgate][22]                                            | Conference (over 5 days) |
 | 12th December 2020  | DDD Reading 15 (virtual)                           | [DDD Reading][1]                                         | Conference               |
 | 1st December 2020   | Technical Leadership (virtual)                     | [Bredemeyer Consulting][28]                              | Training (2 days)        |
 | 16th November 2020  | LevelUp Remote Week                                | [Redgate][22]                                            | Conference (over 5 days) |
