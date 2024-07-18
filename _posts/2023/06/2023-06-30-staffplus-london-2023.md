@@ -178,13 +178,13 @@ by Liem Pham
 [![Building A Diverse And Inclusive Guild From The Ground Up by Liem Pham][22]][22]
 
 
-### Seting Goals As A Staff+ Engineer
+### Setting Goals As A Staff+ Engineer
 by Sabrina Leandro
 <i class="fa fa-globe fa-lg"></i> [Website](https://saleandro.com)
 <i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/saleandro)
 <i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://mastodon.online/@saleandro)
 
-[![Seting Goals As A Staff+ Engineer by Sabrina Leandro][23]][23]
+[![Setting Goals As A Staff+ Engineer by Sabrina Leandro][23]][23]
 
 
   [1]: /assets/media/images/2023/06/filling-the-jar-of-impact-and-trust-as-a-principal-engineer-nayana-shetty.jpg#img-sketchnote
