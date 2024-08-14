@@ -5,16 +5,16 @@
         "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#surviving-complexity-through-software-design",
         "imagePath": "2025/04/surviving-complexity-through-software-design-jacqui-read.jpg",
         "date": "2025-04-26",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Surviving Complexity Through Software Design",
         "speakers": ["Jacqui Read"],
         "tags": ["software-design", "complexity", "aced-model"]
-      },
+      },  
       {
         "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#modern-software-architecture-review-best-practices",
         "imagePath": "2025/04/modern-software-architecture-review-best-practices-steven-read.jpg",
         "date": "2025-04-26",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Modern Software Architecture Review Best Practices",
         "speakers": ["Steven Read"],
         "tags": ["architecture", "architecture-review", "aced-model"]
@@ -23,7 +23,7 @@
         "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#why-am-i-being-such-a-git-about-best-practices",
         "imagePath": "2025/04/why-am-i-beaing-such-a-git-about-best-practices-joe-glombek.jpg",
         "date": "2025-04-26",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Why Am I Being Such A Git About Best Practices?",
         "speakers": ["Joe Glombek"],
         "tags": ["git"]
@@ -32,7 +32,7 @@
         "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#a-developers-guide-to-getting-the-most-out-of-containers",
         "imagePath": "2025/04/a-developers-guide-to-getting-the-most-out-of-containers-john-kilmister.jpg",
         "date": "2025-04-26",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "A Developers Guide To Getting The Most Out Of Containers",
         "speakers": ["John Kilmister"],
         "tags": ["docker", "containers", "dev-containers"]
@@ -41,7 +41,7 @@
         "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#mutation-testing",
         "imagePath": "2025/04/mutation-testing-stuart-lang.jpg",
         "date": "2025-04-26",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Mutation Testing",
         "speakers": ["Stuart Lang"],
         "tags": ["mutation-testing", "stryker"]
@@ -50,10 +50,118 @@
         "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#lets-ship-this-thing",
         "imagePath": "2025/04/lets-ship-this-thing-gary-ewan-park.jpg",
         "date": "2025-04-26",
-        "event": "DDD South West",
+        "conference": "DDD South West",
         "title": "Let's Ship This Thing!",
         "speakers": ["Gary Ewan Park"],
         "tags": ["shipping", "versioning", "release-management"]
+      },
+      {
+        "postPath": "/staff-plus/sketchnotes/2024/07/07/staffplus-london-2024.html",
+        "imagePath": "2024/07/influencing-through-getting-your-carrots-in-a-row-joy-ebertz.jpg",
+        "date": "2024-06-11",
+        "conference": "StaffPlus London",
+        "title": "Influencing Through Getting Your Carrots In A Row",
+        "speakers": ["Joy Ebertz"],
+        "tags": ["staff-engineering", "staff-plus", "influence"]
+      },
+      {
+        "postPath": "/staff-plus/sketchnotes/2024/07/07/staffplus-london-2024.html",
+        "imagePath": "2024/07/architecting-for-scale-and-simplicity-segun-viktor-orekoya.jpg",
+        "date": "2024-06-11",
+        "conference": "StaffPlus London",
+        "title": "Architecting For Scale And Simplicity",
+        "speakers": ["Segun Viktor Orekoya"],
+        "tags": ["staff-engineering", "staff-plus", "architecture"]
+      },
+      {
+        "postPath": "/staff-plus/sketchnotes/2024/07/07/staffplus-london-2024.html",
+        "imagePath": "2024/07/demings-wisdom-for-staffplus-engineers-a-modern-take-on-timeless-principles-annie-vella.jpg",
+        "date": "2024-06-11",
+        "conference": "StaffPlus London",
+        "title": "Deming's Wisdom For Staff+ Engineers: A Modern Take On Timeless Principles",
+        "speakers": ["Annie Vella"],
+        "tags": ["staff-engineering", "staff-plus"]
+      },
+      {
+        "postPath": "/staff-plus/sketchnotes/2024/07/07/staffplus-london-2024.html",
+        "imagePath": "2024/07/filling-the-void-operating-as-a-staff-engineer-in-a-leaderless-scope-sami-farhat-guillaume-mazollier.jpg",
+        "date": "2024-06-11",
+        "conference": "StaffPlus London",
+        "title": "Filling The Void: Operating As A Staff Engineer In A Leaderless Scope",
+        "speakers": ["Sami Farhat", "Guillaume Mazollier"],
+        "tags": ["staff-engineering", "staff-plus", "leadership"]
+      },
+      {
+        "postPath": "/staff-plus/sketchnotes/2024/07/07/staffplus-london-2024.html",
+        "imagePath": "2024/07/doing-the-most-important-thing-is-a-trap-james-ford.jpg",
+        "date": "2024-06-11",
+        "conference": "StaffPlus London",
+        "title": "Doing 'The Most Important Thing' Is A Trap",
+        "speakers": ["James Ford"],
+        "tags": ["staff-engineering", "staff-plus"]
+      },
+      {
+        "postPath": "/staff-plus/sketchnotes/2024/07/07/staffplus-london-2024.html",
+        "imagePath": "2024/07/letting-the-best-ideas-win-tristan-heal.jpg",
+        "date": "2024-06-11",
+        "conference": "StaffPlus London",
+        "title": "Letting The Best Ideas Win",
+        "speakers": ["Tristan Heal"],
+        "tags": ["staff-engineering", "staff-plus"]
+      },
+      {
+        "postPath": "/staff-plus/sketchnotes/2024/07/07/staffplus-london-2024.html",
+        "imagePath": "2024/07/sunsetting-legacy-navigating-the-shop-merchant-eligibility-data-pipeline-migration-dianing-yudono.jpg",
+        "date": "2024-06-11",
+        "conference": "StaffPlus London",
+        "title": "Sunsetting Legacy: Navigating The Shop Merchant Eligibilty Data Pipeline Migration",
+        "speakers": ["Dianing Yudono"],
+        "tags": ["staff-engineering", "staff-plus", "legacy-systems"]
+      },
+      {
+        "postPath": "/staff-plus/sketchnotes/2024/07/07/staffplus-london-2024.html",
+        "imagePath": "2024/07/navigating-complex-projects-finding-the-right-mode-of-operation-mahmut-canga.jpg",
+        "date": "2024-06-11",
+        "conference": "StaffPlus London",
+        "title": "Navigating Complex Projects: Finding The Right Mode Of Operation",
+        "speakers": ["Mahmut Canga"],
+        "tags": ["staff-engineering", "staff-plus", "influence"]
+      },
+      {
+        "postPath": "/staff-plus/sketchnotes/2024/07/07/staffplus-london-2024.html",
+        "imagePath": "2024/07/understanding-complex-systems-without-simplifying-them-rita-sodt.jpg",
+        "date": "2024-06-11",
+        "conference": "StaffPlus London",
+        "title": "Understanding Complex Systems Without Simplifying Them",
+        "speakers": ["Rita Sodt"],
+        "tags": ["staff-engineering", "staff-plus", "complex-systems"]
+      },
+      {
+        "postPath": "/staff-plus/sketchnotes/2024/07/07/staffplus-london-2024.html",
+        "imagePath": "2024/07/have-ai-got-news-for-you-katie-koschland.jpg",
+        "date": "2024-06-11",
+        "conference": "StaffPlus London",
+        "title": "Have AI Got News For You",
+        "speakers": ["Katie Koschland"],
+        "tags": ["staff-engineering", "staff-plus", "ai", "llm"]
+      },
+      {
+        "postPath": "/staff-plus/sketchnotes/2024/07/07/staffplus-london-2024.html",
+        "imagePath": "2024/07/is-staff-engineering-valuable-at-a-small-company-glen-mailer.jpg",
+        "date": "2024-06-11",
+        "conference": "StaffPlus London",
+        "title": "Is Staff Engineering Valuable At A Small Company?",
+        "speakers": ["Glen Mailer"],
+        "tags": ["staff-engineering", "staff-plus"]
+      },
+      {
+        "postPath": "/staff-plus/sketchnotes/2024/07/07/staffplus-london-2024.html",
+        "imagePath": "2024/07/fitness-functions-creating-consistency-across-100s-of-services-bijan-chokoufe-nejad.jpg",
+        "date": "2024-06-11",
+        "conference": "StaffPlus London",
+        "title": "Fitness Functions: Creating Consistency Across 100s Of Services",
+        "speakers": ["Bijan Chokoufe Nejad"],
+        "tags": ["staff-engineering", "staff-plus", "fitness-functions"]
       },
       {
         "postPath": "/ddd-events/sketchnotes/2024/05/04/ddd-south-west-12.html#fail",
