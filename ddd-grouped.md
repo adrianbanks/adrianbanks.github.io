@@ -183,6 +183,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Adelaide 1 | 16th July 2011     |
 | DDD Adelaide 2 | 23rd November 2019 |
 | DDD Adelaide 3 | 18th November 2023 |
+| DDD Adelaide 4 | 23rd November 2024 |
 {:.mdtable}
 
 ### DDD Brisbane [<i class="fa fa-globe"></i>](http://www.dddbrisbane.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddbrisbane)
@@ -200,6 +201,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Brisbane 9  | 7th December 2019  |
 | DDD Brisbane 10 | 3rd December 2022  |
 | DDD Brisbane 11 | 2nd December 2023  |
+| DDD Brisbane 12 | 7th December 2024  |
 {:.mdtable}
 
 ### DDD Melbourne [<i class="fa fa-globe"></i>](http://www.dddmelbourne.com) [<i class="fa fa-twitter"></i>](https://twitter.com/dddmelb)
