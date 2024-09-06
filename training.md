@@ -12,6 +12,7 @@ These are the training courses and conferences that I have attended over the yea
 | 27th April 2024     | DDD South West 12                                  | [DDD South West][2]                                      | Conference               |
 | 15th February 2024  | NorDevCon 2024                                     | [Norfolk Developers][35]                                 | Conference (2 days)      |
 | 27th September 2023 | Agile Cambridge 2023                               | [Software Acumen][10]                                    | Conference (3 days)      |
+| 20th September 2023 | Capture The Flag Security                          | [WithSecure][36] - Donato Capitella                      | Workshop                 |
 | 27th June 2023      | StaffPlus London 2023                              | [LeadDev][29]                                            | Conference (2 days)      |
 | 21st June 2023      | LevelUp 2023                                       | [Redgate][22]                                            | Conference               |
 | 10th May 2023       | Open Source Software: Licensing & Compliance       | [Orcro][33]                                              | Training (2 days)        |
@@ -166,3 +167,4 @@ Of the conferences above, these are the ones that I have been involved in organi
  [33]: https://orcro.co.uk
  [34]: https://blog.adrianbanks.co.uk/agile-cambridge
  [35]: https://nordevcon.com
+ [36]: https://www.withsecure.com
