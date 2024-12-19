@@ -25,6 +25,8 @@
 		<div>
 			<section class="col-sm-6">
 				{% unless page.categories == empty %}
+					<h6 class="section-title">Categories</h6>
+
 					<div class="categories-and-tags">
 					{% assign categories_list = page.categories %}
 					{% if categories_list.first[0] == null %}
@@ -44,8 +46,12 @@
 					{% endif %}
 					</div>
 				{% endunless %}  
+				</section>
 
+				<section class="col-sm-6">
 				{% unless page.tags == empty %}
+					<h6 class="section-title">Tags</h6>
+
 					<div class="categories-and-tags">
 					{% assign tags_list = page.tags %}
 					{% if tags_list.first[0] == null %}
@@ -67,26 +73,9 @@
 					</div>
 				{% endunless %}  
 			</section>
-
-      <section class="share col-sm-6">
-        <h6 class="section-title">Share Post</h6>
-
-        <a class="btn btn-default btn-sm twitter" href="http://twitter.com/share?text={{page.title | encode}}{% if site.author.twitter%}&via={{site.author.twitter}}{% endif %}"
-           onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-          <i class="fa fa-x-twitter fa-lg"></i>
-          Twitter
-        </a>
-
-        <a class="btn btn-default btn-sm facebook" href="https://www.facebook.com/sharer/sharer.php"
-           onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-          <i class="fa fa-facebook fa-lg"></i>
-          Facebook
-        </a>
-      </section>
     </div>
 
     <div class="clearfix"></div>
-
 		<ul class="pager">
 		  {% if page.previous %}
 			  <li class="previous"><a href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
