@@ -369,10 +369,6 @@ a:not(.btn):has(.fa):hover {
   color: #24292e;
 }
 
-.fa-twitter:hover {
-  color: #1da1f2;
-}
-
 .fa-bluesky:hover {
   color: #0085ff;
 }
