@@ -13,7 +13,7 @@ Here are the sketchnotes I did during the day.
 
 ### Nailing Down Distributed Workflows With Microservices
 by Ben Arroyo
-<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/benjaminarroyo)
+<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/benjaminarroyo)
 <i class="fa fa-file-code-o fa-lg"></i> [Code](https://github.com/benarroyo/ChickenPower)
 
 [![Nailing Down Distributed Workflows With Microservices by Ben Arroyo][1]][1]
@@ -22,7 +22,7 @@ by Ben Arroyo
 ### Writing High Performance C# And .Net Code
 by Steve Gordon
 <i class="fa fa-globe fa-lg"></i> [Website](https://www.stevejgordon.co.uk)
-<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/stevejgordon)
+<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/stevejgordon)
 <i class="fa fa-slideshare fa-lg"></i> [Slides](https://speakerdeck.com/stevejgordon/turbocharged-writing-high-performance-c-number-and-net-code-60-mins)
 
 [![Writing High Performance C# And .Net Code by Steve Gordon][2]][2]
@@ -30,14 +30,14 @@ by Steve Gordon
 
 ### GraphQL And Dapper
 by John Stovin
-<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/johnstovin)
+<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/johnstovin)
 
 [![GraphQL And Dapper by John Stovin][3]][3]
 
 
 ### Better The DevTool You Know
 by Viv Richards
-<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/11vlr)
+<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/11vlr)
 <i class="fa fa-file-code-o fa-lg"></i> [Code](https://github.com/vivrichards600/sweet-shop)
 
 [![Better The DevTool You Know by Viv Richards][4]][4]
@@ -45,7 +45,7 @@ by Viv Richards
 ### Kubernetes, Raspberry Pis, And More
 by Dan Clarke
 <i class="fa fa-globe fa-lg"></i> [Website](https://www.danclarke.com)
-<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/dracan)
+<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/dracan)
 
 [![Kubernetes, Raspberry Pis, And More by Dan Clarke][5]][5]
 

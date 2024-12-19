@@ -146,7 +146,7 @@ Of the conferences above, these are the ones that I have been involved in organi
  [12]: https://dginternational.co.uk
  [13]: http://www.management-learning.co.uk
  [14]: http://coastconsulting.com
- [15]: https://twitter.com/nativewired
+ [15]: https://x.com/nativewired
  [16]: http://www.foundercentric.com
  [17]: https://dannorth.net
  [18]: https://treehouseinnovation.com

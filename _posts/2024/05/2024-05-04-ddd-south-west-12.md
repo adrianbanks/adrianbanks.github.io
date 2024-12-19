@@ -10,7 +10,7 @@ I attended the latest [DDD South West](https://www.dddsouthwest.com) last weeken
 
 ### #FAIL
 by Kevlin Henney
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/KevlinHenney)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/KevlinHenney)
 <i class="fa fa-brands fa-bluesky fa-lg"></i> [BlueSky](https://bsky.app/profile/kevlin.bsky.social)
 <i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](http://mastodon.social/@kevlin)
 
@@ -25,7 +25,7 @@ by Aaron Green
 
 ### An Above Average Tech Ecosystem
 by Jennifer D Daniel
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/DumleDaniel)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/DumleDaniel)
 
 [![An Above Average Tech Ecosystem by Jennifer D Daniel][3]][3]
 
@@ -42,7 +42,7 @@ by Joe Glombek
 ### Debugging: More Than Breakpoints And Log Analysis
 by Rachel Breeze
 <i class="fa fa-globe fa-lg"></i> [Website](https://www.rachelbreeze.dev)
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/BreezeRachel)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/BreezeRachel)
 <i class="fa fa-brands fa-bluesky fa-lg"></i> [BlueSky](https://bsky.app/profile/rachelbeezedev.bsky.social)
 <i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://geekdom.social/@rachelbreezedev)
 
@@ -52,7 +52,7 @@ by Rachel Breeze
 ### Rest, gRPC, GraphQL Or Asynchronous Messaging
 by Poornima Nayar
 <i class="fa fa-globe fa-lg"></i> [Website](https://poornimanayar.co.uk)
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/PoornimaNayar)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/PoornimaNayar)
 
 [![Rest, gRPC, GraphQL Or Asynchronous Messaging by Poornima Nayar][6]][6]
 

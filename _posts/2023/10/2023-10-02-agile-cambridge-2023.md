@@ -12,7 +12,7 @@ Last week, I spent a few days at [Agile Cambridge](https://agilecambridge.net). 
 ### Five reflections for modern leaders
 by Marcin Floryan
 <i class="fa fa-globe fa-lg"></i> [Website](https://marcin.floryan.pl)
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/mfloryan)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/mfloryan)
 <i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://mstdn.social/@mfloryan)
 
 [![Five reflections for modern leaders by Marcin Floryan][1]][1]
@@ -21,7 +21,7 @@ by Marcin Floryan
 ### A culture of observing: how to get better understanding across the org through observability
 by Apostolis Apostolidis
 <i class="fa fa-globe fa-lg"></i> [Website](https://www.toli.io)
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/apostolis09)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/apostolis09)
 <i class="fa fa-brands fa-slideshare fa-lg"></i> [Slides](https://github.com/Apostolos-Daniel/slides/blob/main/2023-agile-cambridge/a-culture-of-observing.pdf)
 
 [![A culture of observing: how to get better understanding across the org through observability by Apostolis Apostolidis][2]][2]
@@ -29,7 +29,7 @@ by Apostolis Apostolidis
 
 ### Improving engineering performance, the DORA way
 by Carlo Beschi
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/carloz)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/carloz)
 
 [![Improving engineering performance, the DORA way by Carlo Beschi][3]][3]
 
@@ -37,14 +37,14 @@ by Carlo Beschi
 ### To mob, pair, or fly solo?
 by Chris Oldwood
 <i class="fa fa-globe fa-lg"></i> [Website](https://chrisoldwood.blogspot.com)
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/chrisoldwood)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/chrisoldwood)
 
 [![To mob, pair, or fly solo? by Chris Oldwood][4]][4]
 
 
 ### A game of patterns
 by Tiani Jones
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/tiani_original)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/tiani_original)
 
 [![A game of patterns by Tiani Jones][5]][5]
 
@@ -52,7 +52,7 @@ by Tiani Jones
 ### Empower your master builders with strategic context
 by Cei Sanderson
 <i class="fa fa-globe fa-lg"></i> [Website]()
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/ceiussandicus)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/ceiussandicus)
 <i class="fa fa-brands fa-youtube fa-lg"></i> [Video](https://www.youtube.com/watch?v=U5F4Ogx7Fu8)
 
 [![Empower your master builders with strategic context by Cei Sanderson][6]][6]
@@ -61,7 +61,7 @@ by Cei Sanderson
 ### How to deal with uncertainties & risk in complex environments
 by Maik Wojcieszak
 <i class="fa fa-globe fa-lg"></i> [Website](https://www.getnext-it.com/en/next-levelbusiness-agility/)
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/tmlsoftware)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/tmlsoftware)
 
 [![How to deal with uncertainties & risk in complex environments by Maik Wojcieszak][7]][7]
 
@@ -82,7 +82,7 @@ It was an interesting idea for a session, and one which I enjoyed taking part in
 
 ### How to be agile with critical national priorities
 by Anna Sherrington and Nick Smith
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/twitrnick)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/twitrnick)
 <i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://mastodon.me.uk/@mastonick)
 
 [![How to be agile with critical national priorities by Anna Sherrington and Nick Smith][10]][10]
@@ -90,7 +90,7 @@ by Anna Sherrington and Nick Smith
 
 ### Responsible research and innovation
 by Cat Swetel
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/CatSwetel)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/CatSwetel)
 <i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://mastodon.social/@CatSwetel)
 
 [![Responsible research and innovation by Cat Swetel][11]][11]
@@ -98,7 +98,7 @@ by Cat Swetel
 
 ### Fixing Feedback
 by Ceri Newton-Sargunar
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/HotCupOfTeaPls)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/HotCupOfTeaPls)
 
 [![Fixing Feedback by Ceri Newton-Sargunar][12]][12]
 
@@ -113,7 +113,7 @@ by Marcel Britsch
 ### Unleashing the transformational power of play. With Lego. Seriously
 by Robb Lockwood
 <i class="fa fa-globe fa-lg"></i> [Website](https://www.atticushunter.co.uk)
-<i class="fa fa-brands fa-twitter fa-lg"></i> [Twitter](https://twitter.com/robblockwood)
+<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/robblockwood)
 
 For my last session of the conference I chose to attend Robb's session. I mainly chose this because it involved Lego, something which I have had a strong interest in since I was a child. Robb showed how using a small set of just 50 Lego pieces, insights can be discovered to aid with the coaching process. It was also fun to build some simple models as the workshop progressed, including one challenge of "build a tower with you in it". We also got to keep the Lego at the end of the session :)
 

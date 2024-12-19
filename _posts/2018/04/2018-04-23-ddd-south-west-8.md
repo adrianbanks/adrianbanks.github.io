@@ -13,21 +13,21 @@ Here are the sketchnotes I took of the talks I attended.
 ### Outside-In TDD
 by Ian Russell
 <i class="fa fa-globe fa-lg"></i> [Website](http://ijrussell.tumblr.com)
-<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/ijrussell)
+<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/ijrussell)
 
 [![Outside-In TDD by Ian Russell][1]][1]
 
 ### Give It A REST - Tips For Designing And Consuming Public APIs
 by Liam Westley
 <i class="fa fa-globe fa-lg"></i> [Website](https://blog.liamwestley.co.uk)
-<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/westleyl)
+<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/westleyl)
 
 [![Give It A REST - Tips For Designing And Consuming Public APIs by Liam Westley][2]][2]
 
 ### Kubernetes For .Net Developers
 by Shahid Iqbal
 <i class="fa fa-globe fa-lg"></i> [Website](https://blog.headforcloud.com)
-<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/shahiddev)
+<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/shahiddev)
 <i class="fa fa-slideshare fa-lg"></i> [Slides](https://speakerdeck.com/shahiddev/kubernetes-for-net-developers)
 
 [![Kubernetes For .Net Developers by Shahid Iqbal][3]][3]
@@ -35,14 +35,14 @@ by Shahid Iqbal
 ### Teaching An Old Dog New Tricks
 by Ismail Mayat
 <i class="fa fa-globe fa-lg"></i> [Website](https://ismailmayat.wordpress.com)
-<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/ismailmayat)
+<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/ismailmayat)
 
 [![Teaching An Old Dog New Tricks by Ismail Mayat][4]][4]
 
 ### Patterns And Practices For Building A Better Web API Architecture
 by Joseph Woodward
 <i class="fa fa-globe fa-lg"></i> [Website](http://josephwoodward.co.uk)
-<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/joe_mighty)
+<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/joe_mighty)
 
 [![Patterns And Practices For Building A Better Web API Architecture by Joseph Woodward][5]][5]
 

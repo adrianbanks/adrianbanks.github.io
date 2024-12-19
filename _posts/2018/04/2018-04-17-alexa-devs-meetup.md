@@ -6,9 +6,9 @@ tags: [alexa]
 fullview: true
 ---
 
-I recently attended the inaugural meetup of the [Cambridge Alexa Developers Group](https://www.meetup.com/Cambridge-Alexa-Developers-Meetup/) held at Amazon's Cambridge office. The group was set up by [Bob Harris](https://twitter.com/bobharrisuk) and [Rich Merrett](https://twitter.com/richmerrett815), who both gave talks on building Alexa skills and SSML.
+I recently attended the inaugural meetup of the [Cambridge Alexa Developers Group](https://www.meetup.com/Cambridge-Alexa-Developers-Meetup/) held at Amazon's Cambridge office. The group was set up by [Bob Harris](https://x.com/bobharrisuk) and [Rich Merrett](https://x.com/richmerrett815), who both gave talks on building Alexa skills and SSML.
 
-[David Low](https://twitter.com/daviddlow), Amazon's Head of Solutions Architects, also gave a talk about how to best create a skill by working out its user value:
+[David Low](https://x.com/daviddlow), Amazon's Head of Solutions Architects, also gave a talk about how to best create a skill by working out its user value:
 
 [![Working Backwards by David Low][1]][1]
 
