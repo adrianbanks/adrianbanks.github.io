@@ -13,39 +13,39 @@ Here are the sketchnotes I did during the day.
 
 ### Nailing Down Distributed Workflows With Microservices
 by Ben Arroyo
-<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/benjaminarroyo)
-<i class="fa fa-file-code-o fa-lg"></i> [Code](https://github.com/benarroyo/ChickenPower)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/benjaminarroyo)
+[<i class="fa fa-file-code-o fa-lg" title="Code"></i>](https://github.com/benarroyo/ChickenPower)
 
 [![Nailing Down Distributed Workflows With Microservices by Ben Arroyo][1]][1]
 
 
 ### Writing High Performance C# And .Net Code
 by Steve Gordon
-<i class="fa fa-globe fa-lg"></i> [Website](https://www.stevejgordon.co.uk)
-<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/stevejgordon)
-<i class="fa fa-slideshare fa-lg"></i> [Slides](https://speakerdeck.com/stevejgordon/turbocharged-writing-high-performance-c-number-and-net-code-60-mins)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://www.stevejgordon.co.uk)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/stevejgordon)
+[<i class="fa fa-brands fa-slideshare fa-lg" title="Slides"></i>](https://speakerdeck.com/stevejgordon/turbocharged-writing-high-performance-c-number-and-net-code-60-mins)
 
 [![Writing High Performance C# And .Net Code by Steve Gordon][2]][2]
 
 
 ### GraphQL And Dapper
 by John Stovin
-<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/johnstovin)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/johnstovin)
 
 [![GraphQL And Dapper by John Stovin][3]][3]
 
 
 ### Better The DevTool You Know
 by Viv Richards
-<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/11vlr)
-<i class="fa fa-file-code-o fa-lg"></i> [Code](https://github.com/vivrichards600/sweet-shop)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/11vlr)
+[<i class="fa fa-file-code-o fa-lg" title="Code"></i>](https://github.com/vivrichards600/sweet-shop)
 
 [![Better The DevTool You Know by Viv Richards][4]][4]
 
 ### Kubernetes, Raspberry Pis, And More
 by Dan Clarke
-<i class="fa fa-globe fa-lg"></i> [Website](https://www.danclarke.com)
-<i class="fa fa-x-twitter fa-lg"></i> [X](https://x.com/dracan)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://www.danclarke.com)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/dracan)
 
 [![Kubernetes, Raspberry Pis, And More by Dan Clarke][5]][5]
 

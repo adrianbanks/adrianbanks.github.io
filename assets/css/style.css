@@ -351,6 +351,16 @@ img.img-circle:hover {
   float: right;
 }
 
+a:not(.btn):has(.fa) {
+  color: #2c3e50;
+  margin-right: 0.25em;
+  border-bottom: 0;
+}
+
+a:not(.btn):has(.fa):hover {
+  background-color: transparent;
+}
+
 .fa:hover {
   color: #e74c3c;
 }

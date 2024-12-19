@@ -10,9 +10,9 @@ I attended the latest [DDD South West](https://www.dddsouthwest.com) last weeken
 
 ### #FAIL
 by Kevlin Henney
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/KevlinHenney)
-<i class="fa fa-brands fa-bluesky fa-lg"></i> [BlueSky](https://bsky.app/profile/kevlin.bsky.social)
-<i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](http://mastodon.social/@kevlin)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/KevlinHenney)
+[<i class="fa fa-brands fa-bluesky fa-lg" title="BlueSky"></i>](https://bsky.app/profile/kevlin.bsky.social)
+[<i class="fa fa-brands fa-mastodon fa-lg" title="Mastodon"></i>](http://mastodon.social/@kevlin)
 
 [![#FAIL by Kevlin Henney][1]][1]
 
@@ -25,34 +25,34 @@ by Aaron Green
 
 ### An Above Average Tech Ecosystem
 by Jennifer D Daniel
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/DumleDaniel)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/DumleDaniel)
 
 [![An Above Average Tech Ecosystem by Jennifer D Daniel][3]][3]
 
 
 ### Celibrate You're Misteaks
 by Joe Glombek
-<i class="fa fa-globe fa-lg"></i> [Website](https://joe.gl)
-<i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://umbracocommunity.social/@joe)
-<i class="fa fa-brands fa-youtube fa-lg"></i> [Video](https://www.youtube.com/watch?v=RE8EUaj1SbE)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://joe.gl)
+[<i class="fa fa-brands fa-mastodon fa-lg" title="Mastodon"></i>](https://umbracocommunity.social/@joe)
+[<i class="fa fa-brands fa-youtube fa-lg" title="YouTube"></i>](https://www.youtube.com/watch?v=RE8EUaj1SbE)
 
 [![Celibrate You're Misteaks by Joe Glombek][4]][4]
 
 
 ### Debugging: More Than Breakpoints And Log Analysis
 by Rachel Breeze
-<i class="fa fa-globe fa-lg"></i> [Website](https://www.rachelbreeze.dev)
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/BreezeRachel)
-<i class="fa fa-brands fa-bluesky fa-lg"></i> [BlueSky](https://bsky.app/profile/rachelbeezedev.bsky.social)
-<i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://geekdom.social/@rachelbreezedev)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://www.rachelbreeze.dev)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/BreezeRachel)
+[<i class="fa fa-brands fa-bluesky fa-lg" title="BlueSky"></i>](https://bsky.app/profile/rachelbeezedev.bsky.social)
+[<i class="fa fa-brands fa-mastodon fa-lg" title="Mastodon"></i>](https://geekdom.social/@rachelbreezedev)
 
 [![Debugging: More Than Breakpoints And Log Analysis by Rachel Breeze][5]][5]
 
 
 ### Rest, gRPC, GraphQL Or Asynchronous Messaging
 by Poornima Nayar
-<i class="fa fa-globe fa-lg"></i> [Website](https://poornimanayar.co.uk)
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/PoornimaNayar)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://poornimanayar.co.uk)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/PoornimaNayar)
 
 [![Rest, gRPC, GraphQL Or Asynchronous Messaging by Poornima Nayar][6]][6]
 

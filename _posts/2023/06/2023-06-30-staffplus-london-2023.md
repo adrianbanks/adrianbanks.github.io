@@ -13,105 +13,105 @@ Unlinke other conferences I've been to, there was only one track which made choo
 
 ### Filling The Jar Of Impact And Trust As A Principal Engineer
 by Nayana Shetty
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/shettyny)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/shettyny)
 
 [![Filling The Jar Of Impact And Trust As A Principal Engineer by Nayana Shetty][1]][1]
 
 
 ### The Journey Of A Byline
 by Alice Bartlett
-<i class="fa fa-globe fa-lg"></i> [Website](https://alicebartlett.co.uk)
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/alicebartlett)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://alicebartlett.co.uk)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/alicebartlett)
 
 [![The Journey Of A Byline by Alice Bartlett][2]][2]
 
 
 ### Running Large Scale Migrations Continuously
 by Suhail Patel
-<i class="fa fa-globe fa-lg"></i> [Website](https://suhailpatel.com)
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/suhailpatel)
-<i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://hachyderm.io/@suhailpatel)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://suhailpatel.com)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/suhailpatel)
+[<i class="fa fa-brands fa-mastodon fa-lg" title="Mastodon"></i>](https://hachyderm.io/@suhailpatel)
 
 [![Running Large Scale Migrations Continuously by Suhail Patel][3]][3]
 
 
 ### How To Not Lose Friends And Alienate Yourself
 by Waheed El Miladi
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/waheedelmiladi)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/waheedelmiladi)
 
 [![How To Not Lose Friends And Alienate Yourself by Waheed El Miladi][4]][4]
 
 
 ### Scaling Your Influence Through Documentation
 by James Ford
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/psyked)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/psyked)
 
 [![Scaling Your Influence Through Documentation by James Ford][5]][5]
 
 
 ### Solving The Puzzle Of Staff+ Time Management
 by Blanca Garcia Gil
-<i class="fa fa-globe fa-lg"></i> [Website](https://www.blancagarciagil.com)
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/blanquish)
-<i class="fa fa-brands fa-slideshare fa-lg"></i> [Slides](https://speakerdeck.com/blanquish/solving-the-puzzle-of-staff-plus-time-management)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://www.blancagarciagil.com)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/blanquish)
+[<i class="fa fa-brands fa-slideshare fa-lg" title="Slides"></i>](https://speakerdeck.com/blanquish/solving-the-puzzle-of-staff-plus-time-management)
 
 [![Solving The Puzzle Of Staff+ Time Management by Blanca Garcia Gil][6]][6]
 
 
 ### Maximising Your Impact When Context Switching
 by Maude Lemaire
-<i class="fa fa-globe fa-lg"></i> [Website](http://maudethecodetoad.com)
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/qcmaude)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](http://maudethecodetoad.com)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/qcmaude)
 
 [![Maximising Your Impact When Context Switching by Maude Lemaire][7]][7]
 
 
 ### Homebrew's Greatest Migration: Moving To Github Packages With Zero Downtime
 by Mike McQuaid
-<i class="fa fa-globe fa-lg"></i> [Website](https://mikemcquaid.com)
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/MikeMcQuaid)
-<i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://mastodon.social/@mikemcquaid)
-<i class="fa fa-brands fa-slideshare fa-lg"></i> [Slides](https://speakerdeck.com/mikemcquaid/homebrews-great-migration-moving-to-github-packages-with-zero-downtime)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://mikemcquaid.com)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/MikeMcQuaid)
+[<i class="fa fa-brands fa-mastodon fa-lg" title="Mastodon"></i>](https://mastodon.social/@mikemcquaid)
+[<i class="fa fa-brands fa-slideshare fa-lg" title="Slides"></i>](https://speakerdeck.com/mikemcquaid/homebrews-great-migration-moving-to-github-packages-with-zero-downtime)
 
 [![Homebrew's Greatest Migration: Moving To Github Packages With Zero Downtime by Mike McQuaid][8]][8]
 
 
 ### The Dark Side Of Lessons Learned
 by Dianing Yudono
-<i class="fa fa-globe fa-lg"></i> [Website]()
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/galihmelon)
-<i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://hachyderm.io/@galihmelon)
+[<i class="fa fa-globe fa-lg" title="Website"></i>]()
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/galihmelon)
+[<i class="fa fa-brands fa-mastodon fa-lg" title="Mastodon"></i>](https://hachyderm.io/@galihmelon)
 
 [![The Dark Side Of Lessons Learned by Dianing Yudono][9]][9]
 
 
 ### Working On Software That Is Older Than You
 by Sally Wahba
-<i class="fa fa-globe fa-lg"></i> [Website]()
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/sallyky)
-<i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://hachyderm.io/@swahba)
+[<i class="fa fa-globe fa-lg" title="Website"></i>]()
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/sallyky)
+[<i class="fa fa-brands fa-mastodon fa-lg" title="Mastodon"></i>](https://hachyderm.io/@swahba)
 
 [![Working On Software That Is Older Than You by Sally Wahba][10]][10]
 
 
 ### Practical Systems Thinking For Software Engineers
 by Laura Nolan
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/lauralifts)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/lauralifts)
 
 [![Practical Systems Thinking For Software Engineers by Laura Nolan][11]][11]
 
 
 ### Unmasking Imposters By Debugging Doubts
 by J Bobby Dorlus
-<i class="fa fa-globe fa-lg"></i> [Website](https://thetechhustle.com)
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/BobbyD_FL)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://thetechhustle.com)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/BobbyD_FL)
 
 [![Unmasking Imposters By Debugging Doubts by J Bobby Dorlus][12]][12]
 
 
 ### Delivering A Digital-First BBC - An Architect's Perspective
 by Hannes Ricklefs
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/hricklefs)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/hricklefs)
 
 [![Delivering A Digital-First BBC - An Architect's Perspective by Hannes Ricklefs][13]][13]
 
@@ -136,31 +136,31 @@ by Lais Oliviera
 
 ### Building A Shared Vision: Creating Alignment Across Autonomous Teams
 by Maria Neumayer
-<i class="fa fa-globe fa-lg"></i> [Website](https://medium.com/@marianeum)
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/marianeum)
-<i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://androiddev.social/@marianeum)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://medium.com/@marianeum)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/marianeum)
+[<i class="fa fa-brands fa-mastodon fa-lg" title="Mastodon"></i>](https://androiddev.social/@marianeum)
 
 [![Building A Shared Vision: Creating Alignment Across Autonomous Teams by Maria Neumayer][17]][17]
 
 
 ### Working Sideways
 by Aish Raj Dahal
-<i class="fa fa-globe fa-lg"></i> [Website](https://aish.io)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://aish.io)
 
 [![Working Sideways by Aish Raj Dahal][18]][18]
 
 
 ### Scaling Your Influence When You Can Only Be In One Place
 by Michael Tweed
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/michaeltweed)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/michaeltweed)
 
 [![Scaling Your Influence When You Can Only Be In One Place by Michael Tweed][19]][19]
 
 
 ### The Dark Side Of Standardisation
 by Samantha Schaevitz
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/samschaevitz)
-<i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://mastodon.green/@samsch)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/samschaevitz)
+[<i class="fa fa-brands fa-mastodon fa-lg" title="Mastodon"></i>](https://mastodon.green/@samsch)
 
 [![The Dark Side Of Standardisation by Samantha Schaevitz][20]][20]
 
@@ -173,16 +173,16 @@ by Kaitlyn Tierney
 
 ### Building A Diverse And Inclusive Guild From The Ground Up
 by Liem Pham
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/ducliemp)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/ducliemp)
 
 [![Building A Diverse And Inclusive Guild From The Ground Up by Liem Pham][22]][22]
 
 
 ### Setting Goals As A Staff+ Engineer
 by Sabrina Leandro
-<i class="fa fa-globe fa-lg"></i> [Website](https://saleandro.com)
-<i class="fa fa-brands fa-x-twitter fa-lg"></i> [X](https://x.com/saleandro)
-<i class="fa fa-brands fa-mastodon fa-lg"></i> [Mastodon](https://mastodon.online/@saleandro)
+[<i class="fa fa-globe fa-lg" title="Website"></i>](https://saleandro.com)
+[<i class="fa fa-brands fa-x-twitter fa-lg" title="X"></i>](https://x.com/saleandro)
+[<i class="fa fa-brands fa-mastodon fa-lg" title="Mastodon"></i>](https://mastodon.online/@saleandro)
 
 [![Setting Goals As A Staff+ Engineer by Sabrina Leandro][23]][23]
 
