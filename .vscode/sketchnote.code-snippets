@@ -21,13 +21,13 @@
 		"body": [
 			"### ${1:title}",
 			"by ${2:speaker}",
-			"<i class=\"fa fa-globe fa-lg\"></i> [Website]($3)",
-			"<i class=\"fa fa-brands fa-twitter fa-lg\"></i> [Twitter]($4)",
-			"<i class=\"fa fa-brands fa-bluesky fa-lg\"></i> [BlueSky]($5)",
-			"<i class=\"fa fa-brands fa-mastodon fa-lg\"></i> [Mastodon]($6)",
-			"<i class=\"fa fa-brands fa-slideshare fa-lg\"></i> [Slides]($7)",
-			"<i class=\"fa fa-video-camera fa-lg\"></i> [Video]($8)",
-			"<i class=\"fa fa-file-code-o fa-lg\"></i> [Code]($9)",
+			"[<i class=\"fa fa-globe fa-lg\" title=\"Website\"></i>]($3)",
+			"[<i class=\"fa fa-brands fa-x-twitter fa-lg\" title=\"X\"></i>]($4)",
+			"[<i class=\"fa fa-brands fa-bluesky fa-lg\" title=\"BlueSky\"></i>]($5)",
+			"[<i class=\"fa fa-brands fa-mastodon fa-lg\" title=\"Mastodon\"></i>]($6)",
+			"[<i class=\"fa fa-brands fa-slideshare fa-lg\" title=\"Slides\"></i>]($7)",
+			"[<i class=\"fa fa-video-camera fa-lg\" title=\"Video\"></i>]($8)",
+			"[<i class=\"fa fa-file-code-o fa-lg\" title=\"Code\"></i>]($9)",
 			"",
 			"[![${1:title} by ${2:speaker}][${10:image-id}]][${10:image-id}]",
 			"$0"
@@ -38,23 +38,23 @@
 		"scope": "markdown",
 		"prefix": "sketchnote-website-link",
 		"body": [
-			"<i class=\"fa fa-globe fa-lg\"></i> [Website]($1)$0"
+			"[<i class=\"fa fa-globe fa-lg\" title=\"Website\"></i>]($1)$0"
 		],
 		"description": "Add a markdown website link"
 	},
 	"Twitter link": {
 		"scope": "markdown",
-		"prefix": "sketchnote-twitter-link",
+		"prefix": "sketchnote-x-link",
 		"body": [
-			"<i class=\"fa fa-brands fa-twitter fa-lg\"></i> [Twitter]($1)$0"
+			"[<i class=\"fa fa-brands fa-x-twitter fa-lg\" title=\"X\"></i>]($1)$0"
 		],
-		"description": "Add a markdown Twitter link"
+		"description": "Add a markdown X link"
 	},
 	"BlueSky link": {
 		"scope": "markdown",
 		"prefix": "sketchnote-bluesky-link",
 		"body": [
-			"<i class=\"fa fa-brands fa-bluesky fa-lg\"></i> [BlueSky]($1)$0"
+			"[<i class=\"fa fa-brands fa-bluesky fa-lg\" title=\"BlueSky\"></i>]($1)$0"
 		],
 		"description": "Add a markdown BlueSky link"
 	},
@@ -62,7 +62,7 @@
 		"scope": "markdown",
 		"prefix": "sketchnote-mastodon-link",
 		"body": [
-			"<i class=\"fa fa-brands fa-mastodon fa-lg\"></i> [Mastodon]($1)$0"
+			"[<i class=\"fa fa-brands fa-mastodon fa-lg\" title=\"Mastodon\"></i>]($1)$0"
 		],
 		"description": "Add a markdown Mastodon link"
 	},
@@ -70,7 +70,7 @@
 		"scope": "markdown",
 		"prefix": "sketchnote-slides-link",
 		"body": [
-			"<i class=\"fa fa-brands fa-slideshare fa-lg\"></i> [Slides]($1)$0"
+			"[<i class=\"fa fa-brands fa-slideshare fa-lg\" title=\"Sludes\"></i>]($1)$0"
 		],
 		"description": "Add a markdown slides link"
 	},
@@ -78,7 +78,7 @@
 		"scope": "markdown",
 		"prefix": "sketchnote-video-link",
 		"body": [
-			"<i class=\"fa fa-video-camera fa-lg\"></i> [Video]($1)$0"
+			"[<i class=\"fa fa-video-camera fa-lg\" title=\"Video\"></i>]($1)$0"
 		],
 		"description": "Add a markdown video link"
 	},
@@ -86,7 +86,7 @@
 		"scope": "markdown",
 		"prefix": "sketchnote-video-youtube-link",
 		"body": [
-			"<i class=\"fa fa-brands fa-youtube fa-lg\"></i> [Video]($1)$0"
+			"[<i class=\"fa fa-brands fa-youtube fa-lg\" title=\"YouTube\"></i>]($1)$0"
 		],
 		"description": "Add a markdown youtube video link"
 	},
@@ -94,7 +94,7 @@
 		"scope": "markdown",
 		"prefix": "sketchnote-video-vimeo-link",
 		"body": [
-			"<i class=\"fa fa-brands fa-vimeo fa-lg\"></i> [Video]($1)$0"
+			"[<i class=\"fa fa-brands fa-vimeo fa-lg\" title=\"Vimeo\"></i>]($1)$0"
 		],
 		"description": "Add a markdown vimeo video link"
 	},
@@ -102,7 +102,7 @@
 		"scope": "markdown",
 		"prefix": "sketchnote-code-link",
 		"body": [
-			"<i class=\"fa fa-file-code-o fa-lg\"></i> [Code]($1)$0"
+			"[<i class=\"fa fa-file-code-o fa-lg\" title=\"Code\"></i>]($1)$0"
 		],
 		"description": "Add a markdown code link"
 	},
