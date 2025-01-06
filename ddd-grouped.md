@@ -51,7 +51,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Dublin     | 9th October 2010 |
 {:.mdtable}
 
-### DDD East Anglia [<i class="fa fa-globe"></i>](https://www.dddeastanglia.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddeastanglia) [<i class="fa fa-facebook"></i>](https://www.facebook.com/dddeastanglia)
+### DDD East Anglia [<i class="fa fa-globe"></i>](https://www.dddeastanglia.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddeastanglia) [<i class="fa fa-brands fa-facebook"></i>](https://www.facebook.com/dddeastanglia)
 
 | **Event Name**       | **Event Date**      |
 | -------------------- | ------------------- |
@@ -86,7 +86,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Netherlands | 18th May 2019  |
 {:.mdtable}
 
-### DDD North [<i class="fa fa-globe"></i>](http://www.dddnorth.co.uk) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddnorth) [<i class="fa fa-facebook"></i>](https://www.facebook.com/DDD-North-254649631214825)
+### DDD North [<i class="fa fa-globe"></i>](http://www.dddnorth.co.uk) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddnorth) [<i class="fa fa-brands fa-facebook"></i>](https://www.facebook.com/DDD-North-254649631214825)
 
 | **Event Name** | **Event Date**     |
 | -------------- | ------------------ |
@@ -158,7 +158,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD South West 13 | 26th April 2025 |
 {:.mdtable}
 
-### DDD Wales [<i class="fa fa-globe"></i>](https://www.dddwales.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddcymru) [<i class="fa fa-facebook"></i>](https://www.facebook.com/dddwales)
+### DDD Wales [<i class="fa fa-globe"></i>](https://www.dddwales.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddcymru) [<i class="fa fa-brands fa-facebook"></i>](https://www.facebook.com/dddwales)
 
 | **Event Name** | **Event Date**  |
 | -------------- | --------------- |
