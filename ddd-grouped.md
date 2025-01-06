@@ -86,7 +86,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Netherlands | 18th May 2019  |
 {:.mdtable}
 
-### DDD North [<i class="fa fa-globe"></i>](http://www.dddnorth.co.uk) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddnorth) [<i class="fa fa-brands fa-facebook"></i>](https://www.facebook.com/DDD-North-254649631214825)
+### DDD North [<i class="fa fa-globe"></i>](http://www.dddnorth.co.uk) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddnorth) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddnorth.bsky.social) [<i class="fa fa-brands fa-facebook"></i>](https://www.facebook.com/DDD-North-254649631214825)
 
 | **Event Name** | **Event Date**     |
 | -------------- | ------------------ |
@@ -102,7 +102,6 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD North 10   | 3rd December 2022  |
 | DDD North 11   | 2nd March 2024     |
 | DDD North 12   | 22nd February 2025 |
-
 {:.mdtable}
 
 ### DDD Reading [<i class="fa fa-globe"></i>](http://www.developerdeveloperdeveloper.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/developerday)
@@ -139,7 +138,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Scotland 2018 | 10th February 2018 |
 {:.mdtable}
 
-### DDD South West [<i class="fa fa-globe"></i>](http://www.dddsouthwest.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddsouthwest)
+### DDD South West [<i class="fa fa-globe"></i>](http://www.dddsouthwest.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddsouthwest) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddsouthwest.bsky.social)
 
 | **Event Name**    | **Event Date**  |
 | ----------------- | --------------- |
@@ -189,7 +188,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Adelaide 4 | 23rd November 2024 |
 {:.mdtable}
 
-### DDD Brisbane [<i class="fa fa-globe"></i>](http://www.dddbrisbane.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddbrisbane)
+### DDD Brisbane [<i class="fa fa-globe"></i>](http://www.dddbrisbane.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddbrisbane) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddbrisbane.bsky.social)
 
 | **Event Name**  | **Event Date**     |
 | --------------- | ------------------ |
@@ -207,7 +206,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Brisbane 12 | 7th December 2024  |
 {:.mdtable}
 
-### DDD Melbourne [<i class="fa fa-globe"></i>](http://www.dddmelbourne.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddmelb)
+### DDD Melbourne [<i class="fa fa-globe"></i>](http://www.dddmelbourne.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddmelb) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddmelbourne.bsky.social)
 
 | **Event Name**   | **Event Date**      |
 | ---------------- | ------------------- |
@@ -225,7 +224,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Melbourne 12 | 22nd February 2025  |
 {:.mdtable}
 
-### DDD Perth [<i class="fa fa-globe"></i>](http://www.dddperth.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddperth)
+### DDD Perth [<i class="fa fa-globe"></i>](http://www.dddperth.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddperth)  [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddperth.bsky.social)
 
 | **Event Name** | **Event Date**      |
 | ---------------| ------------------- |
