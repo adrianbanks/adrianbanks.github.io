@@ -281,6 +281,10 @@ ul.dropdown-menu>li>a>i.fa {
   width: 1.3em;
 }
 
+ul.dropdown-menu>li>a:hover {
+  background-color: #e74c3c !important;
+}
+
 kbd {
   padding: .1em .6em;
   background-color: #e1e3e5;
