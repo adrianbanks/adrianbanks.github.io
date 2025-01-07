@@ -281,6 +281,10 @@ ul.dropdown-menu>li>a>i.fa {
   width: 1.3em;
 }
 
+ul.dropdown-menu>li>a>i.fa:hover {
+  color: #fff;
+}
+
 ul.dropdown-menu>li>a:hover {
   background-color: #e74c3c !important;
 }
