@@ -126,6 +126,7 @@ article .share .btn {
 
 article {
   margin-bottom: 40px;
+  padding: 0 5% 0;
 }
 
 .article_body {
@@ -139,8 +140,8 @@ article {
   margin-bottom: 1em;
 }
 
-article {
-  padding: 0 5% 0;
+article.home {
+  padding: 0;
 }
 
 article.home div a,
@@ -150,7 +151,8 @@ article.home pre a {
 
 article.home div a:hover,
 article.home pre a:hover { 
-  color: #2c3e50; text-decoration: none;
+  color: #2c3e50;
+  text-decoration: none;
 }
 
 article img { 
@@ -407,4 +409,41 @@ article .share .gplus:hover {
 .list-inline > li {
   padding-left: 0;
   padding-right: 0;
+}
+
+.search-form {
+  margin-bottom: 20px;
+}
+
+#search-text {
+  width: 25em;
+  line-height: 2em;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: auto;
+}
+
+article.search-result {
+  border-bottom: 1px solid #eee;
+  padding: 1em;
+  margin-bottom: 0;
+}
+
+article.search-result:hover {
+  background-color: #f3f3f3;
+}
+
+.search-result-title a {
+  color: #f2756a;
+  text-decoration: none;
+  border-bottom: 0;
+}
+
+.search-result-title a:hover {
+  color: #e74c3c;
+  text-decoration: underline;
+  background-color: transparent;
 }
