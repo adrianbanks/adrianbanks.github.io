@@ -178,8 +178,6 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 ## Australia-based Events
 
-### DDD Adelaide
-
 | **Event Name** | **Event Date**     |
 | -------------- | ------------------ |
 | DDD Adelaide 1 | 16th July 2011     |
@@ -204,6 +202,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Brisbane 10 | 3rd December 2022  |
 | DDD Brisbane 11 | 2nd December 2023  |
 | DDD Brisbane 12 | 7th December 2024  |
+| DDD Brisbane 13 | 6th December 2025  |
 {:.mdtable}
 
 ### DDD Melbourne [<i class="fa fa-globe"></i>](http://www.dddmelbourne.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddmelb) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddmelbourne.bsky.social)
@@ -237,6 +236,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Perth 7    | 10th September 2022 |
 | DDD Perth 8    | 7th October 2023    |
 | DDD Perth 9    | 16th November 2024  |
+| DDD Perth 10   | 20th September 2025 |
 {:.mdtable}
 
 ### DDD Sydney [<i class="fa fa-globe"></i>](http://next.dddsydney.com.au) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddsydney)
