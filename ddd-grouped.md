@@ -178,6 +178,8 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 ## Australia-based Events
 
+### DDD Adelaide [<i class="fa fa-globe"></i>](https://dddadelaide.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://twitter.com/dddadelaide)
+
 | **Event Name** | **Event Date**     |
 | -------------- | ------------------ |
 | DDD Adelaide 1 | 16th July 2011     |
