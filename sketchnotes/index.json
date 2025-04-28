@@ -2,6 +2,60 @@
     "rootPath": "../assets/media/images/",
     "sketchnotes": [
       {
+        "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#surviving-complexity-through-software-design",
+        "imagePath": "2025/04/surviving-complexity-through-software-design-jacqui-read.jpg",
+        "date": "2025-04-26",
+        "event": "DDD South West",
+        "title": "Surviving Complexity Through Software Design",
+        "speakers": ["Jacqui Read"],
+        "tags": ["software-design", "complexity", "aced-model"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#modern-software-architecture-review-best-practices",
+        "imagePath": "2025/04/modern-software-architecture-review-best-practices-steven-read.jpg",
+        "date": "2025-04-26",
+        "event": "DDD South West",
+        "title": "Modern Software Architecture Review Best Practices",
+        "speakers": ["Steven Read"],
+        "tags": ["architecture", "architecture-review", "aced-model"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#why-am-i-being-such-a-git-about-best-practices",
+        "imagePath": "2025/04/why-am-i-beaing-such-a-git-about-best-practices-joe-glombek.jpg",
+        "date": "2025-04-26",
+        "event": "DDD South West",
+        "title": "Why Am I Being Such A Git About Best Practices?",
+        "speakers": ["Joe Glombek"],
+        "tags": ["git"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#a-developers-guide-to-getting-the-most-out-of-containers",
+        "imagePath": "2025/04/a-developers-guide-to-getting-the-most-out-of-containers-john-kilmister.jpg",
+        "date": "2025-04-26",
+        "event": "DDD South West",
+        "title": "A Developers Guide To Getting The Most Out Of Containers",
+        "speakers": ["John Kilmister"],
+        "tags": ["docker", "containers", "dev-containers"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#mutation-testing",
+        "imagePath": "2025/04/mutation-testing-stuart-lang.jpg",
+        "date": "2025-04-26",
+        "event": "DDD South West",
+        "title": "Mutation Testing",
+        "speakers": ["Stuart Lang"],
+        "tags": ["mutation-testing", "stryker"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#lets-ship-this-thing",
+        "imagePath": "2025/04/lets-ship-this-thing-gary-ewan-park.jpg",
+        "date": "2025-04-26",
+        "event": "DDD South West",
+        "title": "Let's Ship This Thing!",
+        "speakers": ["Gary Ewan Park"],
+        "tags": ["shipping", "versioning", "release-management"]
+      },
+      {
         "postPath": "/ddd-events/sketchnotes/2024/05/04/ddd-south-west-12.html#fail",
         "imagePath": "2024/05/fail-kevlin-henney.jpg",
         "date": "2024-04-27",
