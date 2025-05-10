@@ -1,3 +1,10 @@
+
+
+https://leaddev.com/staffplus-london/agenda
+https://twitter.com/hashtag/StaffPlusLondon?src=hashtag_click&f=live
+
+
+
 ---
 layout: post
 title: StaffPlus London 2024
