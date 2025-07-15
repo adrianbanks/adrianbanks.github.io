@@ -186,6 +186,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Adelaide 2 | 23rd November 2019 |
 | DDD Adelaide 3 | 18th November 2023 |
 | DDD Adelaide 4 | 23rd November 2024 |
+| DDD Adelaide 5 | 22nd November 2025 |
 {:.mdtable}
 
 ### DDD Brisbane [<i class="fa fa-globe"></i>](https://www.dddbrisbane.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddbrisbane) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddbrisbane.bsky.social)
