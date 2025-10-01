@@ -26,6 +26,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 - [DDD Perth](#ddd-perth--)  
 - [DDD Reading](#ddd-reading--)  
 - [DDD Scotland](#ddd-scotland--)  
+- [DDD Seoul](#ddd-seoul--)
 - [DDD South West](#ddd-south-west--)  
 - [DDD Sydney](#ddd-sydney--)  
 - [DDD Wales](#ddd-wales--)  
@@ -227,7 +228,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Melbourne 13 | 21st February 2026  |
 {:.mdtable}
 
-### DDD Perth [<i class="fa fa-globe"></i>](https://www.dddperth.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddperth)  [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddperth.bsky.social)
+### DDD Perth [<i class="fa fa-globe"></i>](https://www.dddperth.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddperth) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddperth.bsky.social)
 
 | **Event Name** | **Event Date**      |
 | ---------------| ------------------- |
@@ -254,6 +255,18 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Sydney 5   | 15th July 2017      |
 | DDD Sydney 6   | 17th August 2018    |
 | DDD Sydney 7   | 21st September 2019 |
+{:.mdtable}
+
+----
+
+## Rest of World Events
+
+### DDD Seoul [<i class="fa fa-globe"></i>](https://dddseoul.kr) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddseoul) [<i class="fa fa-linkedin"></i>](https://linkedin.com/company/dddseoul) [<i class="fa fa-brands fa-facebook"></i>](https://facebook.com/dddseoul)
+
+| **Event Name** | **Event Date**      |
+| -------------- | ------------------- |
+| DDD Seoul 1    | 8th December 2024   |
+| DDD Seoul 2    | 5th December 2025   |
 {:.mdtable}
 
 ----

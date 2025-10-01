@@ -26,6 +26,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 - DDD Perth [<i class="fa fa-globe"></i>](http://www.dddperth.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddperth) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddsouthwest.bsky.social)
 - DDD Reading [<i class="fa fa-globe"></i>](http://www.developerdeveloperdeveloper.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/developerday)
 - DDD Scotland [<i class="fa fa-globe"></i>](https://dddscotland.org) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddscot)
+- DDD Seoul [<i class="fa fa-globe"></i>](https://dddseoul.kr) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddseoul) [<i class="fa fa-linkedin"></i>](https://linkedin.com/company/dddseoul) [<i class="fa fa-brands fa-facebook"></i>](https://facebook.com/dddseoul)
 - DDD South West [<i class="fa fa-globe"></i>](http://www.dddsouthwest.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddsouthwest) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddsouthwest.bsky.social)
 - DDD Sydney [<i class="fa fa-globe"></i>](http://dddsydney.com.au) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddsydney)
 - DDD Wales [<i class="fa fa-globe"></i>](https://www.dddwales.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddcymru) [<i class="fa fa-brands fa-facebook"></i>](https://www.facebook.com/dddwales)
