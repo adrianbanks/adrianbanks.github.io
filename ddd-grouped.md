@@ -139,7 +139,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Scotland 2018 | 10th February 2018 |
 {:.mdtable}
 
-### DDD South West [<i class="fa fa-globe"></i>](https://www.dddsouthwest.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddsouthwest) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddsouthwest.bsky.social)
+### DDD South West [<i class="fa fa-globe"></i>](https://www.dddsouthwest.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddsouthwest) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddsouthwest.com)
 
 | **Event Name**    | **Event Date**  |
 | ----------------- | --------------- |
