@@ -156,6 +156,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD South West 11 | 29th April 2023 |
 | DDD South West 12 | 27th April 2024 |
 | DDD South West 13 | 26th April 2025 |
+| DDD South West 14 | 16th May 2026   |
 {:.mdtable}
 
 ### DDD Wales [<i class="fa fa-globe"></i>](https://www.dddwales.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddcymru) [<i class="fa fa-brands fa-facebook"></i>](https://www.facebook.com/dddwales)
