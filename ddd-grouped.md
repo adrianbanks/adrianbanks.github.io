@@ -103,6 +103,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD North 10   | 3rd December 2022  |
 | DDD North 11   | 2nd March 2024     |
 | DDD North 12   | 22nd February 2025 |
+| DDD North 13   | 28th February 2026 |
 {:.mdtable}
 
 ### DDD Reading [<i class="fa fa-globe"></i>](https://www.developerdeveloperdeveloper.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/developerday)
