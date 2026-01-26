@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**           |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------------ |
+| 26th April 2025     | DDD South West 13                                  | [DDD South West][2]                                      | Conference               |
 | 19th June 2024      | LevelUp 2024                                       | [Redgate][22]                                            | Conference               |
 | 11th June 2024      | StaffPlus London 2024                              | [LeadDev][29]                                            | Conference (2 days)      |
 | 27th April 2024     | DDD South West 12                                  | [DDD South West][2]                                      | Conference               |
