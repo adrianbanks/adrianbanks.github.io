@@ -21,6 +21,8 @@ export class UiSearcher {
         this.#sketchnoteCount = sketchnoteCount;
         this.#previousButton = previousButton;
         this.#nextButton = nextButton;
+
+        window.addEventListener('resize', () => this.#handleResize());
     }
 
     moveToPreviousPage() {
@@ -34,7 +36,7 @@ export class UiSearcher {
     }
 
     #displayPage(data, pageNo) {
-        const resultsPerPage = 8;
+        const resultsPerPage = this.#calculateResultsPerPage();
 
         const searcher = this;
         const complete = () => searcher.addSearchActionToLinks($(".search-link"));
@@ -68,7 +70,27 @@ export class UiSearcher {
         const numPages = Math.ceil(data.length / resultsPerPage);
         this.#sketchnoteCount.prop('title', `Page ${pageNum}/${numPages}`);
     }
-    
+
+    #calculateResultsPerPage() {
+        const SketchNoteWitth = 530;
+        const SketchNoteHeight = 500;
+        const SketchNoteMargin = 16;
+
+        const availableWidth = window.innerWidth;
+        const availableHeight = window.innerHeight - 100;
+        const itemWidth = SketchNoteWitth + SketchNoteMargin * 2;
+        const itemHeight = SketchNoteHeight + SketchNoteMargin * 2;
+        const cols = Math.max(1, Math.floor(availableWidth / itemWidth));
+        const rows = Math.max(1, Math.floor(availableHeight / itemHeight));
+        return cols * rows;
+    }
+
+    #handleResize() {
+        if (this.#currentData.length > 0) {
+            this.#displayPage(this.#currentData, this.#currentPage);
+        }
+    }
+
     runSearch(searchText) {
         if (searchText === this.#currentSearch) {
             return;
