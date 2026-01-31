@@ -180,7 +180,7 @@ a:hover {
 
 .modal {
     min-width: 20%;
-    max-width: 45%;
+    max-width: 90%;
 }
 
 .modal:has(#speaker-list), .modal:has(#tag-list) {
@@ -192,9 +192,7 @@ a:hover {
     white-space: nowrap;
 }
 
-#speaker-list, #tag-list {
-    -webkit-column-count: 4;
-    -moz-column-count: 4;
-    column-count: 4;
-    column-gap: 10%;
+.modal ul {
+    column-width: 12em;
+    column-gap: 2em;
 }
