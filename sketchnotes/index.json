@@ -2,6 +2,123 @@
     "rootPath": "../assets/media/images/",
     "sketchnotes": [
       {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#supercharging-local-development-with-aspire",
+        "imagePath": "2026/02/supercharging-local-development-with-aspire-jimmy-bogard.jpg",
+        "date": "2026-01-30",
+        "conference": "NDC London",
+        "title": "Supercharging Local Development With Aspire",
+        "speakers": ["Jimmy Bogard"],
+        "tags": ["dotnet", "aspire"]
+      },
+      {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#ai-powered-app-development",
+        "imagePath": "2026/02/ai-powered-app-development-steve-sanderson.jpg",
+        "date": "2026-01-30",
+        "conference": "NDC London",
+        "title": "AI-Powered App Development",
+        "speakers": ["Steve Sanderson"],
+        "tags": ["ai", "ai-agents"]
+      },
+      {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#code-that-writes-code---net-source-generators",
+        "imagePath": "2026/02/code-that-writes-code-dotnet-source-generators-glenn-f-henriksen.jpg",
+        "date": "2026-01-29",
+        "conference": "NDC London",
+        "title": "Code That Writes Code - .Net Source Generators",
+        "speakers": ["Glenn F. Henriksen"],
+        "tags": ["dotnet", "source-generators"]
+      },
+      {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#optimising-httpclient-usage",
+        "imagePath": "2026/02/optimising-httpclient-usage-nico-vermeir.jpg",
+        "date": "2026-01-29",
+        "conference": "NDC London",
+        "title": "Optimising HttpClient Usage",
+        "speakers": ["Nico Vermeir"],
+        "tags": ["dotnet", "http"]
+      },
+      {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#modular-code",
+        "imagePath": "2026/02/modular-code-ian-cooper.jpg",
+        "date": "2026-01-29",
+        "conference": "NDC London",
+        "title": "Modular Code",
+        "speakers": ["Ian Cooper"],
+        "tags": ["architecture"]
+      },
+      {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#application-performance-optimisation-in-practice",
+        "imagePath": "2026/02/application-performance-optimisation-in-practice-steve-gordon.jpg",
+        "date": "2026-01-29",
+        "conference": "NDC London",
+        "title": "Application Performance Optimisation In Practice",
+        "speakers": ["Steve Gordon"],
+        "tags": ["dotnet", "performance"]
+      },
+      {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#progressive-collapse",
+        "imagePath": "2026/02/progressive-collapse-sam-newman.jpg",
+        "date": "2026-01-29",
+        "conference": "NDC London",
+        "title": "Progressive Collapse",
+        "speakers": ["Sam Newman"],
+        "tags": ["architecture"]
+      },
+      {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#immutable-patterns-of-system-design",
+        "imagePath": "2026/02/immutable-patterns-of-system-design-james-eastham.jpg",
+        "date": "2026-01-28",
+        "conference": "NDC London",
+        "title": "Immutable Patterns Of System Design",
+        "speakers": ["James Eastham"],
+        "tags": ["architecture", "system-design"]
+      },
+      {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#notebooks-and-net",
+        "imagePath": "2026/02/notebooks-and-dotnet-alexander-hall.jpg",
+        "date": "2026-01-28",
+        "conference": "NDC London",
+        "title": "Notebooks And .Net",
+        "speakers": ["Alexander Hall"],
+        "tags": ["jupyter-notebooks", "polyglot-notebooks"]
+      },
+      {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#modern-net-configuration-practices",
+        "imagePath": "2026/02/modern-dotnet-configuration-practices-chris-ayers.jpg",
+        "date": "2026-01-28",
+        "conference": "NDC London",
+        "title": "Modern .Net Configuration Practices",
+        "speakers": ["Chris Ayers"],
+        "tags": ["dotnet", "configuration"]
+      },
+      {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#10-tips-to-level-up-your-ai-assisted-coding",
+        "imagePath": "2026/02/10-tips-to-level-up-your-ai-assisted-coding-aleksander-stensby.jpg",
+        "date": "2026-01-28",
+        "conference": "NDC London",
+        "title": "10 Tips To Level Up Your AI Assisted Coding",
+        "speakers": ["Aleksander Stensby"],
+        "tags": ["ai", "ai-agents"]
+      },
+      {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#advanced-pattern-matching-in-c",
+        "imagePath": "2026/02/advanced-pattern-matching-in-csharp-oliver-sturm.jpg",
+        "date": "2026-01-28",
+        "conference": "NDC London",
+        "title": "Advanced Pattern Matching In C#",
+        "speakers": ["Oliver Sturm"],
+        "tags": ["dotnet", "pattern-matching"]
+      },
+      {
+        "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#net-meets-mcp---build-your-own-ai-powered-service-with-c",
+        "imagePath": "2026/02/dotnet-meets-mcp-build-your-own-ai-powered-service-with-csharp-gerald-versluis.jpg",
+        "date": "2026-01-28",
+        "conference": "NDC London",
+        "title": ".Net Meets MCP - Build Your Own AI-Powered Service With C#",
+        "speakers": ["Gerald Versluis"],
+        "tags": ["ai", "ai-agents", "mcp"]
+      },
+      {
         "postPath": "/ddd-events/sketchnotes/2025/04/30/ddd-south-west-13.html#surviving-complexity-through-software-design",
         "imagePath": "2025/04/surviving-complexity-through-software-design-jacqui-read.jpg",
         "date": "2025-04-26",
