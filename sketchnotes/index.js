@@ -1,5 +1,6 @@
 import { SummaryPresenter } from './SummaryPresenter.js';
 import { UiSearcher } from './UiSearcher.js'
+import { KeyboardShortcut } from './KeyboardShortcut.js'
 
 $(document).ready(() => {
     let rootPath = '';
@@ -39,6 +40,23 @@ $(document).ready(() => {
         summaryPresenter.addSpeakers($('#speaker-list'));
         summaryPresenter.addTags($('#tag-list'));
 
+        const keyboardShortcuts = [
+            new KeyboardShortcut('Focus the search box', () => {
+                e.preventDefault();
+                searchTextBox.focus();
+            }, 'f'),
+            new KeyboardShortcut('Clear the search box', (e) => {
+                searchTextBox.val('');
+                searcher.runSearch('');
+            }, 'x'),
+            new KeyboardShortcut('Move to the previous page', (e) => searcher.moveToPreviousPage(), 'ArrowLeft', '←'),
+            new KeyboardShortcut('Move to the next page', (e) => searcher.moveToNextPage(), 'ArrowRight', '→'),
+            new KeyboardShortcut('Toggle the syntax help', (e) => $('#search-help-content').toggle('fast'), 'h'),
+            new KeyboardShortcut('Show this help', (e) => $('#keyboard-help').modal(), '?'),
+        ];
+
+        keyboardShortcuts.forEach(shortcut => shortcut.addHelp($('#keyboard-shortcut-list')));
+
         const searchText = window.location.hash.length > 1 
             ? decodeURIComponent(window.location.hash.substring(1))
             : '';
@@ -54,32 +72,7 @@ $(document).ready(() => {
                 return;
             }
 
-            switch (e.key) {
-                case '?':
-                    $('#keyboard-help').modal();
-                    break;
-                case 'f':
-                case 's':
-                    e.preventDefault();
-                    searchTextBox.focus();
-                    break;
-                case 'p':
-                case 'ArrowLeft':
-                    searcher.moveToPreviousPage();
-                    break;
-                case 'n':
-                case 'ArrowRight':
-                    searcher.moveToNextPage();
-                    break;
-                case 'h':
-                    $('#search-help-content').toggle('fast');
-                    break;
-                case 'x':
-                case 'c':
-                    searchTextBox.val('');
-                    searcher.runSearch('');
-                    break;
-            }
+            keyboardShortcuts.forEach(shortcut => shortcut.apply(e));
         });
     });
 });

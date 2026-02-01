@@ -207,25 +207,22 @@ a:hover {
     font-size: 1.3em;
 }
 
-#keyboard-help-table {
-    border-collapse: collapse;
+#keyboard-shortcut-list li {
+    margin-bottom: 1em;
+    list-style-type: none;
 }
 
-#keyboard-help-table td {
-    padding: 6px 12px;
-}
-
-#keyboard-help-table td:first-child {
-    text-align: center;
+#keyboard-shortcut-list kbd {
+    margin-right: 1em;
 }
 
 kbd {
-    display: inline-block;
-    padding: 4px 8px;
+    padding: 0.3em 0.5em;
+    margin: 0 1px 0 1px;
     font-family: monospace;
-    font-size: 14px;
-    background-color: #f4f4f4;
-    border: 1px solid #ccc;
+    text-align: center;
+    text-shadow: rgb(255, 255, 255) 0px 1px 0px;
+    background-color: rgb(227, 230, 232);
+    border: 1px solid rgb(186, 191, 197);
     border-radius: 4px;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
