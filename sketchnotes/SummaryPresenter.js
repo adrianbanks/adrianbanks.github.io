@@ -15,22 +15,39 @@ export class SummaryPresenter {
     }
 
     addConferences = (list) => {
-        this.#summary.byConference().forEach(conference => this.#addListItem(list, 'conference', conference));
-        this.#configureColumns(list);
+        this.#addItemsWithGrouping(list, 'conference', this.#summary.byConference());
     }
 
     addEvents = (list) => {
-        this.#summary.byEvent().forEach(event => this.#addListItem(list, 'event', event));
-        this.#configureColumns(list);
+        this.#addItemsWithGrouping(list, 'event', this.#summary.byEvent());
     }
 
     addSpeakers = (list) => {
-        this.#summary.bySpeaker().forEach(speaker => this.#addListItem(list, 'speaker', speaker));
-        this.#configureColumns(list);
+        this.#addItemsWithGrouping(list, 'speaker', this.#summary.bySpeaker());
     }
 
     addTags = (list) => {
-        this.#summary.byTag().forEach(tag => this.#addListItem(list, 'tag', tag));
+        this.#addItemsWithGrouping(list, 'tag', this.#summary.byTag());
+    }
+
+    #addItemsWithGrouping = (list, type, items) => {
+        if (items.length > 50) {
+            let currentLetter = '';
+
+            items.forEach(item => {
+                const firstLetter = item.name[0].toUpperCase();
+
+                if (firstLetter !== currentLetter) {
+                    currentLetter = firstLetter;
+                    list.append(`<h3 class="letter-heading">${currentLetter}</h3>`);
+                }
+                
+                this.#addListItem(list, type, item);
+            });
+        } else {
+            items.forEach(item => this.#addListItem(list, type, item));
+        }
+
         this.#configureColumns(list);
     }
 

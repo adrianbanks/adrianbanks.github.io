@@ -198,6 +198,15 @@ a:hover {
     column-gap: 3em;
 }
 
+.letter-heading:not(:first-child) {
+    margin: 1em 0 0.5em -1em;
+}
+
+.letter-heading {
+    margin: 0 0 0.5em -1em;
+    font-size: 1.3em;
+}
+
 #keyboard-help-table {
     border-collapse: collapse;
 }
