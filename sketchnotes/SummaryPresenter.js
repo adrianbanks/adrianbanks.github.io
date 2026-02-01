@@ -71,8 +71,6 @@ export class SummaryPresenter {
                 : itemCount < 100
                     ? 3
                     : 4;
-        console.log(`Setting column count to ${columnCount} for ${itemCount} items`);
-        console.log(list);
         list.css('column-count', columnCount);
     }
 }
