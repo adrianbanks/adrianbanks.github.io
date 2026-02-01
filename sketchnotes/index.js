@@ -25,7 +25,7 @@ $(document).ready(() => {
         searchTextBox.on("keyup", () => searcher.runSearch(searchTextBox.val()));
         searchTextBox.on('search', () => searcher.runSearch(''));
         searchTextBox.on('keydown', e => {
-            if (e.key === 'Enter') {
+            if (e.key === 'Enter' || e.key === 'Escape') {
                 e.preventDefault();
                 searchTextBox.blur();
             }
@@ -33,7 +33,7 @@ $(document).ready(() => {
 
         nextButton.click(() => searcher.moveToNextPage());
         previousButton.click(() => searcher.moveToPreviousPage());
-    
+
         const summaryPresenter = new SummaryPresenter(sketchnotes);
         summaryPresenter.addConferences($('#conference-list'));
         summaryPresenter.addEvents($('#event-list'));
@@ -42,16 +42,22 @@ $(document).ready(() => {
 
         const keyboardShortcuts = [
             new KeyboardShortcut('Focus the search box', () => {
-                e.preventDefault();
                 searchTextBox.focus();
             }, 'f'),
-            new KeyboardShortcut('Clear the search box', (e) => {
+
+            new KeyboardShortcut('Clear the search box', () => {
                 searchTextBox.val('');
                 searcher.runSearch('');
             }, 'x'),
+
             new KeyboardShortcut('Move to the previous page', (e) => searcher.moveToPreviousPage(), 'ArrowLeft', '←'),
             new KeyboardShortcut('Move to the next page', (e) => searcher.moveToNextPage(), 'ArrowRight', '→'),
+            new KeyboardShortcut('Open the conferences list', (e) => $('#conferences').modal(), 'c'),
+            new KeyboardShortcut('Open the events list', (e) => $('#events').modal(), 'e'),
+            new KeyboardShortcut('Open the speakers list', (e) => $('#speakers').modal(), 's'),
+            new KeyboardShortcut('Open the tags list', (e) => $('#tags').modal(), 't'),
             new KeyboardShortcut('Toggle the syntax help', (e) => $('#search-help-content').toggle('fast'), 'h'),
+            new KeyboardShortcut('Go to the main blog', (e) => window.location.href = '../', 'b'),
             new KeyboardShortcut('Show this help', (e) => $('#keyboard-help').modal(), '?'),
         ];
 
