@@ -5,6 +5,7 @@ export class UiSearcher {
     #currentData = [];
     #currentSearch = null;
     #currentPage = 1;
+    #currentResultsPerPage = 0;
 
     #sketchnotes;
 
@@ -36,6 +37,11 @@ export class UiSearcher {
     #displayPage(data, pageNo) {
         const resultsPerPage = this.#calculateResultsPerPage();
         const numPages = Math.ceil(data.length / resultsPerPage);
+
+        if (resultsPerPage !== this.#currentResultsPerPage) {
+            this.#currentResultsPerPage = resultsPerPage;
+            this.#currentPage = 1;
+        }
 
         if (pageNo < 1 || pageNo > numPages) {
             return;
@@ -74,8 +80,8 @@ export class UiSearcher {
     }
 
     #calculateResultsPerPage() {
-        const SketchNoteWitth = 530;
-        const SketchNoteHeight = 500;
+        const SketchNoteWitth = 405;
+        const SketchNoteHeight = 282;
         const SketchNoteMargin = 16;
 
         const availableWidth = window.innerWidth;

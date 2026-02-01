@@ -111,9 +111,8 @@ a:hover {
     padding: 1em;
     border: 1px solid #333333;
     box-shadow: rgba(0,0,0,.4) 0 4px 8px;
-    width: 530px;
-    height: 500px;
-    flex: 0 1 530px;
+    width: 436px;
+    flex: 0 1 436px;
 }
 
 .sketchnote:hover {
@@ -125,8 +124,11 @@ a:hover {
     background-image: url('./placeholder.jpg');
     background-repeat: no-repeat;
     margin-bottom: 10px;
-    width: 500px;
-    height: 310px;
+    width: 405px;
+}
+
+.sketchnote .sketchnote-image-holder {
+    height: 282px;
 }
 
 .sketchnote .sketchnote-locate {
