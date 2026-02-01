@@ -23,6 +23,12 @@ $(document).ready(() => {
         
         searchTextBox.on("keyup", () => searcher.runSearch(searchTextBox.val()));
         searchTextBox.on('search', () => searcher.runSearch(''));
+        searchTextBox.on('keydown', e => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                searchTextBox.blur();
+            }
+        });
 
         nextButton.click(() => searcher.moveToNextPage());
         previousButton.click(() => searcher.moveToPreviousPage());
