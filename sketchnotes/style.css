@@ -195,8 +195,8 @@ a:hover {
 }
 
 .modal ul {
-    column-width: 12em;
-    column-gap: 2em;
+    column-width: 15em;
+    column-gap: 3em;
 }
 
 #keyboard-help-table {
