@@ -127,10 +127,10 @@ For my last session of the conference I chose to attend Robb's session. I mainly
   [5]: /assets/media/images/2023/10/a-game-of-patterns-tiani-jones.jpg#img-sketchnote
   [6]: /assets/media/images/2023/10/empower-your-master-builders-with-strategic-context-cei-sanderson.jpg#img-sketchnote
   [7]: /assets/media/images/2023/10/how-to-deal-with-uncertainties-and-risk-in-complex-environments-maik-wojcieszak.jpg#img-sketchnote
-  [8]: /assets/media/images/2023/10/agile-song-rehearsal.jpg#img-sketchnote
-  [9]: /assets/media/images/2023/10/agile-song-performance.jpg#img-sketchnote
+  [8]: /assets/media/images/2023/10/agile-song-rehearsal.jpg
+  [9]: /assets/media/images/2023/10/agile-song-performance.jpg
   [10]: /assets/media/images/2023/10/how-to-be-agile-with-critical-national-priorities-anna-sherrington-nick-smith.jpg#img-sketchnote
   [11]: /assets/media/images/2023/10/responsible-research-and-innovation-cat-swetel.jpg#img-sketchnote
   [12]: /assets/media/images/2023/10/fixing-feedback-ceri-newton-sargunar.jpg#img-sketchnote
   [13]: /assets/media/images/2023/10/lean-inceptions-how-to-set-your-teams-up-for-success-marcel-britsch.jpg#img-sketchnote
-  [14]: /assets/media/images/2023/10/norman-the-lego-dog.jpg#img-sketchnote
+  [14]: /assets/media/images/2023/10/norman-the-lego-dog.jpg

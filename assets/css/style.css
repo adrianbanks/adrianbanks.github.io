@@ -336,13 +336,18 @@ pre.stacktrace {
   padding: 6px;
 }
 
+.article_body img {
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  box-shadow: 3px 3px 0 #D7D7D7;
+  margin-bottom: 2em;
+}
+
 img[src$='#img-sketchnote'] { 
   border-style: double;
   border-width: 5px;
-  border-color: black;
   border-radius: 10px;
-  box-shadow: 3px 3px 0 #D7D7D7;
-  margin-bottom: 2em;
 }
 
 img.img-circle {
