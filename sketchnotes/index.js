@@ -42,6 +42,39 @@ $(document).ready(() => {
 
         $("#search-help").click(() => $('#search-help-content').toggle('fast'));
         $(".example").click(example => searcher.runSearch(example.currentTarget.innerText));
+
+        $(document).on('keydown', e => {
+            if (e.target.id === 'search-text') {
+                return;
+            }
+
+            switch (e.key) {
+                case '?':
+                    $('#keyboard-help').modal();
+                    break;
+                case 'f':
+                case 's':
+                    e.preventDefault();
+                    searchTextBox.focus();
+                    break;
+                case 'p':
+                case 'ArrowLeft':
+                    searcher.moveToPreviousPage();
+                    break;
+                case 'n':
+                case 'ArrowRight':
+                    searcher.moveToNextPage();
+                    break;
+                case 'h':
+                    $('#search-help-content').toggle('fast');
+                    break;
+                case 'x':
+                case 'c':
+                    searchTextBox.val('');
+                    searcher.runSearch('');
+                    break;
+            }
+        });
     });
 });
 
