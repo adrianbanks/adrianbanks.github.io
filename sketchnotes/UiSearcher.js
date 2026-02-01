@@ -26,17 +26,20 @@ export class UiSearcher {
     }
 
     moveToPreviousPage() {
-        this.#currentPage--;
-        this.#displayPage(this.#currentData, this.#currentPage);
+        this.#displayPage(this.#currentData, this.#currentPage - 1);
     }
 
     moveToNextPage() {
-        this.#currentPage++;
-        this.#displayPage(this.#currentData, this.#currentPage);
+        this.#displayPage(this.#currentData, this.#currentPage + 1);
     }
 
     #displayPage(data, pageNo) {
         const resultsPerPage = this.#calculateResultsPerPage();
+        const numPages = Math.ceil(data.length / resultsPerPage);
+
+        if (pageNo < 1 || pageNo > numPages) {
+            return;
+        }
 
         const searcher = this;
         const complete = () => searcher.addSearchActionToLinks($(".search-link"));
@@ -65,9 +68,8 @@ export class UiSearcher {
 
         this.#sketchnoteCount.text(`${data.length} sketchnote${data.length != 1 ? "s" : ""}`);
     
-        this.#currentPage = pageNo;
         const pageNum = data.length > 0 ? pageNo : 0;
-        const numPages = Math.ceil(data.length / resultsPerPage);
+        this.#currentPage = pageNum;
         this.#sketchnoteCount.prop('title', `Page ${pageNum}/${numPages}`);
     }
 
