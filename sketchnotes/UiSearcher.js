@@ -4,8 +4,8 @@ import { SearchTerms } from './SearchTerms.js'
 export class UiSearcher { 
     #currentData = [];
     #currentSearch = null;
-    #currentPage = 1;
     #currentResultsPerPage = 0;
+    #currentPage = 1;
 
     #sketchnotes;
 
@@ -27,11 +27,15 @@ export class UiSearcher {
     }
 
     moveToPreviousPage() {
-        this.#displayPage(this.#currentData, this.#currentPage - 1);
+        if (this.#currentPage > 1) {
+            this.#displayPage(this.#currentData, this.#currentPage - 1);
+        }
     }
 
     moveToNextPage() {
-        this.#displayPage(this.#currentData, this.#currentPage + 1);
+        if (this.#currentPage * this.#currentResultsPerPage < this.#currentData.length) {
+            this.#displayPage(this.#currentData, this.#currentPage + 1);
+        }
     }
 
     #displayPage(data, pageNo) {
@@ -41,10 +45,6 @@ export class UiSearcher {
         if (resultsPerPage !== this.#currentResultsPerPage) {
             this.#currentResultsPerPage = resultsPerPage;
             this.#currentPage = 1;
-        }
-
-        if (pageNo < 1 || pageNo > numPages) {
-            return;
         }
 
         const searcher = this;
