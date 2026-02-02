@@ -3,7 +3,7 @@ layout: page
 title: Search
 ---
 
-<input type="search" id="search-text" name="q" placeholder="Search">
+<input type="search" id="search-text" name="q" placeholder="Search" autofocus>
 
 <div id="search-results" class="post-list"></div>
 
