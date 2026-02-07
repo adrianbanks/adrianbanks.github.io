@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2006-07-10 00:30:00
 title: Guidance explorer
 categories: [dotnet]
 tags: [dotnet, aspnet, guidance]

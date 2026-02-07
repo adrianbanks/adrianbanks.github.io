@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2007-02-08 00:30:00
 title: Selecting 'No to all' in a confirm file replace dialog box
 categories: [windows]
 tags: [windows]

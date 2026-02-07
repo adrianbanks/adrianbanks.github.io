@@ -4,7 +4,6 @@ title: DNS error when adding a computer to a domain
 categories: [windows]
 tags: [windows, domain, dhcp, dns]
 fullview: true
-comments: true
 ---
 
 After having several problems with my laptop accessing files on my server (the domain controller for my domain), I had a look in the event log and found this error:

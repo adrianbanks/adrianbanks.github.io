@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2006-12-19 00:10:00
 title: Managed stack explorer
 categories: [dotnet]
 tags: [dotnet, debugging]

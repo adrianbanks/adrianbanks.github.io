@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2006-07-10 00:50:00
 title: ASP.Net web development helper For IE
 categories: [aspnet]
 tags: [aspnet, internet-explorer]

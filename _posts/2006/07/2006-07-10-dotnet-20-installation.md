@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2006-07-10 00:30:00
 title: .Net 2.0 installation
 categories: [dotnet]
 tags: [dotnet, installation]
