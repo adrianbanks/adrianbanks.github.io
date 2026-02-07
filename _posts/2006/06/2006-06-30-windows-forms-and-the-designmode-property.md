@@ -4,7 +4,6 @@ title: Windows forms and the DesignMode property
 categories: [dotnet]
 tags: [dotnet, windows-forms, visual-studio]
 fullview: true
-comments: true
 ---
 
 In .Net Windows Forms, any form or control that derives from a `Component` has a `DesignMode` property that tells you whether the control is being rendered in design mode in Visual Studio. This is useful if your control has different behaviour at runtime than at design time (for example, if you show a connection dialog when a form opens but you don't want it to happen in design mode inside Visual Studio).

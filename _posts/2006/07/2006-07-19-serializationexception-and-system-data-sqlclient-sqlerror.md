@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2006-07-10 00:10:00
 title: SerializationException and System.Data.SqlClient.SqlError
 categories: [dotnet]
 tags: [dotnet, remoting, exception]
@@ -12,19 +11,19 @@ When remoting, it’s possible to get a strange exception if a `SQLException` oc
 The stack trace of the error is:
 
 <pre class="stacktrace">
-Exception: System.Runtime.Serialization.SerializationException  
-Message: Member name ‘System.Data.SqlClient.SqlError server’ not found.  
+Exception: System.Runtime.Serialization.SerializationException
+Message: Member name ‘System.Data.SqlClient.SqlError server’ not found.
 
 Stack trace:
-at System.Runtime.Serialization.Formatters.Binary.ReadObjectInfo.GetMemberTypes (String[] inMemberNames)  
-at System.Runtime.Serialization.Formatters.Binary.ObjectMap..ctor(String objectName, String[] memberNames, BinaryTypeEnum[] binaryTypeEnumA, Object[] typeInformationA, Int32[] memberAssemIds, ObjectReader objectReader, Int32 objectId, BinaryAssemblyInfo assemblyInfo, SizedArray assemIdToAssemblyTable)  
-at System.Runtime.Serialization.Formatters.Binary.ObjectMap.Create(String name, String[] memberNames, BinaryTypeEnum[] binaryTypeEnumA, Object[] typeInformationA, Int32[] memberAssemIds, ObjectReader objectReader, Int32 objectId, BinaryAssemblyInfo assemblyInfo, SizedArray assemIdToAssemblyTable)  
-at System.Runtime.Serialization.Formatters.Binary.__BinaryParser.ReadObjectWithMapTyped(BinaryObjectWithMapTyped record)  
-at System.Runtime.Serialization.Formatters.Binary.__BinaryParser.ReadObjectWithMapTyped(BinaryHeaderEnum binaryHeaderEnum)  
-at System.Runtime.Serialization.Formatters.Binary.__BinaryParser.Run()  
-at System.Runtime.Serialization.Formatters.Binary.ObjectReader.Deserialize(HeaderHandler handler, __BinaryParser serParser, Boolean fCheck, IMethodCallMessage methodCallMessage)  
-at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (Stream serializationStream, HeaderHandler handler, Boolean fCheck, IMethodCallMessage   methodCallMessage)
-at System.Runtime.Remoting.Channels.CoreChannel.DeserializeBinaryResponseMessage(Stream inputStream, IMethodCallMessage reqMsg, Boolean bStrictBinding)  
+at System.Runtime.Serialization.Formatters.Binary.ReadObjectInfo.GetMemberTypes (String[] inMemberNames)
+at System.Runtime.Serialization.Formatters.Binary.ObjectMap..ctor(String objectName, String[] memberNames, BinaryTypeEnum[] binaryTypeEnumA, Object[] typeInformationA, Int32[] memberAssemIds, ObjectReader objectReader, Int32 objectId, BinaryAssemblyInfo assemblyInfo, SizedArray assemIdToAssemblyTable)
+at System.Runtime.Serialization.Formatters.Binary.ObjectMap.Create(String name, String[] memberNames, BinaryTypeEnum[] binaryTypeEnumA, Object[] typeInformationA, Int32[] memberAssemIds, ObjectReader objectReader, Int32 objectId, BinaryAssemblyInfo assemblyInfo, SizedArray assemIdToAssemblyTable)
+at System.Runtime.Serialization.Formatters.Binary.__BinaryParser.ReadObjectWithMapTyped(BinaryObjectWithMapTyped record)
+at System.Runtime.Serialization.Formatters.Binary.__BinaryParser.ReadObjectWithMapTyped(BinaryHeaderEnum binaryHeaderEnum)
+at System.Runtime.Serialization.Formatters.Binary.__BinaryParser.Run()
+at System.Runtime.Serialization.Formatters.Binary.ObjectReader.Deserialize(HeaderHandler handler, __BinaryParser serParser, Boolean fCheck, IMethodCallMessage methodCallMessage)
+at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Deserialize (Stream serializationStream, HeaderHandler handler, Boolean fCheck, IMethodCallMessage methodCallMessage)
+at System.Runtime.Remoting.Channels.CoreChannel.DeserializeBinaryResponseMessage(Stream inputStream, IMethodCallMessage reqMsg, Boolean bStrictBinding)
 at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
 </pre>
 

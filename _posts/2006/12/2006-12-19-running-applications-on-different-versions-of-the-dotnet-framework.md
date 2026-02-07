@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2006-12-19 00:30:00
 title: Running applications on different versions of the .Net framework
 categories: [dotnet]
 tags: [dotnet]

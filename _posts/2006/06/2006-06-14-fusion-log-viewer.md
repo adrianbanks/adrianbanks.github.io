@@ -1,11 +1,9 @@
 ---
 layout: post
-date: 2006-06-14 00:30:00
 title: Fusion log viewer
 categories: [dotnet]
 tags: [dotnet, fusion]
 fullview: true
-comments: true
 ---
 
 Whilst trying to work out why some code was running very slowly (see [System.Diagnostics.Process and speed]({{ site.baseurl }}{% post_url 2006/06/2006-06-14-system-diagnostics-process-and-speed %})), I tried to see whether the slowness was caused by loading code contained in a separate dll. To get this information, I needed to look at the fusion logs. Configuring these logs is not fool-proof, so having spent a few hours getting it working, I thought I'd document the process.

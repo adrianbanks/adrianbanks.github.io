@@ -4,7 +4,6 @@ title: Visual Studio 2005 and proxy authentication
 categories: [dotnet, visual-studio]
 tags: [dotnet, visual-studio, proxy]
 fullview: true
-comments: true
 ---
 
 Using Visual Studio 2005 today, I received a "407 Proxy Authentication Required" message when trying to search the online help integrated into the IDE. [KB910804](http://support.microsoft.com/?kbid=910804) from Microsoft held the answer.

@@ -1,11 +1,9 @@
 ---
 layout: post
-date: 2006-06-14 00:10:00
 title: System.Diagnostics.Process and speed
 categories: [dotnet]
 tags: [dotnet, performance]
 fullview: true
-comments: true
 ---
 
 I was working on some code that seemed to take an age to get going. Simple I thought: run it throught the [Red Gate ANTS Profiler](http://www.red-gate.com/products/ANTS_Profiler/index.htm), look at the offending code and sort the problem. I wish it was as straightforward. Profiling or debugging the code seemed to make it run quickly, so I had to resort to the good old technique of logging debug output line by line.
