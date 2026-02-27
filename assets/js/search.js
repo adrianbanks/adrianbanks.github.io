@@ -11,7 +11,7 @@
                 appendString += '<article class="home search-result">'
                                 + '  <h2 class="search-result-title"><a href="' + item.url + '">' + item.title + '</a></h2>'
                                 + '  <div class="post-date">' + item.date + '</div>'
-                                + '  <div><p>' + item.content + '</p></div>'
+                                + '  <div><p>' + item.content.substring(0, 250) + '...</p></div>'
                                 + '  <div>'
                                 + item.categories.split(' ').map(c => '<i class="fa fa-folder-open"></i> <a href="/categories.html#ref=' + c + '">' + c + '</a>').join(' ')
                                 + '    <br />'
