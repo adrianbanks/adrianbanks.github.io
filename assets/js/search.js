@@ -9,9 +9,14 @@
                 const item = store[results[i].ref];
 
                 appendString += '<article class="home search-result">'
-                                + '<h2 class="search-result-title"><a href="' + item.url + '">' + item.title + '</a></h2>'
-                                + '<div class="post-date">' + item.date + '</div>'
-                                + '<div><p>' + item.content.substring(0, 250).trim() + '...</p></div>'
+                                + '  <h2 class="search-result-title"><a href="' + item.url + '">' + item.title + '</a></h2>'
+                                + '  <div class="post-date">' + item.date + '</div>'
+                                + '  <div><p>' + item.content + '</p></div>'
+                                + '  <div>'
+                                + item.categories.split(' ').map(c => '<i class="fa fa-folder-open"></i> <a href="/categories.html#ref=' + c + '">' + c + '</a>').join(' ')
+                                + '    <br />'
+                                + item.tags.split(' ').map(t => '<i class="fa fa-tags"></i> <a href="/tags.html#ref=' + t + '">' + t + '</a>').join(' ')
+                                + '  </div>'
                                 + '</article>';
             }
 
@@ -45,13 +50,17 @@
             this.field('title', {boost: 10});
             this.field('url');
             this.field('content', {boost: 5});
+            this.field('categories');
+            this.field('tags');
 
             for (var key in window.store) {
                 this.add({
                     'id': key,
                     'title': window.store[key].title,
                     'url': window.store[key].url,
-                    'content': window.store[key].content
+                    'content': window.store[key].content,
+                    'categories': window.store[key].categories,
+                    'tags': window.store[key].tags
                 });
             }
         });

@@ -13,13 +13,15 @@ title: Search
       "{{ post.url | slugify }}": {
         "title": {{ post.title | xml_escape | jsonify }},
         "date":  {{ post.date | date: "%b %-d, %Y" | jsonify}},
-        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
-        "url": {{ post.url | xml_escape | jsonify }}
+        "content": {{ post.content | strip_html | strip_newlines | truncate: 250 | jsonify }},
+        "url": {{ post.url | xml_escape | jsonify }},
+        "categories": {{ post.categories | join | jsonify }},
+        "tags": {{ post.tags | join | jsonify }}
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
   };
 </script>
 
-<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="/assets/js/lunr.js"></script>
 <script src="/assets/js/search.js"></script>
