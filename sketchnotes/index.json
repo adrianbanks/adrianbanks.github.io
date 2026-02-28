@@ -2,6 +2,69 @@
     "rootPath": "../assets/media/images/",
     "sketchnotes": [
       {
+        "postPath": "/nordevcon/sketchnotes/2026/02/27/nordevcon-2026.html#how-we-support-deploying-multi-cloud-apps-at-stack-overflow",
+        "imagePath": "2026/02/how-we-support-deploying-multi-cloud-apps-at-stack-overflow-chris-odell.jpg",
+        "date": "2026-02-27",
+        "conference": "NorDevCon",
+        "title": "How We Support Deploying Multi-Cloud Apps At Stack Overflow",
+        "speakers": ["Chris O'Dell"],
+        "tags": ["cnab", "multi-cloud", "platform-engineering"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2026/02/27/nordevcon-2026.html#translating-business-metrics-into-meaningful-user-outcomes",
+        "imagePath": "2026/02/translating-business-metrics-into-meaningful-user-outcomes-elisabeth-dubus.jpg",
+        "date": "2026-02-27",
+        "conference": "NorDevCon",
+        "title": "Translating Business Metrics Into Meaningful User Outcomes",
+        "speakers": ["Elisabeth Dubus"],
+        "tags": ["metrics", "user-outcomes", "jtbd"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2026/02/27/nordevcon-2026.html#learn-how-to-learn",
+        "imagePath": "2026/02/learn-how-to-learn-frances-buontempo.jpg",
+        "date": "2026-02-27",
+        "conference": "NorDevCon",
+        "title": "Learn How To Learn",
+        "speakers": ["Frances Buontempo"],
+        "tags": ["learning"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2026/02/27/nordevcon-2026.html#debugging-your-imposter-syndrome",
+        "imagePath": "2026/02/debugging-your-imposter-syndrome-vickie-allen-collier.jpg",
+        "date": "2026-02-27",
+        "conference": "NorDevCon",
+        "title": "Debugging Your Imposter Syndrome",
+        "speakers": ["Vickie Allen-Collier"],
+        "tags": ["imposter-syndrome", "dunning-kruger"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2026/02/27/nordevcon-2026.html#modular-monoliths-and-other-facepalms",
+        "imagePath": "2026/02/modular-monoliths-and-other-facepalms-kevlin-henney.jpg",
+        "date": "2026-02-26",
+        "conference": "NorDevCon",
+        "title": "Modular Monoliths And Other Facepalms",
+        "speakers": ["Kevlin Henney"],
+        "tags": ["architecture", "monoliths", "modularity"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2026/02/27/nordevcon-2026.html#stop-testing-my-patience",
+        "imagePath": "2026/02/stop-testing-my-patience-ryan-healey.jpg",
+        "date": "2026-02-26",
+        "conference": "NorDevCon",
+        "title": "Stop Testing! (My Patience)",
+        "speakers": ["Ryan Healey"],
+        "tags": ["feedback", "testing"]
+      },
+      {
+        "postPath": "/nordevcon/sketchnotes/2026/02/27/nordevcon-2026.html#beyond-the-code-designing-services-that-stand-the-test-of-time",
+        "imagePath": "2026/02/designing-services-that-stand-the-test-of-time-paul-grenyer.jpg",
+        "date": "2026-02-26",
+        "conference": "NorDevCon",
+        "title": "Designing Services That Stand The Test Of Time",
+        "speakers": ["Paul Grenyer"],
+        "tags": ["microservices", "services"]
+      },
+      {
         "postPath": "/ndc-london/sketchnotes/2026/02/02/ndc-london-2026.html#supercharging-local-development-with-aspire",
         "imagePath": "2026/02/supercharging-local-development-with-aspire-jimmy-bogard.jpg",
         "date": "2026-01-30",
