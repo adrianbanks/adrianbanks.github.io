@@ -14,14 +14,16 @@ export class UiSearcher {
     #sketchnoteCount;
     #previousButton;
     #nextButton;
+    #onSearhComplete;
 
-    constructor(sketchnotes, searchTextBox, sketchnotesArea, sketchnoteCount, previousButton, nextButton) {
+    constructor(sketchnotes, searchTextBox, sketchnotesArea, sketchnoteCount, previousButton, nextButton, onSearhComplete) {
         this.#sketchnotes = sketchnotes;
         this.#searchTextBox = searchTextBox;
         this.#sketchnotesArea = sketchnotesArea;
         this.#sketchnoteCount = sketchnoteCount;
         this.#previousButton = previousButton;
         this.#nextButton = nextButton;
+        this.#onSearhComplete = onSearhComplete;
 
         window.addEventListener('resize', () => this.#handleResize());
     }
@@ -50,7 +52,7 @@ export class UiSearcher {
         const searcher = this;
         const complete = () => {
             searcher.addSearchActionToLinks($(".search-link"));
-            searcher.#markCroppedImages();
+            searcher.#onSearhComplete();
         };
 
         this.#sketchnotesArea.loadTemplate("sketchnote.html", data,
@@ -125,26 +127,6 @@ export class UiSearcher {
             const value = link.currentTarget.innerText;
             const search = `${type}:"${value}"`;
             this.runSearch(search);
-        });
-    }
-
-    #markCroppedImages() {
-        const containerWidth = 405;
-        const containerHeight = 282;
-        const threshold = containerWidth / containerHeight;
-
-        $(".sketchnote-image").each(function() {
-            const img = $(this);
-
-            if (this.complete) {
-                console.log('img', img, (img.naturalWidth / img.naturalHeight) < threshold);
-                img.attr("data-cropped", (this.naturalWidth / this.naturalHeight) < threshold);
-            } else {
-                img.on("load", function() {
-                    console.log('img', img, (img.naturalWidth / img.naturalHeight) < threshold);
-                    img.attr("data-cropped", (this.naturalWidth / this.naturalHeight) < threshold);
-                });
-            }
         });
     }
 }

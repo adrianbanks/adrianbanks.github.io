@@ -1,6 +1,7 @@
 import { SummaryPresenter } from './SummaryPresenter.js';
 import { UiSearcher } from './UiSearcher.js'
 import { KeyboardShortcut } from './KeyboardShortcut.js'
+import { CroppedImageHandler } from './CroppedImageHandler.js';
 
 $(document).ready(() => {
     let rootPath = '';
@@ -20,7 +21,8 @@ $(document).ready(() => {
         const searchTextBox = $("#search-text");
         const previousButton = $("[data-action='prev']");
         const nextButton = $("[data-action='next']");
-        const searcher = new UiSearcher(sketchnotes, searchTextBox, $("#sketchnotes"), $("#sketchnote-count"), previousButton, nextButton);
+        const croppedImageHandler = new CroppedImageHandler();
+        const searcher = new UiSearcher(sketchnotes, searchTextBox, $("#sketchnotes"), $("#sketchnote-count"), previousButton, nextButton, () => croppedImageHandler.markCroppedImages());
         
         searchTextBox.on("keyup", () => searcher.runSearch(searchTextBox.val()));
         searchTextBox.on('search', () => searcher.runSearch(''));
