@@ -48,7 +48,11 @@ export class UiSearcher {
         }
 
         const searcher = this;
-        const complete = () => searcher.addSearchActionToLinks($(".search-link"));
+        const complete = () => {
+            searcher.addSearchActionToLinks($(".search-link"));
+            searcher.#markCroppedImages();
+        };
+
         this.#sketchnotesArea.loadTemplate("sketchnote.html", data,
             { 
                 isFile: true,
@@ -121,6 +125,26 @@ export class UiSearcher {
             const value = link.currentTarget.innerText;
             const search = `${type}:"${value}"`;
             this.runSearch(search);
+        });
+    }
+
+    #markCroppedImages() {
+        const containerWidth = 405;
+        const containerHeight = 282;
+        const threshold = containerWidth / containerHeight;
+
+        $(".sketchnote-image").each(function() {
+            const img = $(this);
+
+            if (this.complete) {
+                console.log('img', img, (img.naturalWidth / img.naturalHeight) < threshold);
+                img.attr("data-cropped", (this.naturalWidth / this.naturalHeight) < threshold);
+            } else {
+                img.on("load", function() {
+                    console.log('img', img, (img.naturalWidth / img.naturalHeight) < threshold);
+                    img.attr("data-cropped", (this.naturalWidth / this.naturalHeight) < threshold);
+                });
+            }
         });
     }
 }
