@@ -1458,6 +1458,15 @@
         "tags": ["legacy-code"]
       },
       {
+        "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#the-functional-programming-toolkit",
+        "imagePath": "2019/02/the-functional-programming-toolkit-scott-wlaschin.jpg",
+        "date": "2019-02-01",
+        "conference": "NDC London",
+        "title": "The Functional Programming Toolkit",
+        "speakers": ["Scott Wlaschin"],
+        "tags": ["functional-programming"]
+      },
+      {
         "postPath": "/ndc-london/sketchnotes/2019/02/13/ndc-london-2019.html#asp-net-core-one-hour-makeover",
         "imagePath": "2019/02/asp-net-core-one-hour-makeover-jon-galloway.jpg",
         "date": "2019-01-31",
