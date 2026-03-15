@@ -1652,6 +1652,14 @@
         "tags": ["alexa", "alexa-skills"]
       },
       {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2018/what-is-usability-testing-and-how-to-conduct-it-alicja-leszczynska.jpg",
+        "date": "2018-03-06",
+        "event": "Redgate LevelUp",
+        "title": "What Is Usability Testing And How To Conduct It?",
+        "speakers": ["Alicja Leszczynska"],
+        "tags": ["usability", "usability-testing", "ux"]
+      },      
+      {
         "postPath": "/ndc-london/sketchnotes/2018/01/23/ndc-london-2018.html#web-apps-cant-do-that-can-they",
         "imagePath": "2018/01/web-apps-cant-do-that-can-they-steve-sanderson.jpg",
         "date": "2018-01-19",
