@@ -891,6 +891,62 @@
         "tags": ["security", "fido"]
       },
       {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2022/a-short-guide-to-all-the-databases-david-bick.jpg",
+        "date": "2022-06-09",
+        "conference": "Redgate LevelUp",
+        "title": "A Short Guide To All The Databases",
+        "speakers": ["David Bick"],
+        "tags": ["databases", "sql-server", "oracle"]
+      },      
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2022/from-buying-screws-to-making-shoes-james-hemson.jpg",
+        "date": "2022-06-09",
+        "conference": "Redgate LevelUp",
+        "title": "From Buying Screws To Making Shoes",
+        "speakers": ["James Hemson"],
+        "tags": ["stories", "product"]
+      },      
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2022/change-is-good-isnt-it-paul-williamson.jpg",
+        "date": "2022-06-09",
+        "conference": "Redgate LevelUp",
+        "title": "Change Is Good, Isn't It?",
+        "speakers": ["Paul Williamson"],
+        "tags": ["change", "change-management"]
+      },      
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2022/so-you-want-to-write-an-article-grant-fritchey.jpg",
+        "date": "2022-06-09",
+        "conference": "Redgate LevelUp",
+        "title": "So You Want To Write An Article",
+        "speakers": ["Grant Fritchey"],
+        "tags": ["writing"]
+      },      
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2022/on-1-2-3-how-todays-enterprise-software-grows-james-murtagh.jpg",
+        "date": "2022-06-09",
+        "conference": "Redgate LevelUp",
+        "title": "On 1-2-3: How Today's Enterprise Software Grows",
+        "speakers": ["James Murtagh"],
+        "tags": ["product-strategy", "123-model"]
+      },      
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2022/how-do-we-reach-our-detstination-the-beauty-of-product-roadmaps-max-drobot.jpg",
+        "date": "2022-06-09",
+        "conference": "Redgate LevelUp",
+        "title": "How Do We Reach Our Destination? The Beauty Of Product Roadmaps",
+        "speakers": ["Max Drobot"],
+        "tags": ["product-roadmaps", "product-strategy"]
+      },      
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2022/designing-strategy-steve-granshaw.jpg",
+        "date": "2022-06-09",
+        "conference": "Redgate LevelUp",
+        "title": "Designing Strategy",
+        "speakers": ["Steve Granshaw"],
+        "tags": ["strategy"]
+      },      
+      {
         "postPath": "/ndc-london/sketchnotes/2022/05/12/ndc-london-2022.html#team-topologies-software-architecture-and-complexity-science",
         "imagePath": "2022/05/team-topologies-software-architecture-and-complexity-science-james-lewis.jpg",
         "date": "2022-05-11",
@@ -1654,7 +1710,7 @@
       {
         "imagePath": "../../../sketchnotes/images/redgate-levelup-2018/what-is-usability-testing-and-how-to-conduct-it-alicja-leszczynska.jpg",
         "date": "2018-03-06",
-        "event": "Redgate LevelUp",
+        "conference": "Redgate LevelUp",
         "title": "What Is Usability Testing And How To Conduct It?",
         "speakers": ["Alicja Leszczynska"],
         "tags": ["usability", "usability-testing", "ux"]
