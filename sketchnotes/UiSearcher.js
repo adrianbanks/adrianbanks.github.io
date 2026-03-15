@@ -14,14 +14,16 @@ export class UiSearcher {
     #sketchnoteCount;
     #previousButton;
     #nextButton;
+    #onSearhComplete;
 
-    constructor(sketchnotes, searchTextBox, sketchnotesArea, sketchnoteCount, previousButton, nextButton) {
+    constructor(sketchnotes, searchTextBox, sketchnotesArea, sketchnoteCount, previousButton, nextButton, onSearhComplete) {
         this.#sketchnotes = sketchnotes;
         this.#searchTextBox = searchTextBox;
         this.#sketchnotesArea = sketchnotesArea;
         this.#sketchnoteCount = sketchnoteCount;
         this.#previousButton = previousButton;
         this.#nextButton = nextButton;
+        this.#onSearhComplete = onSearhComplete;
 
         window.addEventListener('resize', () => this.#handleResize());
     }
@@ -48,7 +50,11 @@ export class UiSearcher {
         }
 
         const searcher = this;
-        const complete = () => searcher.addSearchActionToLinks($(".search-link"));
+        const complete = () => {
+            searcher.addSearchActionToLinks($(".search-link"));
+            searcher.#onSearhComplete();
+        };
+
         this.#sketchnotesArea.loadTemplate("sketchnote.html", data,
             { 
                 isFile: true,
