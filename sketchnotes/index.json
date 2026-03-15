@@ -1404,6 +1404,70 @@
         "tags": ["raspberry-pi", "kubernetes", "docker"]
       },
       {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2019/being-better-than-data-driven-joel-graham.jpg",
+        "date": "2019-03-19",
+        "title": "Being (Better Than) Data Driven",
+        "conference": "Redgate LevelUp",
+        "speakers": ["Joel Graham"],
+        "tags": ["data", "experiments"]
+      },
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2019/kubernetes-docker-ads-and-what-you-can-do-about-it-santiago-arias.jpg",
+        "date": "2019-03-19",
+        "title": "Kubernetes, Docker, ADS And What You Can Do About It",
+        "conference": "Redgate LevelUp",
+        "speakers": ["Santiago Arias"],
+        "tags": ["kubernetes", "docker", "azure-data-studio"]
+      },
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2019/how-containers-will-change-the-way-we-ship-software-alex-tercete-praveen-dhanasekaran.jpg",
+        "date": "2019-03-19",
+        "conference": "Redgate LevelUp",
+        "title": "How Containers Will Change The Way We Ship Software",
+        "speakers": ["Alex Tercete", "Praveen Dhanasekaran"],
+        "tags": ["containers", "docker", "helm"]
+      },
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2019/why-dont-planes-crash-jeff-foster.jpg",
+        "date": "2019-03-19",
+        "conference": "Redgate LevelUp",
+        "title": "Why Don't Planes Crash?",
+        "speakers": ["Jeff Foster"],
+        "tags": ["continuous-improvement", "failure"]
+      },
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2019/the-zero-bug-policy-tom-walsh-chris-hurley.jpg",
+        "date": "2019-03-19",
+        "conference": "Redgate LevelUp",
+        "title": "The Zero Bug Policy",
+        "speakers": ["Tom Walsh", "Chris Hurley"],
+        "tags": ["software-quality", "bug-management"]
+      },
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2019/sales-evolution-at-redgate-sam-spark.jpg",
+        "date": "2019-03-19",
+        "conference": "Redgate LevelUp",
+        "title": "Sales Evolution At Redgate",
+        "speakers": ["Sam Spark"],
+        "tags": ["sales"]
+      },
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2019/keeping-your-options-open-ian-johnson.jpg",
+        "date": "2019-03-19",
+        "conference": "Redgate LevelUp",
+        "title": "Keeping Your Options Open",
+        "speakers": ["Ian Johnson"],
+        "tags": ["options-thinking"]
+      },
+      {
+        "imagePath": "../../../sketchnotes/images/redgate-levelup-2019/youre-going-to-die-an-no-one-is-going-to-give-a-shit-chris-spalton.jpg",
+        "date": "2019-03-19",
+        "conference": "Redgate LevelUp",
+        "title": "You're Going To Die And No-One Is Going To Give A Shit",
+        "speakers": ["Chris Spalton"],
+        "tags": ["self-improvement"]
+      },
+      {
         "postPath": "/ddd-events/sketchnotes/2019/03/03/ddd-north-8.html#io-with-nothing-but-a-laptop",
         "imagePath": "2019/03/io-with-nothing-but-a-laptop-pete-gallagher.jpg",
         "date": "2019-03-02",
