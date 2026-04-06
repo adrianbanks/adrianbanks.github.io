@@ -42,6 +42,7 @@
 
     function doSearch(searchTerm) {
         if (!searchTerm) {
+            showResults([], window.store);
             return;
         }
 
@@ -65,7 +66,7 @@
             }
         });
 
-        const results = idx.search(searchTerm);
+        const results = idx.search(searchTerm + '*');
         showResults(results, window.store);
     }
 
