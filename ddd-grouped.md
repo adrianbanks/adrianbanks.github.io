@@ -37,21 +37,6 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 ## UK-based Events
 
-### DDD Belfast [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddbelfast)
-
-| **Event Name** | **Event Date**   |
-| -------------- | ---------------- |
-| DDD Belfast 1  | 4th April 2009   |
-| DDD Belfast 2  | 1st October 2011 |
-{:.mdtable}
-
-### DDD Dublin
-
-| **Event Name** | **Event Date**   |
-| -------------- | ---------------- |
-| DDD Dublin     | 9th October 2010 |
-{:.mdtable}
-
 ### DDD East Anglia [<i class="fa fa-globe"></i>](https://www.dddeastanglia.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddeastanglia) [<i class="fa fa-brands fa-facebook"></i>](https://www.facebook.com/dddeastanglia)
 
 | **Event Name**       | **Event Date**      |
@@ -71,20 +56,6 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD East Midlands 2019 | 26th October 2019 |
 | DDD East Midlands 2021 | 2nd October 2021  |
 | DDD East Midlands 2023 | 7th October 2023  |
-{:.mdtable}
-
-### DDD Galway
-
-| **Event Name** | **Event Date** |
-| -------------- | -------------- |
-| DDD Galway     | 3rd May 2008   |
-{:.mdtable}
-
-### DDD Netherlands [<i class="fa fa-globe"></i>](https://www.dddnetherlands.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/DDDNetherlands)
-
-| **Event Name**  | **Event Date** |
-| --------------- | ---------------|
-| DDD Netherlands | 18th May 2019  |
 {:.mdtable}
 
 ### DDD North [<i class="fa fa-globe"></i>](https://www.dddnorth.co.uk) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddnorth) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddnorth.bsky.social) [<i class="fa fa-brands fa-facebook"></i>](https://www.facebook.com/DDD-North-254649631214825)
@@ -262,6 +233,35 @@ There have been many Developer! Developer! Developer! events over the years, spr
 ----
 
 ## Rest of World Events
+
+### DDD Belfast [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddbelfast)
+
+| **Event Name** | **Event Date**   |
+| -------------- | ---------------- |
+| DDD Belfast 1  | 4th April 2009   |
+| DDD Belfast 2  | 1st October 2011 |
+{:.mdtable}
+
+### DDD Dublin
+
+| **Event Name** | **Event Date**   |
+| -------------- | ---------------- |
+| DDD Dublin     | 9th October 2010 |
+{:.mdtable}
+
+### DDD Galway
+
+| **Event Name** | **Event Date** |
+| -------------- | -------------- |
+| DDD Galway     | 3rd May 2008   |
+{:.mdtable}
+
+### DDD Netherlands [<i class="fa fa-globe"></i>](https://www.dddnetherlands.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/DDDNetherlands)
+
+| **Event Name**  | **Event Date** |
+| --------------- | ---------------|
+| DDD Netherlands | 18th May 2019  |
+{:.mdtable}
 
 ### DDD Seoul [<i class="fa fa-globe"></i>](https://dddseoul.kr) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddseoul) [<i class="fa fa-linkedin"></i>](https://linkedin.com/company/dddseoul) [<i class="fa fa-brands fa-facebook"></i>](https://facebook.com/dddseoul)
 
