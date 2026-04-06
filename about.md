@@ -23,9 +23,3 @@ I am now a software engineer by trade, working for a software house which produc
 Over the years, I have attended many [training events and conferences](/training.html).
 
 I am a co-organiser of [DDD East Anglia](https://www.dddeastanglia.com), one of [many DDD events](/ddd-grouped.html) that are held around the world. I have also [attended many DDD events](/ddd-attendance.html) over the years.
-
-### Stackoverflow
-
-I have been an active contributor to [Stackoverflow](https://stackoverflow.com) for many years. I find it an invaluable resource for modern software development, but also a useful tool for learning new things.
-
-[![Stackoverflow reputation](http://stackoverflow.com/users/flair/116923.png)](https://stackoverflow.com/users/116923/adrianbanks)
