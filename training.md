@@ -109,16 +109,16 @@ These are the training courses and conferences that I have attended over the yea
 
 Of the conferences above, these are the ones that I have attended as a speaker:
 
-| **Date**            | **Event Name**                   | **Run By**            | **Session Title**                                                 |
-| ------------------- | -------------------------------- | --------------------- | ----------------------------------------------------------------- |
-| 16th May 2026       | DDD South West 14                | [DDD South West][2]   | Sketchnoting 101: Think, learn, and remember through visual notes |
-| 27th September 2023 | Agile Cambridge 2023             | [Software Acumen][10] | [Tracking the unmeasurable with OKRs][34]                         |
-| 21st June 2023      | LevelUp 2023                     | [Redgate][22]         | How to use Slack effectively                                      |
-| 9th June 2022       | LevelUp 2022                     | [Redgate][22]         | How we used AppInsights data to drive product decisions           |
-| 12th November 2021  | PASS Data Community Summit 2021  | [PASS][32]            | How Redgate builds ingeniously simple software                    |
-| 17th November 2020  | LevelUp Remote Week              | [Redgate][22]         | Getting more out of Zoom                                          |
-| 6th March 2018      | LevelUp 2018                     | [Redgate][22]         | How several teams can work on the same product                    |
-| 1st October 2014    | Agile Cambridge 2014             | [Software Acumen][10] | [Can agile work for off-the-shelf software?][31]                  |
+| **Date**            | **Event Name**                   | **Run By**            | **Session Title**                                                       |
+| ------------------- | -------------------------------- | --------------------- | ----------------------------------------------------------------------- |
+| 16th May 2026       | DDD South West 14                | [DDD South West][2]   | [Sketchnoting 101: Think, learn, and remember through visual notes][37] |
+| 27th September 2023 | Agile Cambridge 2023             | [Software Acumen][10] | [Tracking the unmeasurable with OKRs][34]                               |
+| 21st June 2023      | LevelUp 2023                     | [Redgate][22]         | How to use Slack effectively                                            |
+| 9th June 2022       | LevelUp 2022                     | [Redgate][22]         | How we used AppInsights data to drive product decisions                 |
+| 12th November 2021  | PASS Data Community Summit 2021  | [PASS][32]            | How Redgate builds ingeniously simple software                          |
+| 17th November 2020  | LevelUp Remote Week              | [Redgate][22]         | Getting more out of Zoom                                                |
+| 6th March 2018      | LevelUp 2018                     | [Redgate][22]         | How several teams can work on the same product                          |
+| 1st October 2014    | Agile Cambridge 2014             | [Software Acumen][10] | [Can agile work for off-the-shelf software?][31]                        |
 {:.mdtable
 
 Of the conferences above, these are the ones that I have been involved in organising:
@@ -173,3 +173,4 @@ Of the conferences above, these are the ones that I have been involved in organi
  [34]: https://blog.adrianbanks.co.uk/talks/tracking-the-unmeasurable-with-okrs/
  [35]: https://nordevcon.com
  [36]: https://www.withsecure.com
+ [37]: https://blog.adrianbanks.co.uk/talks/sketchnoting-101/
