@@ -170,6 +170,6 @@ Of the conferences above, these are the ones that I have been involved in organi
  [31]: https://www.infoq.com/presentations/agile-off-the-shelf/
  [32]: https://passdatacommunitysummit.com
  [33]: https://orcro.co.uk
- [34]: https://blog.adrianbanks.co.uk/agile-cambridge
+ [34]: https://blog.adrianbanks.co.uk/talks/tracking-the-unmeasurable-with-okrs/
  [35]: https://nordevcon.com
  [36]: https://www.withsecure.com
