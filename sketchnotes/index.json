@@ -2,6 +2,60 @@
     "rootPath": "../assets/media/images/",
     "sketchnotes": [
       {
+        "postPath": "/ddd-events/sketchnotes/2026/05/17/ddd-south-west-14.html#why-dont-people-seem-to-be-able-to-diagnose-problems-these-days",
+        "imagePath": "2026/05/why-dont-people-seem-to-be-able-to-diagnose-problems-these-days-richard-fennell.jpg",
+        "date": "2026-05-16",
+        "conference": "DDD South West",
+        "title": "Why Don't People Seem To Be Able To Diagnose Problems These Days?",
+        "speakers": ["Richard Fennell"],
+        "tags": ["problem-solving", "software-quality"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2026/05/17/ddd-south-west-14.html#do-we-really-need-a-new-playbook-for-ai",
+        "imagePath": "2026/05/do-we-really-need-a-new-playbook-for-ai-stuart-caborn.jpg",
+        "date": "2026-05-16",
+        "conference": "DDD South West",
+        "title": "Do We Really Need A New Playbook For AI?",
+        "speakers": ["Stuart Caborn"],
+        "tags": ["ai", "metrics", "software-quality"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2026/05/17/ddd-south-west-14.html#from-developer-to-architect-the-career-path-nobody-explained",
+        "imagePath": "2026/05/from-developer-to-architect-the-career-path-nobody-explained-john-kilmister.jpg",
+        "date": "2026-05-16",
+        "conference": "DDD South West",
+        "title": "From Developer To Architect, The Career Path Nobody Explained",
+        "speakers": ["John Kilmister"],
+        "tags": ["career", "software-architect"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2026/05/17/ddd-south-west-14.html#playing-with-ai-locally",
+        "imagePath": "2026/05/playing-with-ai-locally-paul-michaels.jpg",
+        "date": "2026-05-16",
+        "conference": "DDD South West",
+        "title": "Playing With AI Locally",
+        "speakers": ["Paul Michaels"],
+        "tags": ["ai", "local-ai", "lm-studio"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2026/05/17/ddd-south-west-14.html#using-claude-to-access-data-and-make-smarter-decisions",
+        "imagePath": "2026/05/using-claude-to-access-data-and-make-smarter-decisions-elizabeth-hanson.jpg",
+        "date": "2026-05-16",
+        "conference": "DDD South West",
+        "title": "Using Claude To Access Data And Make Smarter Decisions",
+        "speakers": ["Elizabeth Hanson"],
+        "tags": ["data-analysis", "claude"]
+      },
+      {
+        "postPath": "/ddd-events/sketchnotes/2026/05/17/ddd-south-west-14.html#2026-the-year-of-the-software-factory",
+        "imagePath": "2026/05/2026-the-year-of-the-software-factory-rich-woollcott.jpg",
+        "date": "2026-05-16",
+        "conference": "DDD South West",
+        "title": "2026: The Year Of The Software Factory",
+        "speakers": ["Rich Woollcott"],
+        "tags": ["software-factory", "ai", "ai-agents"]
+      },
+      {
         "postPath": "/nordevcon/sketchnotes/2026/02/28/nordevcon-2026.html#how-we-support-deploying-multi-cloud-apps-at-stack-overflow",
         "imagePath": "2026/02/how-we-support-deploying-multi-cloud-apps-at-stack-overflow-chris-odell.jpg",
         "date": "2026-02-27",
