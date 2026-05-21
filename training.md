@@ -7,6 +7,7 @@ These are the training courses and conferences that I have attended over the yea
 
 | **Date**            | **Event Name**                                     | **Run By**                                               | **Event Type**           |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------- | ------------------------ |
+| 15th July 2026      | LevelUp 2026                                       | [Redgate][22]                                            | Conference               |
 | 16th May 2026       | DDD South West 14                                  | [DDD South West][2]                                      | Conference               |
 | 26th February 2026  | NorDevCon 2026                                     | [Norfolk Developers][35]                                 | Conference (2 days)      |
 | 28th January 2026   | NDC London 2026                                    | [NDC][9]                                                 | Conference (3 days)      |
@@ -126,6 +127,7 @@ Of the conferences above, these are the ones that I have been involved in organi
 
 | **Date**            | **Event Name**       |
 | ------------------- | -------------------- |
+| 15th July 2026      | LevelUp 2026         |
 | 19th June 2024      | LevelUp 2024         |
 | 21st June 2023      | LevelUp 2023         |
 | 21st September 2019 | DDD East Anglia 2019 |
