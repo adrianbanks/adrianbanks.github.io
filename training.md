@@ -112,6 +112,7 @@ Of the conferences above, these are the ones that I have attended as a speaker:
 
 | **Date**            | **Event Name**                   | **Run By**            | **Session Title**                                                       |
 | ------------------- | -------------------------------- | --------------------- | ----------------------------------------------------------------------- |
+| 15th July 2026      | LevelUp 2026                     | [Redgate][22]         | [Sketchnoting 101: Think, learn, and remember through visual notes][37] |
 | 16th May 2026       | DDD South West 14                | [DDD South West][2]   | [Sketchnoting 101: Think, learn, and remember through visual notes][37] |
 | 27th September 2023 | Agile Cambridge 2023             | [Software Acumen][10] | [Tracking the unmeasurable with OKRs][34]                               |
 | 21st June 2023      | LevelUp 2023                     | [Redgate][22]         | How to use Slack effectively                                            |
