@@ -23,6 +23,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 - [DDD Melbourne](#ddd-melbourne--)
 - [DDD Netherlands](#ddd-netherlands--)
 - [DDD North](#ddd-north----)
+- [DDD Outback](#ddd-outback----)
 - [DDD Perth](#ddd-perth--)
 - [DDD Reading](#ddd-reading--)
 - [DDD Scotland](#ddd-scotland--)
@@ -203,6 +204,15 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Melbourne 13 | 21st February 2026  |
 | DDD Melbourne 14 | 20th February 2027  |
 {:.mdtable}
+
+### DDD Outback [<i class="fa fa-globe"></i>](https://dddoutback.com)
+
+| **Event Name**   | **Event Date**      |
+| ---------------- | ------------------- |
+| DDD Outback 1    | 16th August 2025    |
+| DDD Outback 2    | 8th August 2026     |
+{:.mdtable}
+
 
 ### DDD Perth [<i class="fa fa-globe"></i>](https://www.dddperth.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddperth) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddperth.bsky.social)
 
