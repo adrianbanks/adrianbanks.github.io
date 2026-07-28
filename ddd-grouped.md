@@ -161,6 +161,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Adelaide 3 | 18th November 2023 |
 | DDD Adelaide 4 | 23rd November 2024 |
 | DDD Adelaide 5 | 22nd November 2025 |
+| DDD Adelaide 6 | 21st November 2026 |
 {:.mdtable}
 
 ### DDD Brisbane [<i class="fa fa-globe"></i>](https://www.dddbrisbane.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddbrisbane) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddbrisbane.bsky.social)
@@ -180,6 +181,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Brisbane 11 | 2nd December 2023  |
 | DDD Brisbane 12 | 7th December 2024  |
 | DDD Brisbane 13 | 6th December 2025  |
+| DDD Brisbane 14 | 5th December 2026  |
 {:.mdtable}
 
 ### DDD Melbourne [<i class="fa fa-globe"></i>](https://www.dddmelbourne.com) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddmelb) [<i class="fa fa-brands fa-bluesky"></i>](https://bsky.app/profile/dddmelbourne.bsky.social)
@@ -216,6 +218,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | DDD Perth 8    | 7th October 2023    |
 | DDD Perth 9    | 16th November 2024  |
 | DDD Perth 10   | 20th September 2025 |
+| DDD Perth 11   | 3rd October 2026    |
 {:.mdtable}
 
 ### DDD Sydney [<i class="fa fa-globe"></i>](https://next.dddsydney.com.au) [<i class="fa fa-brands fa-x-twitter"></i>](https://x.com/dddsydney)
