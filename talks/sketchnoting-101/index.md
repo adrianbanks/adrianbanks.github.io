@@ -83,8 +83,11 @@ The books mentioned in the talk are:
 
 ### Research
 
-A 2015 paper entitled ["The drawing effect: Evidence for reliable and robust memory benefits in free recall"](https://www.researchgate.net/publication/282658904_The_Drawing_Effect_Evidence_for_Reliable_and_Robust_Memory_Benefits_in_Free_Recall) by Jeffrey D. Wammes, Melissa E. Meade, and Myra A. Fernandes looks into the link between drawing and memory performance.
+There are a few research papers realting to the benefit of sketchnoting on learning and memory performance:
 
+- ["The drawing effect: Evidence for reliable and robust memory benefits in free recall"](https://www.researchgate.net/publication/282658904_The_Drawing_Effect_Evidence_for_Reliable_and_Robust_Memory_Benefits_in_Free_Recall) by Jeffrey D. Wammes, Melissa E. Meade, and Myra A. Fernandes
+- ["The influence of writing practice on letter recognition in preschool children: A comparison between handwriting and typing"](https://www.researchgate.net/publication/7914118_The_influence_of_writing_practice_on_letter_recognition_in_preschool_children_A_comparison_between_handwriting_and_typing) by Marieke Longcamp, Marie-Thérèse Zerbato-Poudou and Jean-luc Velay
+- ["Handwriting but not typewriting leads to widespread brain connectivity: a high-density EEG study with implications for the classroom"](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full) by F. R. (Ruud) Van der Weel and Audrey L. H. Van der Meer
 
 ### Other links
 
