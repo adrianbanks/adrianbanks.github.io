@@ -283,6 +283,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 | -------------- | ------------------- |
 | DDD Seoul 1    | 8th December 2024   |
 | DDD Seoul 2    | 5th December 2025   |
+| DDD Seoul 3    | 4th December 2026   |
 {:.mdtable}
 
 ----
