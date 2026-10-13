@@ -26,26 +26,27 @@ Any pens will do, both for the main text/images and for the colours. However, bu
 
 Pigment markers are a very good pen to do the writing and drawing with. There are many brands, but the ones I use are:
 
-- Staedtler pigment liner
-- Faber Castell fineliner
-- UniPin fine line
-- Pigma micron fineliner
+- [Staedtler pigment liner](https://www.staedtler.com/uk/en/products/products-for-colouring/fineliners/pigment-liner-308-fineliner-m308/)
+- [Faber Castell fineliner](https://www.faber-castell.co.uk/products/PittArtistPenFinelinerXSIndiainkpenblack/167099)
+- [UniPin fine line](https://uniball.co.uk/brands/pin/uni-pin-01-line-drawing-pen/)
+- [Sakura pigma micron fineliner](https://www.royaltalens.com/collections/sakura-fineliners)
 
 For adding colour, alcohol-based markers are my go-to. Again there are many brands, but the ones I use are:
 
-- Windsor & Newton ProMarker
-- Copic Caio
+- [Windsor & Newton ProMarker](https://uk.winsornewton.com/collections/promarker)
+- [Copic Caio](https://www.copic-shop.co.uk/copic-ciao-individual-markers)
+- [Ohuhu Honolulu](https://uk.ohuhu.com/collections/alcohol-based-markers)
 
 
 ### Paper
 
-I tend to use plain paper Moleskin notebooks, as they are hard-back and contain lots of pages. They can be quite pricey though.
-A cheaper alternative I've also used is an A5 notebook from Flying Tiger, which is surprisingly good for its price.
+I tend to use plain paper [Moleskine](https://www.moleskine.com) notebooks, as they are hard-back and contain lots of pages. They can be quite pricey though.
+A cheaper alternative I've also used is an [A5 notebook](https://flyingtiger.com/en-gb/products/sketchpad-with-blank-pages-a5-1450091) from [Flying Tiger](https://flyingtiger.com), which is surprisingly good for its price.
 
 
 ### Digital
 
-An iPad is the obvious choice for this, coupled with a sketching app. ProCreate is probably the best drawing app, and well worth the small cost.
+An iPad is the obvious choice for this, coupled with a sketching app. [ProCreate](https://procreate.com) is probably the best drawing app, and well worth the small cost.
 There are many others, some of which are free.
 
 I'm very tempted to try a colour [reMarkable Paper Pro](https://remarkable.com/products/remarkable-paper/pro), as I've tried the cheaper black and white version and it is very nice to write on.
@@ -66,7 +67,7 @@ There are many people who do sketchnoting or similar. Here are some of the peopl
 
 ### Videos
 
-The Royal Society of the Arts has a series called [RSA Animate](https://www.thersa.org/video-types/animates/) that produces some really great videos wrapped around books.
+[The Royal Society of the Arts](https://www.thersa.org) has a series called [RSA Animate](https://www.thersa.org/video-types/animates/) that produces some really great videos wrapped around books.
 One of my [favourites](https://www.youtube.com/watch?v=u6XAPnuFjJc) is about the book [Drive](https://www.danpink.com/books/drive/) by Dan Pink.
 
 There are several places that produce "animated sketchnotes". Another [good one](https://www.youtube.com/watch?v=HYXH2XUfhfo) is about the book [Turn the Ship Around](https://davidmarquet.com/books/turn-the-ship-around-book/) by L. David Marquet.
@@ -76,14 +77,14 @@ There are several places that produce "animated sketchnotes". Another [good one]
 
 The books mentioned in the talk are:
 
-- The Sketchnote Handbook by Mike Rohde
-- The Doodle Revolution by Sunni Brown
-- Creative Lettering by Jenny Doh
+- [The Sketchnote Handbook](https://rohdesign.com/handbook) by Mike Rohde
+- [The Doodle Revolution](https://www.sunnibrown.com/books) by Sunni Brown
+- [Creative Lettering](https://amzn.eu/d/07ZwG3Ze) by Jenny Doh
 
 
 ### Research
 
-There are a few research papers realting to the benefit of sketchnoting on learning and memory performance:
+There are a few research papers relating to the benefit of sketchnoting on learning and memory performance:
 
 - ["The drawing effect: Evidence for reliable and robust memory benefits in free recall"](https://www.researchgate.net/publication/282658904_The_Drawing_Effect_Evidence_for_Reliable_and_Robust_Memory_Benefits_in_Free_Recall) by Jeffrey D. Wammes, Melissa E. Meade, and Myra A. Fernandes
 - ["The influence of writing practice on letter recognition in preschool children: A comparison between handwriting and typing"](https://www.researchgate.net/publication/7914118_The_influence_of_writing_practice_on_letter_recognition_in_preschool_children_A_comparison_between_handwriting_and_typing) by Marieke Longcamp, Marie-Thérèse Zerbato-Poudou and Jean-luc Velay
@@ -92,7 +93,7 @@ There are a few research papers realting to the benefit of sketchnoting on learn
 ### Other links
 
 - [Inktober](https://inktober.com)
-- [Bikablo](https://bikablo.com/en/home-page/), and more specificaly their [books and learning tools](https://bikablo.com/en/tools/) (also available at [Neuland](https://www.neuland.com/en/collections/bikablo)).
+- [Bikablo](https://bikablo.com/en/home-page/), and more specifically their [books and learning tools](https://bikablo.com/en/tools/) (also available at [Neuland](https://www.neuland.com/en/collections/bikablo)).
 - [FontAwesome](https://fontawesome.com)
 - [The Noun Project](https://thenounproject.com)
 
