@@ -15,6 +15,7 @@ There have been many Developer! Developer! Developer! events over the years, spr
 
 | **Event Name**             | **Event Date**      |
 | -------------------------- | ------------------- |
+|  DDD South West 15         | 24th April 2027     |
 |  DDD Melbourne 14          | 20th February 2027  |
 |  DDD Brisbane 14           | 5th December 2026   |
 |  DDD Seoul 3               | 4th December 2026   |
